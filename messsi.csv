@@ -1,0 +1,1501 @@
+﻿Categoria de Producto Visaulizado;Ciudad;Compra_Completada;Descuento_Aplicado;Tipo_de_Dispositivo;Sistema_Operativo_Dispositivo;País;Miembro_Lealtad;Método_de_Pago;ID_Usuario;Género;Fuente_Referencia;Duración de la sesión en minutos;Edad;Estimado Días de Entrega;Hora_Compra;Porcentaje_Descuento;Productos_Visualizados;Rango_Precio_Producto;Reseñas enviadas por el usuario.;Cantidad_Gastada
+Ropa;Berlín;No;No;Móvil;Linux;Germany;No;Criptomoneda;U0207;Masculino;Google;68;34;14;16;24;44;44444;8;0
+Ropa;Berlín;No;No;Móvil;Linux;Germany;No;Tarjeta de Regalo;U0395;Femenino;Redes Sociales;133;24;8;4;0;33;20166;0;0
+Ropa;Berlín;No;No;Tableta;MacOS;Germany;No;Criptomoneda;U0180;Masculino;Otro;62;56;19;15;12;48;15422;7;0
+Ropa;Berlín;No;Sí;Móvil;MacOS;Germany;Sí;Criptomoneda;U0671;Masculino;Google;119;23;29;19;17;11;19212;8;35678
+Ropa;Berlín;No;Sí;Móvil;Windows;Germany;No;Criptomoneda;U1108;Otro;Otro;48;54;19;15;0;8;33372;4;90215
+Ropa;Berlín;No;Sí;Tableta;Android;Germany;No;PayPal;U1368;Femenino;Google;122;28;26;23;0;44;49782;8;67372
+Ropa;Berlín;No;Sí;Tableta;Windows;Germany;No;Tarjeta de Crédito;U1188;Masculino;Correo Electrónico;105;43;7;4;48;39;29596;5;0
+Ropa;Berlín;Sí;No;Escritorio;iOS;Germany;Sí;Criptomoneda;U0799;Masculino;Correo Electrónico;92;64;17;5;0;10;42514;10;0
+Ropa;Berlín;Sí;No;Móvil;Linux;Germany;Sí;Tarjeta de Crédito;U0763;Otro;Google;136;55;4;2;0;30;10236;10;0
+Ropa;Berlín;Sí;No;Tableta;Linux;Germany;No;PayPal;U0267;Otro;Google;27;43;3;4;0;26;42555;7;86837
+Ropa;Berlín;Sí;Sí;Escritorio;iOS;Germany;Sí;PayPal;U1071;Otro;Google;176;57;22;10;1;29;34434;7;2127
+Ropa;Berlín;Sí;Sí;Tableta;Windows;Germany;Sí;Tarjeta de Regalo;U0304;Masculino;Google;96;33;30;0;0;18;3747;2;0
+Ropa;Brasilia;No;No;Escritorio;MacOS;Brazil;Sí;Tarjeta de Regalo;U0501;Otro;Google;46;21;21;1;0;4;1083;0;0
+Ropa;Brasilia;No;No;Tableta;Android;Brazil;No;Tarjeta de Crédito;U0075;Masculino;Directo;74;48;8;6;18;23;44398;1;0
+Ropa;Brasilia;No;No;Tableta;MacOS;Brazil;Sí;PayPal;U0614;Femenino;Google;44;64;30;10;45;45;2155;4;55724
+Ropa;Brasilia;No;Sí;Escritorio;iOS;Brazil;No;Tarjeta de Regalo;U0676;Masculino;Redes Sociales;160;64;15;22;0;15;12823;8;43653
+Ropa;Brasilia;No;Sí;Escritorio;MacOS;Brazil;No;PayPal;U0646;Masculino;Google;165;48;14;7;40;36;3693;0;23284
+Ropa;Brasilia;No;Sí;Escritorio;MacOS;Brazil;No;PayPal;U1043;Masculino;Correo Electrónico;7;26;5;7;0;3;1475;8;98604
+Ropa;Brasilia;No;Sí;Escritorio;MacOS;Brazil;Sí;Tarjeta de Regalo;U0993;Masculino;Redes Sociales;40;62;16;6;33;1;4427;6;64844
+Ropa;Brasilia;No;Sí;Escritorio;Windows;Brazil;No;Tarjeta de Regalo;U1352;Masculino;Otro;23;57;10;23;10;30;6315;6;0
+Ropa;Brasilia;No;Sí;Escritorio;Windows;Brazil;Sí;PayPal;U0748;Masculino;Redes Sociales;28;44;23;8;50;7;41126;5;13317
+Ropa;Brasilia;No;Sí;Móvil;Android;Brazil;Sí;Tarjeta de Regalo;U1162;Otro;Redes Sociales;94;64;9;9;0;10;30879;8;89632
+Ropa;Brasilia;No;Sí;Móvil;MacOS;Brazil;Sí;Tarjeta de Crédito;U1243;Masculino;Correo Electrónico;106;49;22;4;0;44;39361;9;40651
+Ropa;Brasilia;Sí;No;Móvil;Linux;Brazil;Sí;Criptomoneda;U0439;Otro;Directo;4;36;7;17;0;12;35214;3;4307
+Ropa;Brasilia;Sí;No;Móvil;MacOS;Brazil;No;Tarjeta de Regalo;U0976;Femenino;Google;11;41;26;19;0;11;3677;8;0
+Ropa;Brasilia;Sí;No;Móvil;Windows;Brazil;No;Criptomoneda;U1234;Femenino;Correo Electrónico;79;45;25;23;34;18;37346;6;0
+Ropa;Brasilia;Sí;No;Móvil;Windows;Brazil;No;Tarjeta de Regalo;U0932;Otro;Directo;96;42;30;9;15;18;2646;4;0
+Ropa;Brasilia;Sí;Sí;Escritorio;Android;Brazil;Sí;Criptomoneda;U1477;Otro;Google;82;29;21;10;0;33;13795;6;0
+Ropa;Brasilia;Sí;Sí;Tableta;MacOS;Brazil;No;Tarjeta de Regalo;U1033;Otro;Otro;49;32;20;7;47;38;12064;1;0
+Ropa;Brasilia;Sí;Sí;Tableta;Windows;Brazil;No;PayPal;U0774;Otro;Directo;111;26;24;23;47;38;42041;0;7051
+Ropa;Brasilia;Sí;Sí;Tableta;Windows;Brazil;No;Tarjeta de Regalo;U0005;Otro;Google;103;25;20;18;7;49;10469;6;0
+Ropa;Chicago;No;No;Escritorio;MacOS;USA;No;Criptomoneda;U1026;Masculino;Otro;35;37;11;18;1;10;6338;10;37421
+Ropa;Chicago;No;Sí;Escritorio;MacOS;USA;No;Tarjeta de Regalo;U0955;Femenino;Otro;52;62;1;2;30;26;9196;10;13771
+Ropa;Chicago;No;Sí;Escritorio;MacOS;USA;Sí;Tarjeta de Regalo;U0300;Otro;Otro;73;63;24;21;33;2;8544;10;0
+Ropa;Chicago;No;Sí;Móvil;Linux;USA;Sí;Tarjeta de Crédito;U0175;Masculino;Otro;45;37;23;3;33;11;48214;5;43517
+Ropa;Chicago;No;Sí;Tableta;Windows;USA;No;Criptomoneda;U1372;Otro;Google;38;59;26;23;0;2;15099;10;0
+Ropa;Chicago;Sí;No;Escritorio;Android;USA;Sí;PayPal;U0060;Femenino;Redes Sociales;18;53;29;14;14;24;26157;6;23297
+Ropa;Chicago;Sí;No;Escritorio;Windows;USA;No;Tarjeta de Crédito;U0218;Otro;Redes Sociales;159;61;25;5;7;21;3787;9;0
+Ropa;Chicago;Sí;No;Escritorio;Windows;USA;Sí;Criptomoneda;U0245;Otro;Directo;71;20;1;6;23;33;20116;8;56782
+Ropa;Chicago;Sí;No;Móvil;iOS;USA;Sí;Tarjeta de Crédito;U0964;Masculino;Correo Electrónico;13;21;7;15;0;15;31773;5;7562
+Ropa;Chicago;Sí;No;Móvil;Linux;USA;Sí;Tarjeta de Crédito;U0171;Femenino;Directo;16;45;29;6;25;12;19619;7;40096
+Ropa;Chicago;Sí;Sí;Escritorio;iOS;USA;No;Tarjeta de Crédito;U1216;Masculino;Redes Sociales;161;41;4;15;0;35;1944;6;0
+Ropa;Chicago;Sí;Sí;Móvil;Android;USA;Sí;PayPal;U0896;Femenino;Directo;117;31;19;19;0;39;14064;9;0
+Ropa;Chicago;Sí;Sí;Tableta;Android;USA;Sí;Tarjeta de Crédito;U1137;Femenino;Redes Sociales;105;53;15;5;33;37;29726;5;0
+Ropa;Chicago;Sí;Sí;Tableta;Windows;USA;No;Tarjeta de Crédito;U0640;Femenino;Directo;172;24;16;22;6;5;45774;1;0
+Ropa;Ciudad de MÇ¸xico;No;No;Móvil;Linux;Mexico;Sí;Tarjeta de Crédito;U1186;Otro;Correo Electrónico;16;54;10;5;30;18;43741;4;0
+Ropa;Ciudad de MÇ¸xico;No;Sí;Móvil;Linux;Mexico;Sí;Tarjeta de Regalo;U0561;Masculino;Directo;1;49;30;3;0;40;33635;1;0
+Ropa;Ciudad de MÇ¸xico;Sí;No;Escritorio;Android;Mexico;Sí;PayPal;U1471;Femenino;Redes Sociales;17;33;15;15;0;50;45046;7;49798
+Ropa;Ciudad de MÇ¸xico;Sí;No;Móvil;Android;Mexico;Sí;Criptomoneda;U1158;Otro;Directo;130;57;9;6;0;26;20936;6;0
+Ropa;Ciudad de MÇ¸xico;Sí;No;Móvil;Windows;Mexico;No;Tarjeta de Crédito;U1256;Femenino;Correo Electrónico;175;19;13;19;37;49;42696;8;2775
+Ropa;Edimburgo;No;No;Escritorio;Linux;UK;No;Tarjeta de Regalo;U1418;Otro;Otro;155;41;3;2;16;47;16306;5;0
+Ropa;Edimburgo;No;No;Tableta;iOS;UK;No;PayPal;U1463;Femenino;Redes Sociales;74;41;10;18;0;13;41497;3;84934
+Ropa;Edimburgo;No;Sí;Escritorio;Android;UK;Sí;Tarjeta de Crédito;U0317;Femenino;Redes Sociales;159;34;12;16;0;23;41344;3;0
+Ropa;Edimburgo;No;Sí;Escritorio;MacOS;UK;Sí;Tarjeta de Crédito;U0404;Femenino;Correo Electrónico;72;29;28;0;0;15;27372;2;0
+Ropa;Edimburgo;No;Sí;Móvil;Android;UK;Sí;PayPal;U0491;Masculino;Google;153;22;14;2;19;36;36669;8;0
+Ropa;Edimburgo;No;Sí;Móvil;iOS;UK;No;Tarjeta de Crédito;U1296;Femenino;Google;57;49;28;7;39;9;47982;10;65426
+Ropa;Edimburgo;No;Sí;Tableta;Linux;UK;Sí;Tarjeta de Crédito;U0209;Masculino;Redes Sociales;34;19;18;4;48;6;4573;4;0
+Ropa;Edimburgo;Sí;No;Escritorio;Linux;UK;Sí;Criptomoneda;U1357;Femenino;Google;44;26;22;5;0;46;22357;7;40251
+Ropa;Edimburgo;Sí;No;Móvil;Android;UK;Sí;PayPal;U1099;Femenino;Directo;42;46;23;20;0;27;16176;0;0
+Ropa;Edimburgo;Sí;Sí;Móvil;iOS;UK;Sí;Tarjeta de Crédito;U0375;Masculino;Correo Electrónico;98;40;26;18;0;28;2399;10;0
+Ropa;Edimburgo;Sí;Sí;Móvil;Windows;UK;No;Criptomoneda;U0670;Masculino;Directo;179;55;12;14;41;24;14486;2;0
+Ropa;Edimburgo;Sí;Sí;Tableta;Android;UK;Sí;Tarjeta de Regalo;U0128;Masculino;Directo;17;39;9;11;0;21;44807;0;0
+Ropa;Guadalajara;No;No;Escritorio;Windows;Mexico;Sí;Tarjeta de Crédito;U0678;Femenino;Google;53;33;8;0;34;9;17044;3;0
+Ropa;Guadalajara;No;No;Móvil;Linux;Mexico;No;Tarjeta de Crédito;U0273;Femenino;Google;30;22;16;2;5;25;45095;2;60829
+Ropa;Guadalajara;No;No;Móvil;Linux;Mexico;No;Tarjeta de Regalo;U0223;Masculino;Directo;83;21;19;5;13;28;47471;8;19486
+Ropa;Guadalajara;No;No;Móvil;MacOS;Mexico;Sí;PayPal;U1426;Femenino;Otro;15;52;16;7;0;15;826;0;22015
+Ropa;Guadalajara;No;No;Tableta;Android;Mexico;Sí;PayPal;U0104;Femenino;Directo;144;28;2;9;0;19;18766;4;52366
+Ropa;Guadalajara;No;Sí;Escritorio;Linux;Mexico;Sí;PayPal;U0846;Femenino;Redes Sociales;103;28;12;7;0;43;45112;8;0
+Ropa;Guadalajara;No;Sí;Móvil;Linux;Mexico;No;PayPal;U0913;Femenino;Redes Sociales;151;62;4;6;19;8;2466;3;0
+Ropa;Guadalajara;No;Sí;Móvil;MacOS;Mexico;No;Tarjeta de Crédito;U0057;Otro;Directo;76;52;21;15;10;33;44566;7;0
+Ropa;Guadalajara;Sí;No;Escritorio;MacOS;Mexico;No;PayPal;U0567;Otro;Google;4;30;9;15;0;33;25268;6;44717
+Ropa;Guadalajara;Sí;No;Tableta;iOS;Mexico;No;PayPal;U0132;Otro;Otro;8;52;26;12;39;42;47398;0;19777
+Ropa;Guadalajara;Sí;Sí;Móvil;iOS;Mexico;No;Criptomoneda;U0422;Otro;Directo;129;25;6;8;45;3;39455;4;0
+Ropa;Guadalajara;Sí;Sí;Móvil;iOS;Mexico;No;Tarjeta de Regalo;U0778;Otro;Correo Electrónico;114;30;21;3;0;15;27008;1;0
+Ropa;Guadalajara;Sí;Sí;Móvil;Windows;Mexico;Sí;Criptomoneda;U0047;Otro;Google;133;26;15;16;28;26;13608;5;0
+Ropa;Hamburgo;No;No;Escritorio;MacOS;Germany;No;Tarjeta de Crédito;U1172;Otro;Correo Electrónico;113;25;7;2;24;16;30769;5;0
+Ropa;Hamburgo;No;No;Móvil;Linux;Germany;No;Tarjeta de Crédito;U1309;Femenino;Correo Electrónico;16;24;14;12;0;50;1086;10;0
+Ropa;Hamburgo;No;Sí;Escritorio;Android;Germany;No;Tarjeta de Regalo;U1163;Otro;Google;93;57;28;3;11;35;3978;10;27826
+Ropa;Hamburgo;No;Sí;Escritorio;Windows;Germany;No;Criptomoneda;U0580;Femenino;Directo;78;53;10;1;0;7;37591;8;0
+Ropa;Hamburgo;No;Sí;Móvil;Android;Germany;No;Tarjeta de Regalo;U0911;Otro;Google;144;60;8;22;0;49;1324;4;0
+Ropa;Hamburgo;No;Sí;Tableta;iOS;Germany;Sí;Criptomoneda;U0433;Femenino;Google;163;52;19;3;0;45;13343;3;3563
+Ropa;Hamburgo;Sí;No;Escritorio;iOS;Germany;No;Tarjeta de Crédito;U1312;Femenino;Directo;54;38;5;21;0;39;25731;3;0
+Ropa;Hamburgo;Sí;No;Escritorio;MacOS;Germany;Sí;Tarjeta de Crédito;U0190;Otro;Google;38;44;24;21;0;22;27472;2;43073
+Ropa;Hamburgo;Sí;No;Móvil;iOS;Germany;Sí;PayPal;U1160;Masculino;Correo Electrónico;89;42;23;21;0;1;12965;4;0
+Ropa;Hamburgo;Sí;No;Tableta;Android;Germany;Sí;Tarjeta de Crédito;U1498;Femenino;Directo;131;65;2;15;22;29;37145;5;87343
+Ropa;Hamburgo;Sí;No;Tableta;Windows;Germany;No;Tarjeta de Regalo;U0944;Masculino;Correo Electrónico;4;64;26;1;0;16;48997;10;0
+Ropa;Hamburgo;Sí;Sí;Escritorio;Linux;Germany;No;Criptomoneda;U0029;Masculino;Redes Sociales;146;42;26;4;12;6;24359;1;82202
+Ropa;Hamburgo;Sí;Sí;Escritorio;Windows;Germany;No;Criptomoneda;U0348;Masculino;Otro;96;63;28;16;0;37;17313;6;27032
+Ropa;Hamburgo;Sí;Sí;Móvil;MacOS;Germany;Sí;PayPal;U1127;Masculino;Redes Sociales;79;25;29;19;16;25;44941;6;0
+Ropa;Hamburgo;Sí;Sí;Tableta;Windows;Germany;No;Tarjeta de Crédito;U0306;Otro;Otro;20;53;18;18;3;37;28834;0;0
+Ropa;Londres;No;No;Tableta;iOS;UK;No;Tarjeta de Crédito;U1465;Masculino;Redes Sociales;145;25;15;22;13;33;44922;1;25743
+Ropa;Londres;No;No;Tableta;Linux;UK;Sí;Tarjeta de Crédito;U1098;Masculino;Google;75;64;4;3;0;9;19201;0;13259
+Ropa;Londres;No;No;Tableta;MacOS;UK;No;Tarjeta de Crédito;U0752;Masculino;Otro;92;58;8;19;15;5;6364;1;0
+Ropa;Londres;No;Sí;Escritorio;Linux;UK;Sí;PayPal;U0470;Femenino;Google;38;46;21;11;6;31;46034;6;85105
+Ropa;Londres;No;Sí;Móvil;Windows;UK;No;Criptomoneda;U0733;Otro;Directo;154;19;13;3;0;12;5205;10;0
+Ropa;Londres;No;Sí;Tableta;Windows;UK;No;Criptomoneda;U0112;Masculino;Redes Sociales;132;56;3;8;15;5;19467;5;3332
+Ropa;Londres;Sí;No;Escritorio;iOS;UK;Sí;PayPal;U1393;Otro;Correo Electrónico;43;62;9;8;0;6;947;2;0
+Ropa;Londres;Sí;No;Escritorio;Linux;UK;No;PayPal;U0021;Otro;Google;122;47;9;16;43;25;3759;7;0
+Ropa;Londres;Sí;No;Escritorio;Linux;UK;Sí;PayPal;U0158;Masculino;Redes Sociales;21;32;11;19;0;22;16373;1;0
+Ropa;Londres;Sí;No;Móvil;iOS;UK;Sí;Tarjeta de Regalo;U1113;Otro;Directo;116;19;27;1;47;7;8304;0;38686
+Ropa;Londres;Sí;No;Tableta;Android;UK;No;Tarjeta de Crédito;U1300;Masculino;Directo;125;21;20;17;0;25;29692;5;76481
+Ropa;Londres;Sí;No;Tableta;iOS;UK;No;Tarjeta de Regalo;U0183;Otro;Otro;22;44;5;13;0;29;30498;3;0
+Ropa;Londres;Sí;No;Tableta;Linux;UK;No;Tarjeta de Regalo;U0454;Femenino;Correo Electrónico;115;65;15;12;0;39;47311;5;0
+Ropa;Londres;Sí;Sí;Escritorio;Android;UK;No;PayPal;U1147;Otro;Otro;121;55;20;10;0;45;20882;5;0
+Ropa;Londres;Sí;Sí;Escritorio;Android;UK;Sí;Tarjeta de Crédito;U1406;Femenino;Otro;149;43;7;9;0;21;14391;3;67785
+Ropa;Londres;Sí;Sí;Móvil;MacOS;UK;Sí;Tarjeta de Regalo;U0917;Masculino;Otro;129;32;27;21;43;22;11451;2;0
+Ropa;Los Ángeles;No;No;Escritorio;Android;USA;No;Criptomoneda;U0509;Masculino;Google;54;37;20;14;12;28;33678;7;21171
+Ropa;Los Ángeles;No;No;Escritorio;Android;USA;No;Tarjeta de Regalo;U0608;Masculino;Redes Sociales;127;52;11;20;9;25;2933;2;10077
+Ropa;Los Ángeles;No;No;Escritorio;Linux;USA;No;PayPal;U0904;Femenino;Correo Electrónico;35;43;7;2;0;6;36153;3;53537
+Ropa;Los Ángeles;No;No;Móvil;iOS;USA;Sí;Criptomoneda;U0532;Masculino;Directo;78;40;26;16;0;34;45108;1;21229
+Ropa;Los Ángeles;No;No;Tableta;MacOS;USA;No;Tarjeta de Crédito;U0714;Femenino;Otro;60;58;18;22;8;7;11543;8;64614
+Ropa;Los Ángeles;No;Sí;Escritorio;MacOS;USA;No;Criptomoneda;U0227;Masculino;Directo;116;41;12;11;0;42;35292;6;0
+Ropa;Los Ángeles;No;Sí;Escritorio;Windows;USA;Sí;Criptomoneda;U1030;Otro;Correo Electrónico;100;34;7;8;19;21;6783;3;0
+Ropa;Los Ángeles;Sí;No;Escritorio;Android;USA;Sí;Tarjeta de Crédito;U0446;Otro;Redes Sociales;86;40;16;23;0;26;2975;0;73926
+Ropa;Los Ángeles;Sí;No;Escritorio;Windows;USA;No;Criptomoneda;U1455;Femenino;Redes Sociales;112;36;4;2;0;42;5006;3;0
+Ropa;Los Ángeles;Sí;No;Móvil;Android;USA;Sí;Tarjeta de Regalo;U1161;Masculino;Google;56;50;25;13;10;24;49061;3;37995
+Ropa;Los Ángeles;Sí;No;Móvil;iOS;USA;No;Criptomoneda;U0547;Otro;Redes Sociales;166;53;19;15;43;8;13503;1;94539
+Ropa;Los Ángeles;Sí;No;Tableta;iOS;USA;No;Tarjeta de Regalo;U0020;Femenino;Correo Electrónico;134;61;9;21;0;49;40317;5;10702
+Ropa;Los Ángeles;Sí;Sí;Escritorio;Android;USA;Sí;PayPal;U0706;Masculino;Redes Sociales;179;25;14;10;0;39;49324;6;7146
+Ropa;Los Ángeles;Sí;Sí;Escritorio;MacOS;USA;No;Tarjeta de Regalo;U0349;Femenino;Directo;161;23;8;23;0;23;35543;2;0
+Ropa;Los Ángeles;Sí;Sí;Móvil;iOS;USA;No;PayPal;U0430;Otro;Directo;179;49;29;17;48;4;29476;5;58464
+Ropa;Lyon;No;No;Escritorio;Android;France;Sí;Tarjeta de Crédito;U0987;Femenino;Directo;52;55;9;9;0;2;5723;8;61995
+Ropa;Lyon;No;No;Escritorio;iOS;France;No;PayPal;U1451;Masculino;Correo Electrónico;81;47;8;15;4;32;18996;7;0
+Ropa;Lyon;No;No;Tableta;MacOS;France;Sí;Tarjeta de Crédito;U0414;Masculino;Google;54;39;6;9;0;40;41928;10;0
+Ropa;Lyon;No;Sí;Escritorio;Android;France;Sí;PayPal;U0232;Masculino;Redes Sociales;96;28;21;7;0;32;9862;1;0
+Ropa;Lyon;No;Sí;Escritorio;Windows;France;Sí;Tarjeta de Crédito;U1087;Femenino;Google;35;31;27;17;37;41;49792;0;58591
+Ropa;Lyon;No;Sí;Tableta;MacOS;France;Sí;PayPal;U0876;Femenino;Directo;148;43;26;0;0;42;8501;7;0
+Ropa;Lyon;Sí;No;Escritorio;Android;France;Sí;Tarjeta de Regalo;U1370;Femenino;Correo Electrónico;80;35;12;21;0;44;2212;6;13773
+Ropa;Lyon;Sí;No;Escritorio;iOS;France;No;PayPal;U0927;Femenino;Directo;45;61;1;2;0;10;2082;10;0
+Ropa;Lyon;Sí;No;Escritorio;Linux;France;No;Criptomoneda;U0361;Masculino;Redes Sociales;140;40;17;2;0;16;20533;1;0
+Ropa;Lyon;Sí;No;Móvil;MacOS;France;Sí;Criptomoneda;U0525;Masculino;Redes Sociales;26;46;11;5;0;20;2851;7;0
+Ropa;Lyon;Sí;No;Tableta;Android;France;No;Tarjeta de Crédito;U0651;Masculino;Correo Electrónico;11;27;11;5;0;25;37211;0;86841
+Ropa;Lyon;Sí;Sí;Móvil;iOS;France;Sí;Tarjeta de Crédito;U0817;Femenino;Google;87;55;17;6;37;35;294;5;0
+Ropa;Lyon;Sí;Sí;Móvil;Linux;France;No;Criptomoneda;U1215;Otro;Otro;32;61;4;1;32;1;13898;6;0
+Ropa;Lyon;Sí;Sí;Móvil;Windows;France;No;Tarjeta de Regalo;U1048;Otro;Correo Electrónico;153;18;14;8;5;43;47572;0;0
+Ropa;Lyon;Sí;Sí;Tableta;iOS;France;No;Tarjeta de Regalo;U0431;Otro;Otro;161;47;14;3;0;29;27607;10;7565
+Ropa;Lyon;Sí;Sí;Tableta;iOS;France;Sí;Tarjeta de Crédito;U0984;Otro;Redes Sociales;37;32;29;19;32;31;16032;4;0
+Ropa;Manchester;No;No;Escritorio;iOS;UK;No;Tarjeta de Regalo;U0892;Femenino;Redes Sociales;142;52;25;7;26;16;39713;8;0
+Ropa;Manchester;No;No;Móvil;Android;UK;Sí;Tarjeta de Crédito;U0237;Femenino;Google;159;23;16;22;0;23;26165;5;69552
+Ropa;Manchester;No;No;Móvil;iOS;UK;Sí;Criptomoneda;U0201;Otro;Otro;148;58;1;15;0;1;2463;9;0
+Ropa;Manchester;No;No;Móvil;Windows;UK;Sí;Tarjeta de Crédito;U0181;Otro;Correo Electrónico;118;50;9;10;32;8;5181;8;0
+Ropa;Manchester;No;No;Tableta;iOS;UK;No;Tarjeta de Crédito;U0264;Otro;Otro;171;52;11;11;0;49;35372;3;0
+Ropa;Manchester;No;No;Tableta;MacOS;UK;No;Criptomoneda;U0185;Otro;Otro;180;58;22;1;15;12;3152;6;0
+Ropa;Manchester;No;Sí;Escritorio;iOS;UK;No;PayPal;U0718;Masculino;Redes Sociales;15;26;12;1;0;9;11881;0;0
+Ropa;Manchester;No;Sí;Móvil;Linux;UK;No;Tarjeta de Crédito;U1191;Femenino;Directo;66;40;26;21;0;50;1389;7;0
+Ropa;Manchester;No;Sí;Móvil;Windows;UK;Sí;Tarjeta de Regalo;U1228;Masculino;Directo;13;24;14;23;46;45;3718;6;0
+Ropa;Manchester;No;Sí;Tableta;Android;UK;No;Tarjeta de Regalo;U0586;Masculino;Redes Sociales;99;24;13;2;0;23;30938;1;25111
+Ropa;Manchester;Sí;No;Escritorio;iOS;UK;No;Tarjeta de Regalo;U1131;Masculino;Correo Electrónico;50;21;24;8;38;2;6727;0;0
+Ropa;Manchester;Sí;No;Móvil;Linux;UK;Sí;Tarjeta de Crédito;U0787;Femenino;Otro;26;56;25;5;35;22;44447;0;0
+Ropa;Manchester;Sí;No;Tableta;Android;UK;Sí;Tarjeta de Regalo;U1224;Masculino;Google;114;39;28;15;13;5;6981;4;60489
+Ropa;Manchester;Sí;Sí;Escritorio;Android;UK;No;Criptomoneda;U0372;Masculino;Directo;169;49;30;5;0;37;30901;4;7995
+Ropa;Manchester;Sí;Sí;Escritorio;iOS;UK;Sí;Tarjeta de Crédito;U1310;Femenino;Redes Sociales;123;50;22;0;0;49;684;4;0
+Ropa;Manchester;Sí;Sí;Móvil;Linux;UK;No;Tarjeta de Regalo;U0260;Otro;Otro;19;40;1;10;0;30;49254;7;78725
+Ropa;Manchester;Sí;Sí;Móvil;Linux;UK;Sí;Criptomoneda;U0737;Femenino;Redes Sociales;164;22;3;14;34;22;4389;5;25915
+Ropa;Manchester;Sí;Sí;Tableta;Linux;UK;No;Tarjeta de Regalo;U0170;Femenino;Directo;150;23;5;4;21;11;9979;0;47373
+Ropa;Manchester;Sí;Sí;Tableta;MacOS;UK;Sí;Tarjeta de Crédito;U1141;Otro;Directo;116;44;30;18;18;48;39739;9;87682
+Ropa;Marsella;No;No;Escritorio;Linux;France;Sí;Tarjeta de Crédito;U1210;Masculino;Google;125;44;4;18;0;50;9342;0;95449
+Ropa;Marsella;No;No;Escritorio;Linux;France;Sí;Tarjeta de Crédito;U1391;Masculino;Google;31;51;14;4;0;26;25937;4;4039
+Ropa;Marsella;No;No;Escritorio;Windows;France;Sí;Tarjeta de Crédito;U0018;Masculino;Correo Electrónico;151;19;8;15;36;24;26097;8;9877
+Ropa;Marsella;No;Sí;Escritorio;Android;France;No;Criptomoneda;U0641;Femenino;Correo Electrónico;18;42;20;20;10;39;10828;5;48898
+Ropa;Marsella;No;Sí;Escritorio;iOS;France;Sí;Tarjeta de Regalo;U0994;Femenino;Correo Electrónico;64;61;1;14;25;35;43202;8;95304
+Ropa;Marsella;No;Sí;Escritorio;Linux;France;No;Criptomoneda;U0497;Femenino;Redes Sociales;171;49;8;0;21;50;44791;10;0
+Ropa;Marsella;No;Sí;Móvil;Android;France;No;Tarjeta de Crédito;U0362;Masculino;Otro;144;50;22;21;0;30;11648;7;0
+Ropa;Marsella;Sí;No;Escritorio;Windows;France;No;Tarjeta de Regalo;U1187;Masculino;Directo;51;38;11;0;7;34;16804;3;132
+Ropa;Marsella;Sí;No;Móvil;Android;France;No;Tarjeta de Crédito;U0166;Femenino;Redes Sociales;70;45;22;23;0;10;33663;10;67073
+Ropa;Marsella;Sí;No;Tableta;Linux;France;No;PayPal;U0937;Masculino;Redes Sociales;10;62;19;18;6;35;5909;3;72967
+Ropa;Marsella;Sí;Sí;Escritorio;MacOS;France;No;Criptomoneda;U0095;Otro;Otro;2;18;16;7;27;36;24577;4;0
+Ropa;Marsella;Sí;Sí;Móvil;MacOS;France;Sí;Tarjeta de Regalo;U1057;Masculino;Directo;174;47;11;12;0;11;4718;1;41858
+Ropa;Marsella;Sí;Sí;Tableta;Linux;France;Sí;Tarjeta de Regalo;U0276;Otro;Directo;28;26;28;0;0;19;5425;0;0
+Ropa;Marsella;Sí;Sí;Tableta;Linux;France;Sí;Tarjeta de Regalo;U0831;Otro;Google;134;37;16;11;11;14;43243;8;0
+Ropa;Marsella;Sí;Sí;Tableta;Windows;France;No;Criptomoneda;U0847;Masculino;Redes Sociales;151;33;2;2;35;26;8614;4;0
+Ropa;Monterrey;No;No;Escritorio;iOS;Mexico;No;Criptomoneda;U0310;Otro;Google;65;31;27;14;38;37;33646;0;0
+Ropa;Monterrey;No;No;Escritorio;iOS;Mexico;No;Tarjeta de Crédito;U0494;Femenino;Otro;102;48;30;0;0;49;10005;1;0
+Ropa;Monterrey;No;No;Móvil;Android;Mexico;No;PayPal;U0947;Otro;Directo;109;61;27;23;0;39;35401;3;0
+Ropa;Monterrey;No;No;Móvil;Windows;Mexico;No;Criptomoneda;U1453;Femenino;Directo;117;51;2;10;0;8;5237;2;0
+Ropa;Monterrey;No;Sí;Móvil;Android;Mexico;No;Tarjeta de Regalo;U0261;Femenino;Directo;154;48;14;3;23;44;47316;8;38007
+Ropa;Monterrey;Sí;No;Escritorio;MacOS;Mexico;Sí;Tarjeta de Crédito;U0001;Masculino;Redes Sociales;8;56;16;19;0;17;2661;1;72221
+Ropa;Monterrey;Sí;No;Móvil;MacOS;Mexico;No;Criptomoneda;U0570;Masculino;Google;178;52;23;14;0;33;32319;4;0
+Ropa;Monterrey;Sí;No;Tableta;Android;Mexico;Sí;Criptomoneda;U0130;Otro;Correo Electrónico;120;52;20;1;0;38;43037;8;0
+Ropa;Monterrey;Sí;No;Tableta;Linux;Mexico;No;Tarjeta de Regalo;U0649;Femenino;Correo Electrónico;95;56;11;12;0;4;30172;4;58171
+Ropa;Monterrey;Sí;Sí;Escritorio;iOS;Mexico;Sí;Tarjeta de Crédito;U0298;Femenino;Google;12;46;30;2;34;40;14272;9;5595
+Ropa;Monterrey;Sí;Sí;Escritorio;Windows;Mexico;Sí;PayPal;U0412;Masculino;Directo;88;39;5;13;21;18;30531;3;0
+Ropa;Monterrey;Sí;Sí;Móvil;Windows;Mexico;No;Tarjeta de Crédito;U0281;Femenino;Correo Electrónico;42;33;13;5;49;23;20438;9;5155
+Ropa;Monterrey;Sí;Sí;Móvil;Windows;Mexico;No;Tarjeta de Crédito;U0900;Femenino;Redes Sociales;146;31;11;12;0;6;10871;0;0
+Ropa;Montreal;No;No;Escritorio;Android;Canada;No;Tarjeta de Regalo;U0940;Otro;Redes Sociales;88;53;17;12;47;2;13933;7;61046
+Ropa;Montreal;No;No;Escritorio;Windows;Canada;No;PayPal;U1394;Otro;Directo;135;24;13;14;18;43;4061;2;94061
+Ropa;Montreal;No;No;Móvil;Android;Canada;No;Criptomoneda;U1488;Femenino;Correo Electrónico;19;34;5;22;0;38;23446;1;64136
+Ropa;Montreal;No;No;Tableta;Android;Canada;Sí;PayPal;U1482;Femenino;Otro;107;43;17;19;0;38;17553;7;0
+Ropa;Montreal;No;No;Tableta;iOS;Canada;No;PayPal;U0685;Masculino;Correo Electrónico;111;37;16;8;9;19;2026;5;0
+Ropa;Montreal;No;No;Tableta;MacOS;Canada;No;Criptomoneda;U0222;Femenino;Otro;159;49;21;18;1;18;22415;6;70707
+Ropa;Montreal;No;Sí;Escritorio;Android;Canada;No;Tarjeta de Crédito;U0161;Masculino;Google;27;53;9;20;27;5;2672;5;0
+Ropa;Montreal;No;Sí;Móvil;Linux;Canada;No;Tarjeta de Crédito;U0999;Otro;Redes Sociales;89;36;29;3;46;1;45313;2;31794
+Ropa;Montreal;No;Sí;Tableta;Android;Canada;Sí;Criptomoneda;U1458;Otro;Google;85;34;28;8;0;49;20578;7;60889
+Ropa;Montreal;No;Sí;Tableta;Android;Canada;Sí;Tarjeta de Crédito;U0010;Otro;Redes Sociales;114;28;2;6;0;35;1895;7;0
+Ropa;Montreal;No;Sí;Tableta;Linux;Canada;No;Tarjeta de Regalo;U0935;Femenino;Google;39;20;24;17;21;16;32289;0;0
+Ropa;Montreal;No;Sí;Tableta;Windows;Canada;No;Tarjeta de Regalo;U1255;Masculino;Redes Sociales;9;64;30;15;0;14;2939;9;935
+Ropa;Montreal;Sí;No;Móvil;Android;Canada;Sí;Tarjeta de Crédito;U1097;Masculino;Correo Electrónico;123;32;8;16;0;33;1076;8;0
+Ropa;Montreal;Sí;No;Móvil;Windows;Canada;Sí;Tarjeta de Regalo;U1115;Femenino;Google;112;22;25;15;30;36;38158;5;71184
+Ropa;Montreal;Sí;No;Tableta;Linux;Canada;Sí;Criptomoneda;U0082;Otro;Google;78;38;14;15;24;3;10921;2;62851
+Ropa;Montreal;Sí;Sí;Móvil;Linux;Canada;No;PayPal;U1012;Masculino;Otro;82;30;29;0;0;34;37244;2;0
+Ropa;Montreal;Sí;Sí;Móvil;Windows;Canada;No;Criptomoneda;U0822;Masculino;Google;163;59;11;18;0;48;6131;1;61118
+Ropa;Montreal;Sí;Sí;Tableta;Windows;Canada;No;Tarjeta de Regalo;U1185;Masculino;Redes Sociales;148;63;4;8;0;11;48813;3;24908
+Ropa;Múnich;No;No;Móvil;Android;Germany;No;Tarjeta de Crédito;U0986;Otro;Correo Electrónico;73;47;12;23;0;46;11083;6;0
+Ropa;Múnich;No;No;Móvil;MacOS;Germany;No;Criptomoneda;U0408;Otro;Correo Electrónico;96;51;25;22;10;10;28063;4;79732
+Ropa;Múnich;No;No;Tableta;MacOS;Germany;Sí;PayPal;U0069;Masculino;Otro;116;43;5;18;0;2;3072;0;12998
+Ropa;Múnich;No;No;Tableta;Windows;Germany;Sí;PayPal;U0473;Masculino;Redes Sociales;19;22;21;21;27;47;2366;10;59235
+Ropa;Múnich;No;Sí;Móvil;iOS;Germany;Sí;Criptomoneda;U0423;Masculino;Redes Sociales;81;61;9;4;10;9;3291;10;70741
+Ropa;Múnich;No;Sí;Móvil;Linux;Germany;Sí;Tarjeta de Crédito;U0370;Otro;Directo;44;63;23;10;13;12;41913;10;0
+Ropa;Múnich;No;Sí;Móvil;Windows;Germany;No;Tarjeta de Regalo;U0875;Otro;Otro;87;31;23;8;21;10;32034;10;0
+Ropa;Múnich;No;Sí;Tableta;Android;Germany;No;PayPal;U0931;Femenino;Google;70;37;18;5;0;44;11768;4;0
+Ropa;Múnich;No;Sí;Tableta;Android;Germany;Sí;Tarjeta de Regalo;U0330;Masculino;Directo;138;44;27;7;7;50;5481;6;0
+Ropa;Múnich;Sí;No;Escritorio;iOS;Germany;Sí;Tarjeta de Crédito;U0691;Femenino;Redes Sociales;35;48;22;19;23;49;46249;0;1377
+Ropa;Múnich;Sí;No;Escritorio;Windows;Germany;No;Criptomoneda;U1183;Femenino;Correo Electrónico;69;40;14;17;48;13;1809;0;76254
+Ropa;Múnich;Sí;No;Móvil;Android;Germany;Sí;Criptomoneda;U0405;Femenino;Correo Electrónico;129;40;22;0;5;5;41728;4;0
+Ropa;Múnich;Sí;No;Tableta;iOS;Germany;No;PayPal;U0702;Otro;Google;122;55;8;19;50;32;12062;6;76483
+Ropa;Múnich;Sí;No;Tableta;Linux;Germany;Sí;PayPal;U0725;Masculino;Redes Sociales;172;30;13;20;0;14;19367;10;5994
+Ropa;Múnich;Sí;No;Tableta;MacOS;Germany;No;PayPal;U0654;Femenino;Redes Sociales;113;56;19;4;43;12;8335;10;0
+Ropa;Múnich;Sí;Sí;Escritorio;Android;Germany;Sí;PayPal;U0459;Otro;Otro;156;33;26;1;22;22;22755;6;0
+Ropa;Múnich;Sí;Sí;Escritorio;Linux;Germany;No;Criptomoneda;U0965;Femenino;Directo;4;47;20;15;0;32;13227;8;0
+Ropa;Múnich;Sí;Sí;Escritorio;MacOS;Germany;No;Tarjeta de Regalo;U0053;Masculino;Directo;11;24;16;1;44;49;31082;3;39442
+Ropa;Múnich;Sí;Sí;Tableta;Android;Germany;Sí;PayPal;U1014;Masculino;Google;118;20;18;15;48;31;25231;7;0
+Ropa;Múnich;Sí;Sí;Tableta;iOS;Germany;No;Criptomoneda;U0883;Otro;Redes Sociales;25;64;9;21;0;7;35604;5;0
+Ropa;Múnich;Sí;Sí;Tableta;Linux;Germany;No;Tarjeta de Regalo;U0461;Femenino;Google;20;22;18;3;30;49;25641;9;8590
+Ropa;Múnich;Sí;Sí;Tableta;MacOS;Germany;Sí;Criptomoneda;U0663;Otro;Correo Electrónico;85;56;16;13;12;18;10224;2;71135
+Ropa;Nueva York;No;No;Escritorio;MacOS;USA;No;Criptomoneda;U0337;Otro;Directo;128;50;10;4;24;35;10913;6;47458
+Ropa;Nueva York;No;No;Escritorio;Windows;USA;Sí;Criptomoneda;U1196;Masculino;Otro;64;64;5;1;0;12;401;4;0
+Ropa;Nueva York;No;No;Móvil;iOS;USA;No;Criptomoneda;U0631;Femenino;Google;149;54;6;19;25;20;21516;5;45846
+Ropa;Nueva York;No;No;Móvil;Linux;USA;No;Criptomoneda;U0385;Femenino;Google;97;60;24;15;0;13;7343;6;6962
+Ropa;Nueva York;No;Sí;Escritorio;iOS;USA;No;Criptomoneda;U0090;Otro;Google;149;62;15;16;0;34;29832;10;84989
+Ropa;Nueva York;No;Sí;Móvil;Android;USA;Sí;Criptomoneda;U0888;Femenino;Google;38;43;10;0;0;32;22214;4;0
+Ropa;Nueva York;No;Sí;Móvil;Linux;USA;No;Criptomoneda;U1254;Otro;Otro;78;31;3;4;0;31;41587;7;3958
+Ropa;Nueva York;No;Sí;Móvil;MacOS;USA;Sí;Tarjeta de Crédito;U0015;Masculino;Google;171;41;18;18;0;46;45955;0;0
+Ropa;Nueva York;No;Sí;Móvil;Windows;USA;No;Criptomoneda;U1152;Masculino;Correo Electrónico;153;43;5;11;0;46;45704;3;36429
+Ropa;Nueva York;No;Sí;Tableta;MacOS;USA;No;PayPal;U0759;Masculino;Otro;68;34;1;1;8;18;21345;5;0
+Ropa;Nueva York;No;Sí;Tableta;MacOS;USA;Sí;Criptomoneda;U1456;Otro;Correo Electrónico;94;54;10;18;33;28;32586;1;81318
+Ropa;Nueva York;Sí;No;Escritorio;Android;USA;Sí;Tarjeta de Crédito;U1157;Masculino;Redes Sociales;54;30;17;20;0;45;31326;2;90223
+Ropa;Nueva York;Sí;No;Escritorio;Linux;USA;No;Tarjeta de Crédito;U1338;Femenino;Correo Electrónico;125;52;18;1;1;5;48094;8;0
+Ropa;Nueva York;Sí;Sí;Escritorio;Windows;USA;Sí;Criptomoneda;U0355;Femenino;Directo;151;63;7;1;0;49;22139;2;95273
+Ropa;Nueva York;Sí;Sí;Móvil;Android;USA;No;PayPal;U0844;Masculino;Directo;149;33;16;3;0;2;18494;3;6242
+Ropa;Nueva York;Sí;Sí;Móvil;Linux;USA;Sí;Criptomoneda;U1080;Masculino;Google;59;32;4;10;0;36;12182;6;60222
+Ropa;Nueva York;Sí;Sí;Móvil;MacOS;USA;Sí;Tarjeta de Crédito;U0874;Masculino;Correo Electrónico;177;51;18;10;23;7;49141;0;39376
+Ropa;Nueva York;Sí;Sí;Móvil;Windows;USA;No;PayPal;U1321;Otro;Correo Electrónico;121;64;23;16;5;42;28749;6;37883
+Ropa;Nueva York;Sí;Sí;Tableta;iOS;USA;Sí;PayPal;U0043;Masculino;Google;96;35;16;15;0;45;6751;4;0
+Ropa;Nueva York;Sí;Sí;Tableta;Linux;USA;Sí;Criptomoneda;U0383;Otro;Redes Sociales;79;50;12;3;44;46;22614;4;35866
+Ropa;Nueva York;Sí;Sí;Tableta;MacOS;USA;Sí;Criptomoneda;U1046;Masculino;Otro;34;52;16;8;3;13;3242;10;22011
+Ropa;París;No;No;Móvil;Android;France;Sí;Tarjeta de Crédito;U0853;Otro;Directo;47;20;9;4;0;12;14304;10;99967
+Ropa;París;No;No;Móvil;Linux;France;No;Tarjeta de Regalo;U0392;Masculino;Otro;168;42;21;18;2;42;30164;2;0
+Ropa;París;No;No;Móvil;MacOS;France;Sí;Tarjeta de Crédito;U0256;Femenino;Otro;106;18;23;22;0;18;25067;6;11135
+Ropa;París;No;No;Tableta;Android;France;Sí;Tarjeta de Regalo;U0393;Masculino;Otro;141;41;29;6;0;38;4047;8;0
+Ropa;París;No;No;Tableta;MacOS;France;Sí;Criptomoneda;U0296;Otro;Google;89;52;28;22;46;3;40608;2;0
+Ropa;París;No;Sí;Móvil;Windows;France;Sí;Tarjeta de Crédito;U1237;Otro;Correo Electrónico;30;18;7;8;0;41;21874;2;0
+Ropa;París;No;Sí;Tableta;iOS;France;Sí;Tarjeta de Crédito;U0490;Otro;Correo Electrónico;68;27;12;9;0;30;21164;2;0
+Ropa;París;No;Sí;Tableta;Linux;France;Sí;Tarjeta de Crédito;U0596;Masculino;Google;39;42;6;21;0;29;13205;1;0
+Ropa;París;No;Sí;Tableta;Windows;France;Sí;Criptomoneda;U0415;Otro;Google;16;39;19;13;21;36;49776;8;0
+Ropa;París;Sí;No;Escritorio;iOS;France;No;Tarjeta de Crédito;U1083;Femenino;Otro;109;34;30;7;0;37;5191;3;3563
+Ropa;París;Sí;No;Escritorio;MacOS;France;Sí;Criptomoneda;U1055;Otro;Correo Electrónico;153;54;9;12;41;46;41278;4;0
+Ropa;París;Sí;No;Móvil;iOS;France;No;Tarjeta de Regalo;U0522;Masculino;Redes Sociales;28;27;22;16;0;14;48575;4;0
+Ropa;París;Sí;No;Móvil;Linux;France;No;Tarjeta de Crédito;U0623;Femenino;Redes Sociales;170;30;26;19;0;9;49283;7;0
+Ropa;París;Sí;No;Móvil;Linux;France;Sí;Tarjeta de Crédito;U1094;Otro;Redes Sociales;172;24;13;17;0;38;43733;5;0
+Ropa;París;Sí;Sí;Móvil;Windows;France;No;Tarjeta de Crédito;U0116;Femenino;Redes Sociales;27;26;19;6;0;5;13727;7;12306
+Ropa;París;Sí;Sí;Tableta;MacOS;France;No;Tarjeta de Crédito;U0258;Femenino;Redes Sociales;4;45;15;20;42;24;8838;5;43833
+Ropa;París;Sí;Sí;Tableta;MacOS;France;Sí;Criptomoneda;U0784;Femenino;Redes Sociales;147;45;10;16;0;32;3175;5;37766
+Ropa;Rio de Janeiro;No;No;Móvil;Linux;Brazil;Sí;PayPal;U0975;Femenino;Redes Sociales;117;53;15;5;0;29;21035;0;91204
+Ropa;Rio de Janeiro;No;No;Tableta;iOS;Brazil;Sí;PayPal;U0274;Otro;Otro;84;54;2;7;19;4;33872;2;0
+Ropa;Rio de Janeiro;No;No;Tableta;iOS;Brazil;Sí;Tarjeta de Regalo;U0618;Femenino;Correo Electrónico;101;61;23;15;0;23;4083;6;97265
+Ropa;Rio de Janeiro;No;Sí;Móvil;Linux;Brazil;Sí;Criptomoneda;U1436;Femenino;Redes Sociales;41;26;16;12;2;50;28074;7;90172
+Ropa;Rio de Janeiro;No;Sí;Móvil;MacOS;Brazil;No;Tarjeta de Crédito;U0149;Masculino;Google;125;49;20;19;18;1;283;10;96715
+Ropa;Rio de Janeiro;No;Sí;Tableta;Android;Brazil;No;Criptomoneda;U1100;Femenino;Directo;117;50;3;17;0;24;34027;5;83607
+Ropa;Rio de Janeiro;No;Sí;Tableta;MacOS;Brazil;No;Tarjeta de Crédito;U1174;Otro;Redes Sociales;17;45;25;12;40;34;17453;8;0
+Ropa;Rio de Janeiro;No;Sí;Tableta;Windows;Brazil;No;Criptomoneda;U0566;Masculino;Google;171;29;6;22;12;50;39005;8;0
+Ropa;Rio de Janeiro;Sí;No;Escritorio;Android;Brazil;Sí;PayPal;U0074;Femenino;Otro;25;31;30;13;48;13;24409;2;5213
+Ropa;Rio de Janeiro;Sí;No;Móvil;Linux;Brazil;Sí;Criptomoneda;U0637;Femenino;Correo Electrónico;2;18;12;22;0;36;40602;10;0
+Ropa;Rio de Janeiro;Sí;No;Tableta;Android;Brazil;Sí;Tarjeta de Regalo;U0315;Masculino;Correo Electrónico;155;24;19;16;0;12;22611;3;78628
+Ropa;Rio de Janeiro;Sí;No;Tableta;iOS;Brazil;No;Criptomoneda;U0539;Masculino;Correo Electrónico;173;43;4;16;32;13;267;0;0
+Ropa;Rio de Janeiro;Sí;No;Tableta;Linux;Brazil;No;Tarjeta de Regalo;U1227;Femenino;Redes Sociales;113;38;9;7;0;43;22341;10;5146
+Ropa;Sao Paulo;No;No;Escritorio;Android;Brazil;Sí;Tarjeta de Crédito;U0316;Femenino;Otro;130;20;6;10;0;16;1308;1;0
+Ropa;Sao Paulo;No;No;Escritorio;iOS;Brazil;No;PayPal;U0024;Otro;Otro;93;38;7;23;10;16;45419;3;0
+Ropa;Sao Paulo;No;No;Escritorio;Windows;Brazil;No;Criptomoneda;U1065;Femenino;Otro;131;21;6;16;17;21;6769;6;0
+Ropa;Sao Paulo;No;No;Tableta;Windows;Brazil;Sí;Tarjeta de Regalo;U1110;Otro;Redes Sociales;116;50;9;19;21;29;6788;0;0
+Ropa;Sao Paulo;No;Sí;Escritorio;Linux;Brazil;Sí;Tarjeta de Regalo;U1206;Otro;Directo;97;55;5;14;13;7;35579;9;55074
+Ropa;Sao Paulo;No;Sí;Escritorio;MacOS;Brazil;Sí;Tarjeta de Regalo;U0930;Femenino;Redes Sociales;122;30;24;3;0;48;41398;0;0
+Ropa;Sao Paulo;No;Sí;Móvil;Linux;Brazil;No;Tarjeta de Crédito;U0982;Otro;Otro;141;28;12;2;0;21;18802;3;13567
+Ropa;Sao Paulo;No;Sí;Móvil;MacOS;Brazil;No;PayPal;U0988;Otro;Redes Sociales;130;19;29;7;35;27;34312;0;71985
+Ropa;Sao Paulo;No;Sí;Tableta;iOS;Brazil;No;Criptomoneda;U0066;Femenino;Correo Electrónico;175;21;22;8;16;48;31646;9;47695
+Ropa;Sao Paulo;No;Sí;Tableta;iOS;Brazil;Sí;Criptomoneda;U0939;Masculino;Google;18;64;1;17;0;28;5399;1;0
+Ropa;Sao Paulo;Sí;No;Escritorio;Linux;Brazil;Sí;Tarjeta de Crédito;U1209;Masculino;Correo Electrónico;4;35;21;1;33;20;10456;3;0
+Ropa;Sao Paulo;Sí;No;Escritorio;Windows;Brazil;Sí;Tarjeta de Crédito;U1249;Otro;Directo;52;33;23;9;0;21;37773;2;95185
+Ropa;Sao Paulo;Sí;No;Tableta;iOS;Brazil;No;PayPal;U0798;Femenino;Correo Electrónico;76;65;5;1;36;4;24785;6;0
+Ropa;Sao Paulo;Sí;No;Tableta;iOS;Brazil;Sí;Tarjeta de Crédito;U1168;Otro;Google;16;65;25;22;50;40;40935;6;7281
+Ropa;Sao Paulo;Sí;No;Tableta;Windows;Brazil;No;Tarjeta de Crédito;U1164;Masculino;Otro;84;60;16;2;35;24;4737;6;0
+Ropa;Sao Paulo;Sí;Sí;Móvil;iOS;Brazil;Sí;Criptomoneda;U0063;Otro;Otro;23;19;11;18;49;26;29258;4;0
+Ropa;Sao Paulo;Sí;Sí;Tableta;Linux;Brazil;Sí;Tarjeta de Crédito;U0756;Femenino;Google;160;65;18;1;38;38;39618;4;62773
+Ropa;Toronto;No;No;Escritorio;Windows;Canada;No;Criptomoneda;U0189;Femenino;Correo Electrónico;147;25;22;17;5;21;25451;2;0
+Ropa;Toronto;No;No;Escritorio;Windows;Canada;Sí;Tarjeta de Regalo;U0919;Femenino;Redes Sociales;147;54;18;6;0;47;38726;9;92446
+Ropa;Toronto;No;No;Tableta;Android;Canada;Sí;Tarjeta de Regalo;U1297;Otro;Correo Electrónico;172;63;4;6;0;29;35925;5;61402
+Ropa;Toronto;No;Sí;Móvil;Android;Canada;Sí;PayPal;U1343;Femenino;Directo;32;27;20;15;26;32;20989;9;78687
+Ropa;Toronto;No;Sí;Tableta;Android;Canada;No;Tarjeta de Crédito;U0905;Masculino;Directo;1;31;15;0;12;38;34521;8;0
+Ropa;Toronto;No;Sí;Tableta;MacOS;Canada;No;Tarjeta de Regalo;U0810;Masculino;Google;98;55;28;22;38;13;6952;9;0
+Ropa;Toronto;Sí;No;Móvil;Android;Canada;Sí;Tarjeta de Crédito;U0929;Femenino;Correo Electrónico;21;34;12;14;39;42;20601;1;0
+Ropa;Toronto;Sí;No;Móvil;Windows;Canada;No;PayPal;U0468;Otro;Correo Electrónico;155;54;25;16;4;24;25265;2;0
+Ropa;Toronto;Sí;No;Tableta;Linux;Canada;Sí;PayPal;U1251;Otro;Redes Sociales;107;36;3;2;0;16;2125;3;0
+Ropa;Toronto;Sí;Sí;Móvil;Windows;Canada;No;Tarjeta de Regalo;U1306;Masculino;Directo;179;35;13;11;14;29;29375;2;88179
+Ropa;Vancouver;No;No;Escritorio;iOS;Canada;No;PayPal;U0992;Femenino;Directo;103;43;1;5;37;18;3076;7;0
+Ropa;Vancouver;No;No;Escritorio;iOS;Canada;No;Tarjeta de Regalo;U0577;Otro;Redes Sociales;43;39;19;11;19;31;26627;4;1856
+Ropa;Vancouver;No;No;Escritorio;Linux;Canada;No;PayPal;U0474;Masculino;Otro;134;64;20;21;41;40;18675;3;63186
+Ropa;Vancouver;No;No;Tableta;Android;Canada;No;PayPal;U1253;Femenino;Google;149;18;9;2;0;9;32508;9;86336
+Ropa;Vancouver;No;No;Tableta;Windows;Canada;No;Criptomoneda;U0677;Femenino;Otro;42;38;8;12;24;32;1656;1;0
+Ropa;Vancouver;No;Sí;Escritorio;Windows;Canada;No;Criptomoneda;U0064;Masculino;Otro;83;23;2;17;0;21;3663;8;55576
+Ropa;Vancouver;No;Sí;Móvil;Linux;Canada;Sí;Tarjeta de Regalo;U0119;Masculino;Directo;7;51;13;19;0;9;30777;0;0
+Ropa;Vancouver;No;Sí;Tableta;Windows;Canada;No;Tarjeta de Regalo;U1462;Otro;Google;152;33;16;10;33;15;38716;9;12668
+Ropa;Vancouver;Sí;No;Escritorio;MacOS;Canada;No;Tarjeta de Regalo;U0436;Femenino;Google;20;30;30;17;0;28;11617;1;95335
+Ropa;Vancouver;Sí;No;Móvil;Android;Canada;No;PayPal;U1036;Femenino;Google;179;52;25;21;11;8;4856;1;32736
+Ropa;Vancouver;Sí;Sí;Escritorio;MacOS;Canada;Sí;PayPal;U0694;Masculino;Directo;111;33;14;15;0;10;27672;4;0
+Ropa;Vancouver;Sí;Sí;Escritorio;Windows;Canada;No;Tarjeta de Crédito;U0389;Masculino;Otro;83;59;7;0;0;48;34094;7;0
+Juguetes;Berlín;No;No;Escritorio;MacOS;Germany;No;Criptomoneda;U1105;Masculino;Otro;127;46;13;14;0;43;20667;8;39268
+Juguetes;Berlín;No;No;Móvil;Linux;Germany;No;Criptomoneda;U0280;Femenino;Google;10;65;28;20;46;19;26602;0;0
+Juguetes;Berlín;No;No;Tableta;Windows;Germany;Sí;PayPal;U1273;Masculino;Correo Electrónico;60;40;10;5;10;4;6098;2;92212
+Juguetes;Berlín;No;Sí;Móvil;iOS;Germany;No;Tarjeta de Regalo;U0815;Otro;Directo;77;44;13;23;0;4;20939;9;0
+Juguetes;Berlín;No;Sí;Tableta;iOS;Germany;No;Tarjeta de Regalo;U1218;Otro;Redes Sociales;106;24;25;18;0;30;20089;10;94511
+Juguetes;Berlín;No;Sí;Tableta;Linux;Germany;No;Tarjeta de Regalo;U0159;Otro;Otro;64;60;10;14;43;4;27841;1;1671
+Juguetes;Berlín;Sí;No;Escritorio;iOS;Germany;Sí;Criptomoneda;U1292;Otro;Directo;22;52;23;2;47;33;29955;8;98994
+Juguetes;Berlín;Sí;No;Escritorio;MacOS;Germany;Sí;PayPal;U0477;Otro;Directo;113;22;23;9;0;34;37443;2;0
+Juguetes;Berlín;Sí;No;Tableta;Windows;Germany;Sí;PayPal;U0357;Masculino;Google;123;52;4;10;30;39;30398;7;0
+Juguetes;Berlín;Sí;Sí;Móvil;MacOS;Germany;No;Tarjeta de Crédito;U0309;Femenino;Redes Sociales;66;50;27;5;0;2;11232;10;0
+Juguetes;Berlín;Sí;Sí;Tableta;Linux;Germany;Sí;Tarjeta de Crédito;U1425;Femenino;Google;13;36;23;13;0;11;21507;4;2279
+Juguetes;Berlín;Sí;Sí;Tableta;Linux;Germany;Sí;Tarjeta de Regalo;U0366;Femenino;Correo Electrónico;61;59;12;1;0;31;45734;3;0
+Juguetes;Brasilia;No;No;Móvil;Android;Brazil;Sí;PayPal;U0299;Otro;Redes Sociales;168;35;5;18;0;12;355;4;74678
+Juguetes;Brasilia;No;No;Tableta;Android;Brazil;Sí;PayPal;U1239;Masculino;Otro;58;30;11;17;0;22;23392;8;56799
+Juguetes;Brasilia;No;No;Tableta;Android;Brazil;Sí;Tarjeta de Crédito;U1386;Otro;Correo Electrónico;151;44;10;18;7;7;46426;3;0
+Juguetes;Brasilia;No;No;Tableta;iOS;Brazil;No;PayPal;U0163;Otro;Google;29;49;26;19;29;2;22502;2;0
+Juguetes;Brasilia;No;Sí;Escritorio;Windows;Brazil;No;Criptomoneda;U0899;Otro;Redes Sociales;19;40;28;8;24;11;14021;7;36265
+Juguetes;Brasilia;No;Sí;Móvil;MacOS;Brazil;Sí;Tarjeta de Regalo;U0770;Masculino;Directo;25;36;4;3;10;39;10089;6;4349
+Juguetes;Brasilia;No;Sí;Tableta;Android;Brazil;No;Tarjeta de Regalo;U0108;Femenino;Directo;48;52;28;23;22;43;46732;9;16383
+Juguetes;Brasilia;No;Sí;Tableta;iOS;Brazil;Sí;PayPal;U0634;Masculino;Redes Sociales;161;25;6;21;25;27;26609;3;0
+Juguetes;Brasilia;No;Sí;Tableta;Linux;Brazil;No;Criptomoneda;U0334;Femenino;Correo Electrónico;146;50;7;3;0;40;14668;3;15699
+Juguetes;Brasilia;No;Sí;Tableta;Linux;Brazil;No;PayPal;U0409;Femenino;Correo Electrónico;75;19;20;20;0;12;47346;9;43457
+Juguetes;Brasilia;No;Sí;Tableta;MacOS;Brazil;Sí;Criptomoneda;U0908;Otro;Otro;177;64;24;13;30;20;28639;9;5709
+Juguetes;Brasilia;Sí;No;Escritorio;iOS;Brazil;Sí;Criptomoneda;U1285;Masculino;Directo;112;54;22;18;0;43;8949;0;0
+Juguetes;Brasilia;Sí;No;Escritorio;MacOS;Brazil;Sí;Tarjeta de Crédito;U1328;Femenino;Directo;162;40;17;21;46;4;6952;0;0
+Juguetes;Brasilia;Sí;No;Móvil;Linux;Brazil;No;Criptomoneda;U0326;Otro;Redes Sociales;125;55;28;17;21;10;19824;1;0
+Juguetes;Brasilia;Sí;No;Móvil;Windows;Brazil;Sí;PayPal;U0184;Femenino;Otro;180;30;10;13;0;42;2873;1;0
+Juguetes;Brasilia;Sí;No;Tableta;Android;Brazil;Sí;Criptomoneda;U1423;Femenino;Redes Sociales;36;64;5;9;47;19;42387;8;0
+Juguetes;Brasilia;Sí;Sí;Escritorio;Linux;Brazil;Sí;PayPal;U1091;Femenino;Google;7;23;4;7;0;38;46838;3;0
+Juguetes;Brasilia;Sí;Sí;Escritorio;MacOS;Brazil;No;Criptomoneda;U0051;Femenino;Directo;150;45;14;15;0;44;11343;1;52168
+Juguetes;Brasilia;Sí;Sí;Móvil;MacOS;Brazil;Sí;PayPal;U0247;Masculino;Directo;111;37;28;16;0;2;24721;9;0
+Juguetes;Brasilia;Sí;Sí;Móvil;MacOS;Brazil;Sí;PayPal;U0323;Masculino;Redes Sociales;101;63;17;23;0;13;35849;6;0
+Juguetes;Brasilia;Sí;Sí;Tableta;Android;Brazil;No;Tarjeta de Crédito;U1339;Otro;Directo;81;39;4;9;1;31;12714;5;0
+Juguetes;Brasilia;Sí;Sí;Tableta;Android;Brazil;Sí;Tarjeta de Regalo;U0266;Otro;Otro;12;33;15;10;0;2;2726;7;0
+Juguetes;Chicago;No;No;Móvil;iOS;USA;No;Tarjeta de Regalo;U0500;Femenino;Otro;165;62;3;13;0;21;10866;10;5500
+Juguetes;Chicago;No;No;Móvil;MacOS;USA;No;PayPal;U1092;Otro;Directo;27;23;26;2;24;28;26248;10;28698
+Juguetes;Chicago;No;No;Tableta;Android;USA;Sí;Criptomoneda;U0380;Masculino;Google;87;43;13;3;39;35;33537;9;0
+Juguetes;Chicago;No;No;Tableta;Linux;USA;No;Tarjeta de Crédito;U1104;Femenino;Google;165;53;15;5;44;49;9969;0;23101
+Juguetes;Chicago;No;No;Tableta;MacOS;USA;No;PayPal;U1459;Femenino;Directo;149;27;24;2;0;26;34138;0;0
+Juguetes;Chicago;No;No;Tableta;MacOS;USA;Sí;Criptomoneda;U0390;Femenino;Google;110;43;24;0;9;14;21334;7;1491
+Juguetes;Chicago;No;Sí;Escritorio;MacOS;USA;Sí;Tarjeta de Crédito;U0153;Masculino;Redes Sociales;175;47;24;6;0;42;40714;5;248
+Juguetes;Chicago;No;Sí;Móvil;Android;USA;No;Criptomoneda;U0365;Femenino;Redes Sociales;142;42;9;6;26;16;1868;8;52762
+Juguetes;Chicago;No;Sí;Móvil;iOS;USA;No;Criptomoneda;U1195;Femenino;Directo;86;38;10;20;0;3;34814;10;0
+Juguetes;Chicago;No;Sí;Móvil;MacOS;USA;Sí;Criptomoneda;U0037;Otro;Otro;123;20;9;3;43;26;8528;7;46302
+Juguetes;Chicago;No;Sí;Móvil;Windows;USA;No;Criptomoneda;U1278;Femenino;Directo;126;25;19;22;0;12;29246;9;91794
+Juguetes;Chicago;No;Sí;Tableta;MacOS;USA;No;Tarjeta de Regalo;U0667;Masculino;Correo Electrónico;142;45;20;15;0;18;35809;10;23074
+Juguetes;Chicago;Sí;No;Escritorio;Linux;USA;No;PayPal;U1067;Masculino;Correo Electrónico;166;62;5;17;0;8;24307;9;7630
+Juguetes;Chicago;Sí;No;Tableta;Windows;USA;No;Tarjeta de Crédito;U0954;Otro;Directo;121;51;14;16;0;27;6802;3;2797
+Juguetes;Chicago;Sí;Sí;Móvil;Android;USA;No;PayPal;U0564;Masculino;Otro;145;49;26;6;26;19;2399;6;0
+Juguetes;Ciudad de MÇ¸xico;No;No;Escritorio;Windows;Mexico;Sí;Tarjeta de Regalo;U0556;Masculino;Directo;135;52;27;3;0;49;4126;7;0
+Juguetes;Ciudad de MÇ¸xico;No;No;Móvil;Android;Mexico;Sí;Tarjeta de Regalo;U0862;Femenino;Otro;134;35;12;14;0;12;794;7;0
+Juguetes;Ciudad de MÇ¸xico;No;No;Móvil;Linux;Mexico;No;Tarjeta de Crédito;U0278;Femenino;Redes Sociales;96;52;7;0;0;37;6488;1;99753
+Juguetes;Ciudad de MÇ¸xico;No;No;Móvil;MacOS;Mexico;Sí;Criptomoneda;U1404;Masculino;Directo;90;18;15;19;0;26;21512;2;31181
+Juguetes;Ciudad de MÇ¸xico;No;Sí;Escritorio;iOS;Mexico;Sí;Criptomoneda;U1469;Otro;Otro;45;40;27;23;5;43;27331;1;26709
+Juguetes;Ciudad de MÇ¸xico;No;Sí;Escritorio;MacOS;Mexico;No;Tarjeta de Regalo;U0878;Otro;Correo Electrónico;117;44;22;8;41;3;26054;2;74145
+Juguetes;Ciudad de MÇ¸xico;No;Sí;Móvil;Linux;Mexico;Sí;Tarjeta de Crédito;U0743;Otro;Correo Electrónico;25;28;12;14;48;4;4352;6;0
+Juguetes;Ciudad de MÇ¸xico;Sí;No;Escritorio;Android;Mexico;Sí;Tarjeta de Regalo;U0751;Otro;Google;63;51;8;8;0;42;24954;3;0
+Juguetes;Ciudad de MÇ¸xico;Sí;No;Móvil;Android;Mexico;No;Tarjeta de Regalo;U0710;Femenino;Otro;87;25;18;5;0;44;36113;3;0
+Juguetes;Ciudad de MÇ¸xico;Sí;No;Móvil;MacOS;Mexico;Sí;Tarjeta de Regalo;U1415;Masculino;Otro;32;52;4;14;0;30;32758;7;0
+Juguetes;Ciudad de MÇ¸xico;Sí;Sí;Escritorio;MacOS;Mexico;No;PayPal;U0687;Otro;Redes Sociales;83;64;16;3;35;12;1144;6;70823
+Juguetes;Ciudad de MÇ¸xico;Sí;Sí;Escritorio;MacOS;Mexico;No;Tarjeta de Regalo;U0442;Femenino;Google;173;45;10;2;17;42;2053;3;0
+Juguetes;Ciudad de MÇ¸xico;Sí;Sí;Móvil;Linux;Mexico;Sí;PayPal;U0684;Masculino;Redes Sociales;123;36;30;17;0;27;23047;8;95925
+Juguetes;Ciudad de MÇ¸xico;Sí;Sí;Móvil;MacOS;Mexico;Sí;Tarjeta de Regalo;U0475;Femenino;Redes Sociales;174;47;28;4;11;48;27344;0;0
+Juguetes;Ciudad de MÇ¸xico;Sí;Sí;Móvil;Windows;Mexico;No;Tarjeta de Crédito;U0387;Femenino;Redes Sociales;99;56;10;6;0;42;25068;7;24857
+Juguetes;Edimburgo;No;No;Móvil;MacOS;UK;No;Criptomoneda;U1073;Otro;Google;54;56;19;21;0;9;10142;7;9054
+Juguetes;Edimburgo;No;No;Tableta;iOS;UK;No;Tarjeta de Regalo;U1060;Masculino;Google;26;54;24;21;0;33;35744;7;0
+Juguetes;Edimburgo;No;No;Tableta;Windows;UK;Sí;Tarjeta de Crédito;U0291;Otro;Otro;27;57;13;15;0;26;48806;8;97573
+Juguetes;Edimburgo;No;Sí;Escritorio;Android;UK;No;PayPal;U0792;Femenino;Directo;51;18;21;16;21;29;16172;7;82013
+Juguetes;Edimburgo;No;Sí;Escritorio;Android;UK;Sí;Tarjeta de Crédito;U0936;Femenino;Directo;31;58;21;5;1;38;12659;3;41863
+Juguetes;Edimburgo;No;Sí;Tableta;Linux;UK;Sí;Tarjeta de Crédito;U0693;Otro;Correo Electrónico;140;20;28;9;0;1;29281;8;0
+Juguetes;Edimburgo;Sí;No;Escritorio;Windows;UK;No;PayPal;U0961;Otro;Redes Sociales;111;23;18;8;29;23;12107;4;0
+Juguetes;Edimburgo;Sí;No;Móvil;Windows;UK;No;Tarjeta de Regalo;U0644;Femenino;Redes Sociales;171;53;10;7;25;17;30386;10;0
+Juguetes;Edimburgo;Sí;No;Tableta;iOS;UK;No;Criptomoneda;U0557;Femenino;Google;125;65;12;18;24;9;4071;7;5713
+Juguetes;Edimburgo;Sí;Sí;Escritorio;Windows;UK;Sí;Tarjeta de Regalo;U1387;Masculino;Directo;71;48;15;21;0;6;46641;3;57888
+Juguetes;Edimburgo;Sí;Sí;Móvil;MacOS;UK;No;Tarjeta de Regalo;U0510;Otro;Google;116;41;18;10;36;16;9801;2;0
+Juguetes;Edimburgo;Sí;Sí;Móvil;Windows;UK;No;Criptomoneda;U1260;Femenino;Correo Electrónico;179;21;7;18;20;46;14456;1;0
+Juguetes;Edimburgo;Sí;Sí;Tableta;iOS;UK;Sí;Tarjeta de Regalo;U1494;Femenino;Redes Sociales;174;31;30;21;7;8;42444;5;47544
+Juguetes;Edimburgo;Sí;Sí;Tableta;Windows;UK;Sí;Criptomoneda;U0381;Masculino;Correo Electrónico;104;34;4;7;0;5;1132;1;5477
+Juguetes;Guadalajara;No;No;Escritorio;MacOS;Mexico;No;Criptomoneda;U1427;Otro;Otro;89;60;6;22;0;8;21607;0;7413
+Juguetes;Guadalajara;No;No;Escritorio;MacOS;Mexico;Sí;Tarjeta de Regalo;U1413;Femenino;Redes Sociales;56;56;16;8;40;50;14753;8;33855
+Juguetes;Guadalajara;No;No;Móvil;Linux;Mexico;No;Tarjeta de Crédito;U1474;Masculino;Google;177;42;22;5;0;16;19962;10;27969
+Juguetes;Guadalajara;No;No;Móvil;MacOS;Mexico;No;Criptomoneda;U1090;Masculino;Correo Electrónico;104;56;28;8;0;16;12429;3;0
+Juguetes;Guadalajara;No;No;Tableta;Android;Mexico;Sí;Tarjeta de Crédito;U0760;Femenino;Google;46;22;1;15;0;2;20821;5;0
+Juguetes;Guadalajara;No;Sí;Escritorio;MacOS;Mexico;Sí;Tarjeta de Crédito;U0147;Femenino;Redes Sociales;180;59;30;5;0;3;26831;7;32158
+Juguetes;Guadalajara;No;Sí;Escritorio;Windows;Mexico;Sí;Tarjeta de Crédito;U1293;Masculino;Redes Sociales;56;49;13;0;2;36;4965;1;40984
+Juguetes;Guadalajara;Sí;No;Escritorio;Android;Mexico;Sí;Tarjeta de Regalo;U0322;Masculino;Directo;12;39;25;14;0;37;4753;4;42117
+Juguetes;Guadalajara;Sí;No;Escritorio;Linux;Mexico;Sí;Tarjeta de Crédito;U0582;Masculino;Directo;146;58;21;6;0;21;4141;7;0
+Juguetes;Guadalajara;Sí;No;Escritorio;Windows;Mexico;No;Criptomoneda;U0127;Femenino;Google;43;57;26;15;0;8;15463;0;2641
+Juguetes;Guadalajara;Sí;No;Móvil;Linux;Mexico;Sí;Tarjeta de Crédito;U1468;Masculino;Correo Electrónico;101;34;22;9;43;33;24521;1;0
+Juguetes;Guadalajara;Sí;Sí;Escritorio;Android;Mexico;Sí;Tarjeta de Regalo;U0617;Otro;Google;19;27;3;13;4;48;2264;0;0
+Juguetes;Guadalajara;Sí;Sí;Escritorio;iOS;Mexico;No;Tarjeta de Regalo;U0863;Otro;Correo Electrónico;91;45;20;20;0;13;241;7;85369
+Juguetes;Guadalajara;Sí;Sí;Escritorio;iOS;Mexico;Sí;Tarjeta de Crédito;U0485;Masculino;Directo;120;53;5;3;24;27;2002;0;0
+Juguetes;Guadalajara;Sí;Sí;Tableta;Linux;Mexico;Sí;Tarjeta de Crédito;U0284;Masculino;Correo Electrónico;105;41;3;11;0;12;21834;9;78964
+Juguetes;Hamburgo;No;No;Tableta;Windows;Germany;No;PayPal;U0358;Femenino;Redes Sociales;144;50;12;2;40;40;43631;1;81535
+Juguetes;Hamburgo;No;Sí;Escritorio;Android;Germany;Sí;Tarjeta de Crédito;U0610;Otro;Otro;87;46;26;2;0;38;27932;5;0
+Juguetes;Hamburgo;No;Sí;Escritorio;MacOS;Germany;No;PayPal;U1192;Otro;Redes Sociales;9;18;1;22;11;23;4188;3;0
+Juguetes;Hamburgo;No;Sí;Móvil;Android;Germany;No;Criptomoneda;U1013;Femenino;Google;75;60;3;16;36;38;38635;6;6575
+Juguetes;Hamburgo;No;Sí;Móvil;iOS;Germany;No;Criptomoneda;U1337;Masculino;Directo;178;61;8;13;0;5;4319;8;46708
+Juguetes;Hamburgo;No;Sí;Móvil;Linux;Germany;Sí;Tarjeta de Regalo;U0203;Femenino;Redes Sociales;126;56;18;15;43;38;3215;5;8464
+Juguetes;Hamburgo;No;Sí;Móvil;Linux;Germany;Sí;Tarjeta de Regalo;U0658;Femenino;Otro;172;45;14;1;0;9;12737;5;0
+Juguetes;Hamburgo;No;Sí;Móvil;MacOS;Germany;No;Criptomoneda;U0861;Otro;Directo;91;22;6;15;44;45;41663;5;70388
+Juguetes;Hamburgo;Sí;No;Tableta;Linux;Germany;Sí;PayPal;U0985;Femenino;Google;74;23;27;1;50;38;7521;1;0
+Juguetes;Hamburgo;Sí;No;Tableta;Windows;Germany;No;Tarjeta de Regalo;U0302;Masculino;Google;90;19;27;4;0;44;34458;3;50513
+Juguetes;Hamburgo;Sí;Sí;Escritorio;MacOS;Germany;No;Tarjeta de Crédito;U0826;Otro;Otro;85;21;23;9;0;25;9333;1;3282
+Juguetes;Hamburgo;Sí;Sí;Móvil;Linux;Germany;Sí;Tarjeta de Crédito;U1399;Otro;Otro;180;38;12;23;0;36;48911;0;0
+Juguetes;Londres;No;No;Escritorio;Linux;UK;No;Tarjeta de Crédito;U1316;Femenino;Otro;65;53;8;15;0;3;17838;7;774
+Juguetes;Londres;No;No;Escritorio;Linux;UK;Sí;Criptomoneda;U1165;Masculino;Google;85;29;26;22;0;28;9581;3;30611
+Juguetes;Londres;No;No;Móvil;Linux;UK;No;Tarjeta de Crédito;U1493;Masculino;Otro;154;24;10;6;0;41;33702;10;68032
+Juguetes;Londres;No;No;Tableta;iOS;UK;Sí;Tarjeta de Regalo;U1483;Otro;Redes Sociales;108;64;10;21;31;2;3546;5;81197
+Juguetes;Londres;No;No;Tableta;MacOS;UK;No;Tarjeta de Regalo;U0496;Otro;Redes Sociales;140;36;20;22;0;50;36383;0;4121
+Juguetes;Londres;No;No;Tableta;MacOS;UK;No;Tarjeta de Regalo;U1324;Otro;Correo Electrónico;172;28;29;9;0;48;28806;6;0
+Juguetes;Londres;No;No;Tableta;Windows;UK;Sí;Tarjeta de Crédito;U0719;Otro;Google;71;50;8;10;9;9;26039;1;0
+Juguetes;Londres;No;Sí;Escritorio;iOS;UK;No;Tarjeta de Regalo;U1111;Otro;Redes Sociales;175;21;3;4;0;5;3398;7;23219
+Juguetes;Londres;Sí;No;Escritorio;MacOS;UK;No;Tarjeta de Regalo;U0160;Masculino;Otro;165;46;20;0;31;18;300;1;58995
+Juguetes;Londres;Sí;Sí;Escritorio;Windows;UK;No;PayPal;U0918;Otro;Google;42;42;21;6;25;50;34015;9;8756
+Juguetes;Londres;Sí;Sí;Tableta;MacOS;UK;No;Criptomoneda;U0508;Femenino;Redes Sociales;118;44;12;20;0;23;16349;2;0
+Juguetes;Londres;Sí;Sí;Tableta;Windows;UK;No;Tarjeta de Crédito;U0421;Otro;Correo Electrónico;111;50;26;15;0;37;12341;9;0
+Juguetes;Los Ángeles;No;No;Escritorio;MacOS;USA;No;Tarjeta de Crédito;U0272;Masculino;Correo Electrónico;60;29;11;0;0;40;9859;0;60354
+Juguetes;Los Ángeles;No;No;Tableta;iOS;USA;No;Tarjeta de Regalo;U0953;Femenino;Redes Sociales;99;43;30;16;9;45;7363;1;0
+Juguetes;Los Ángeles;No;No;Tableta;iOS;USA;Sí;Criptomoneda;U1420;Otro;Correo Electrónico;64;22;22;13;37;20;47818;0;0
+Juguetes;Los Ángeles;No;No;Tableta;Windows;USA;No;Criptomoneda;U1006;Otro;Correo Electrónico;122;43;22;22;9;18;19748;3;0
+Juguetes;Los Ángeles;No;Sí;Tableta;Android;USA;Sí;Tarjeta de Crédito;U0086;Femenino;Otro;10;64;7;2;0;36;39114;3;39096
+Juguetes;Los Ángeles;No;Sí;Tableta;iOS;USA;Sí;Tarjeta de Regalo;U0400;Otro;Redes Sociales;22;25;8;0;10;10;4092;8;53099
+Juguetes;Los Ángeles;No;Sí;Tableta;Linux;USA;No;Criptomoneda;U1116;Femenino;Directo;61;27;28;3;0;41;1284;0;0
+Juguetes;Los Ángeles;Sí;No;Escritorio;iOS;USA;Sí;Criptomoneda;U0839;Otro;Correo Electrónico;96;60;14;9;0;35;6534;7;19608
+Juguetes;Los Ángeles;Sí;No;Escritorio;Linux;USA;Sí;Tarjeta de Regalo;U1402;Femenino;Redes Sociales;10;19;23;16;0;39;8922;0;27438
+Juguetes;Los Ángeles;Sí;No;Tableta;Windows;USA;No;Tarjeta de Regalo;U1342;Femenino;Correo Electrónico;150;34;15;15;0;42;32215;2;89052
+Juguetes;Los Ángeles;Sí;Sí;Escritorio;iOS;USA;No;Criptomoneda;U0447;Masculino;Redes Sociales;52;26;15;14;22;17;49466;7;0
+Juguetes;Los Ángeles;Sí;Sí;Móvil;Linux;USA;Sí;PayPal;U0926;Masculino;Directo;125;43;11;18;0;31;40167;6;90734
+Juguetes;Los Ángeles;Sí;Sí;Tableta;Linux;USA;Sí;PayPal;U1051;Masculino;Google;146;46;17;22;0;27;46093;6;35003
+Juguetes;Lyon;No;No;Escritorio;MacOS;France;Sí;Criptomoneda;U1345;Masculino;Directo;84;63;25;10;3;3;10738;10;0
+Juguetes;Lyon;No;No;Tableta;iOS;France;No;Tarjeta de Crédito;U0587;Masculino;Directo;47;45;8;20;0;20;2438;7;0
+Juguetes;Lyon;No;No;Tableta;Linux;France;Sí;Tarjeta de Crédito;U1037;Femenino;Otro;72;47;5;1;0;5;18993;10;68048
+Juguetes;Lyon;No;Sí;Escritorio;Android;France;No;Tarjeta de Crédito;U0632;Otro;Correo Electrónico;76;55;17;23;44;9;46717;5;18116
+Juguetes;Lyon;No;Sí;Móvil;Linux;France;No;Tarjeta de Regalo;U1270;Masculino;Directo;175;63;7;13;0;37;22643;2;42257
+Juguetes;Lyon;Sí;No;Escritorio;Android;France;Sí;PayPal;U0084;Masculino;Directo;116;62;5;9;29;40;12064;2;0
+Juguetes;Lyon;Sí;No;Escritorio;iOS;France;Sí;Criptomoneda;U1497;Otro;Directo;82;26;22;17;0;17;45409;10;29785
+Juguetes;Lyon;Sí;No;Escritorio;Windows;France;No;Tarjeta de Regalo;U0952;Otro;Correo Electrónico;143;23;8;13;34;30;43575;3;0
+Juguetes;Lyon;Sí;Sí;Escritorio;iOS;France;Sí;Tarjeta de Regalo;U0251;Otro;Correo Electrónico;92;50;2;11;0;37;23804;4;0
+Juguetes;Lyon;Sí;Sí;Escritorio;Linux;France;Sí;Criptomoneda;U1327;Masculino;Directo;79;20;9;8;50;13;1071;0;53244
+Juguetes;Lyon;Sí;Sí;Móvil;MacOS;France;No;Tarjeta de Regalo;U1412;Femenino;Correo Electrónico;51;53;27;10;17;30;45839;2;34288
+Juguetes;Manchester;No;No;Escritorio;MacOS;UK;Sí;Tarjeta de Regalo;U0573;Masculino;Correo Electrónico;152;34;15;23;0;49;17446;7;1037
+Juguetes;Manchester;No;No;Tableta;Android;UK;No;Criptomoneda;U0958;Femenino;Redes Sociales;20;50;18;12;0;47;40168;0;98826
+Juguetes;Manchester;No;No;Tableta;Android;UK;Sí;Criptomoneda;U0688;Masculino;Correo Electrónico;10;58;10;14;0;20;47265;4;72382
+Juguetes;Manchester;No;No;Tableta;Linux;UK;No;Criptomoneda;U0600;Masculino;Google;22;33;8;17;27;45;21014;6;96802
+Juguetes;Manchester;No;Sí;Móvil;MacOS;UK;No;Criptomoneda;U0377;Femenino;Otro;109;44;20;18;0;12;25881;2;13655
+Juguetes;Manchester;No;Sí;Móvil;MacOS;UK;No;PayPal;U0675;Femenino;Redes Sociales;150;62;17;20;0;1;35584;4;69982
+Juguetes;Manchester;No;Sí;Tableta;Linux;UK;Sí;Criptomoneda;U1039;Femenino;Google;83;22;29;9;0;16;3645;8;0
+Juguetes;Manchester;No;Sí;Tableta;MacOS;UK;No;Tarjeta de Regalo;U1439;Otro;Otro;168;18;18;3;0;39;16533;4;0
+Juguetes;Manchester;Sí;No;Escritorio;Android;UK;Sí;Tarjeta de Crédito;U0551;Femenino;Correo Electrónico;22;27;2;2;36;39;10408;6;0
+Juguetes;Manchester;Sí;No;Móvil;iOS;UK;No;Criptomoneda;U0696;Otro;Google;77;28;4;13;0;32;2173;7;0
+Juguetes;Manchester;Sí;No;Móvil;MacOS;UK;No;Tarjeta de Regalo;U0825;Masculino;Correo Electrónico;72;46;5;0;0;44;35748;4;59694
+Juguetes;Manchester;Sí;No;Tableta;Android;UK;No;Tarjeta de Regalo;U0638;Otro;Correo Electrónico;180;39;27;2;40;19;4835;5;0
+Juguetes;Manchester;Sí;No;Tableta;Windows;UK;No;PayPal;U1284;Otro;Directo;158;64;28;14;0;10;25989;0;0
+Juguetes;Manchester;Sí;Sí;Escritorio;Android;UK;No;Tarjeta de Regalo;U1078;Masculino;Google;20;50;9;8;45;29;32086;3;9407
+Juguetes;Manchester;Sí;Sí;Móvil;Android;UK;Sí;Criptomoneda;U0769;Masculino;Google;13;27;2;16;0;31;48671;1;96968
+Juguetes;Manchester;Sí;Sí;Móvil;Windows;UK;Sí;PayPal;U0155;Masculino;Directo;180;40;7;17;0;34;4576;8;0
+Juguetes;Manchester;Sí;Sí;Tableta;MacOS;UK;Sí;Tarjeta de Regalo;U0949;Masculino;Otro;154;59;24;3;18;20;5487;10;0
+Juguetes;Marsella;No;No;Escritorio;MacOS;France;Sí;Tarjeta de Crédito;U0744;Otro;Redes Sociales;18;38;13;14;0;15;28632;0;85533
+Juguetes;Marsella;No;Sí;Escritorio;Android;France;Sí;Criptomoneda;U0808;Masculino;Correo Electrónico;154;55;6;5;0;9;2685;10;0
+Juguetes;Marsella;No;Sí;Móvil;Windows;France;Sí;Criptomoneda;U1419;Masculino;Otro;28;39;25;14;0;9;12984;2;62956
+Juguetes;Marsella;No;Sí;Móvil;Windows;France;Sí;Tarjeta de Regalo;U1479;Femenino;Otro;120;43;9;13;0;48;3958;3;0
+Juguetes;Marsella;Sí;No;Móvil;Linux;France;Sí;Tarjeta de Regalo;U0538;Masculino;Directo;93;27;27;0;0;41;33534;7;36721
+Juguetes;Marsella;Sí;No;Tableta;Android;France;Sí;Tarjeta de Crédito;U0701;Masculino;Otro;8;25;11;9;0;46;8644;8;0
+Juguetes;Marsella;Sí;No;Tableta;iOS;France;Sí;PayPal;U1229;Otro;Otro;18;34;4;17;0;37;41353;9;31717
+Juguetes;Marsella;Sí;Sí;Escritorio;Linux;France;No;Tarjeta de Regalo;U1481;Otro;Directo;47;62;19;4;23;49;9055;10;0
+Juguetes;Marsella;Sí;Sí;Móvil;MacOS;France;Sí;PayPal;U0652;Otro;Google;68;43;21;14;48;5;15481;0;45382
+Juguetes;Marsella;Sí;Sí;Móvil;Windows;France;No;Tarjeta de Crédito;U0728;Masculino;Google;110;23;18;23;11;4;22856;8;0
+Juguetes;Marsella;Sí;Sí;Tableta;Windows;France;Sí;PayPal;U0168;Masculino;Directo;164;59;15;14;0;6;40392;8;0
+Juguetes;Monterrey;No;No;Escritorio;Windows;Mexico;Sí;Tarjeta de Regalo;U0575;Otro;Directo;178;65;14;18;0;44;28287;2;21895
+Juguetes;Monterrey;No;No;Móvil;MacOS;Mexico;Sí;Tarjeta de Crédito;U0517;Femenino;Google;122;29;3;16;16;13;20161;7;35153
+Juguetes;Monterrey;No;No;Tableta;Linux;Mexico;Sí;Tarjeta de Regalo;U1156;Masculino;Directo;91;43;18;1;0;44;1028;7;89755
+Juguetes;Monterrey;No;Sí;Escritorio;Linux;Mexico;No;Criptomoneda;U0624;Masculino;Correo Electrónico;33;57;21;11;8;17;27926;3;68038
+Juguetes;Monterrey;Sí;No;Escritorio;Android;Mexico;No;Criptomoneda;U0233;Otro;Directo;144;65;27;8;0;42;28888;9;0
+Juguetes;Monterrey;Sí;No;Móvil;Android;Mexico;No;Tarjeta de Regalo;U0824;Femenino;Google;46;22;8;14;5;31;32568;10;71821
+Juguetes;Monterrey;Sí;No;Móvil;Windows;Mexico;Sí;Criptomoneda;U0219;Otro;Directo;128;43;16;23;0;39;49473;5;53445
+Juguetes;Monterrey;Sí;No;Tableta;Android;Mexico;Sí;Tarjeta de Regalo;U0093;Otro;Correo Electrónico;126;32;14;22;0;6;30451;6;14055
+Juguetes;Monterrey;Sí;No;Tableta;iOS;Mexico;Sí;Tarjeta de Regalo;U0837;Otro;Otro;107;30;12;22;22;40;17192;4;77627
+Juguetes;Monterrey;Sí;Sí;Escritorio;Android;Mexico;Sí;Tarjeta de Regalo;U1031;Otro;Directo;7;26;2;11;17;45;46714;8;40215
+Juguetes;Monterrey;Sí;Sí;Tableta;iOS;Mexico;Sí;PayPal;U0002;Femenino;Google;71;46;30;21;0;44;12213;8;2450
+Juguetes;Monterrey;Sí;Sí;Tableta;Linux;Mexico;No;PayPal;U0545;Masculino;Directo;47;28;27;7;43;27;16968;1;89483
+Juguetes;Montreal;No;No;Escritorio;Windows;Canada;Sí;PayPal;U1280;Otro;Google;169;20;7;3;31;5;8953;1;74558
+Juguetes;Montreal;No;Sí;Móvil;Linux;Canada;Sí;PayPal;U0056;Masculino;Otro;60;64;16;12;0;44;48137;2;28382
+Juguetes;Montreal;No;Sí;Móvil;MacOS;Canada;Sí;PayPal;U1088;Femenino;Redes Sociales;123;57;10;10;36;40;14796;1;0
+Juguetes;Montreal;No;Sí;Tableta;Android;Canada;Sí;Criptomoneda;U0044;Masculino;Correo Electrónico;132;21;19;2;35;20;47316;0;0
+Juguetes;Montreal;No;Sí;Tableta;iOS;Canada;No;PayPal;U0426;Femenino;Directo;70;56;14;23;2;35;28237;6;0
+Juguetes;Montreal;No;Sí;Tableta;Linux;Canada;No;Criptomoneda;U0880;Masculino;Directo;145;43;9;5;26;31;46125;9;93784
+Juguetes;Montreal;Sí;No;Escritorio;Android;Canada;Sí;PayPal;U1349;Masculino;Redes Sociales;134;34;28;15;0;29;34611;0;0
+Juguetes;Montreal;Sí;No;Móvil;Android;Canada;Sí;Tarjeta de Regalo;U0731;Otro;Google;12;64;5;21;36;25;17129;0;0
+Juguetes;Montreal;Sí;No;Móvil;Linux;Canada;Sí;Tarjeta de Regalo;U0239;Femenino;Otro;88;46;6;4;0;40;12086;10;78744
+Juguetes;Montreal;Sí;No;Tableta;iOS;Canada;Sí;PayPal;U1431;Masculino;Otro;101;51;6;4;0;40;39177;5;83915
+Juguetes;Montreal;Sí;Sí;Escritorio;iOS;Canada;Sí;Tarjeta de Regalo;U1180;Femenino;Directo;94;58;28;18;0;43;25732;4;28524
+Juguetes;Montreal;Sí;Sí;Escritorio;MacOS;Canada;Sí;PayPal;U0041;Otro;Google;43;26;8;2;0;33;3150;6;0
+Juguetes;Montreal;Sí;Sí;Tableta;MacOS;Canada;No;Criptomoneda;U0091;Femenino;Directo;173;58;8;6;40;44;19306;3;87533
+Juguetes;Múnich;No;No;Móvil;iOS;Germany;No;PayPal;U1299;Femenino;Google;114;33;22;10;0;14;35353;6;0
+Juguetes;Múnich;No;No;Móvil;Linux;Germany;No;PayPal;U1151;Otro;Directo;159;64;6;6;32;3;29748;2;0
+Juguetes;Múnich;No;Sí;Móvil;MacOS;Germany;Sí;Tarjeta de Crédito;U1307;Masculino;Google;129;24;7;0;0;4;2715;6;42409
+Juguetes;Múnich;No;Sí;Tableta;Android;Germany;No;Tarjeta de Regalo;U0907;Masculino;Correo Electrónico;173;20;27;10;0;22;46167;9;0
+Juguetes;Múnich;Sí;No;Escritorio;Linux;Germany;No;Tarjeta de Crédito;U0981;Masculino;Otro;120;45;19;21;21;33;29467;6;27747
+Juguetes;Múnich;Sí;No;Móvil;iOS;Germany;No;Tarjeta de Regalo;U1122;Masculino;Redes Sociales;116;53;20;9;0;27;15108;2;0
+Juguetes;Múnich;Sí;No;Móvil;Windows;Germany;No;Tarjeta de Crédito;U0996;Masculino;Redes Sociales;151;23;30;8;0;31;2950;8;0
+Juguetes;Múnich;Sí;No;Móvil;Windows;Germany;Sí;Tarjeta de Regalo;U0289;Otro;Redes Sociales;22;53;25;21;19;48;16608;2;0
+Juguetes;Múnich;Sí;No;Tableta;MacOS;Germany;No;Criptomoneda;U0341;Otro;Google;36;21;18;2;32;21;11763;4;0
+Juguetes;Múnich;Sí;Sí;Escritorio;iOS;Germany;No;Tarjeta de Crédito;U1107;Masculino;Correo Electrónico;133;50;5;11;0;28;19174;2;0
+Juguetes;Múnich;Sí;Sí;Escritorio;Windows;Germany;No;PayPal;U0094;Femenino;Redes Sociales;64;62;29;22;1;13;28215;5;0
+Juguetes;Múnich;Sí;Sí;Móvil;iOS;Germany;No;Tarjeta de Regalo;U0786;Femenino;Google;53;25;6;6;1;3;27706;3;39035
+Juguetes;Múnich;Sí;Sí;Tableta;MacOS;Germany;Sí;Tarjeta de Crédito;U0336;Otro;Correo Electrónico;162;64;7;10;0;32;10076;5;64357
+Juguetes;Nueva York;No;No;Escritorio;MacOS;USA;Sí;Tarjeta de Regalo;U0898;Masculino;Directo;152;45;19;9;0;45;6282;6;0
+Juguetes;Nueva York;No;No;Móvil;Linux;USA;No;Tarjeta de Regalo;U0450;Otro;Otro;86;18;19;6;17;24;39087;4;95331
+Juguetes;Nueva York;No;No;Móvil;MacOS;USA;Sí;PayPal;U1287;Otro;Otro;122;50;2;17;0;5;42701;0;69019
+Juguetes;Nueva York;No;No;Móvil;Windows;USA;No;Tarjeta de Crédito;U1212;Femenino;Directo;27;44;22;10;40;32;21213;7;0
+Juguetes;Nueva York;No;Sí;Escritorio;Android;USA;Sí;Criptomoneda;U0410;Femenino;Directo;167;49;24;11;0;4;21042;6;45573
+Juguetes;Nueva York;No;Sí;Escritorio;MacOS;USA;No;Tarjeta de Regalo;U0335;Femenino;Correo Electrónico;142;45;19;9;45;28;23275;3;8751
+Juguetes;Nueva York;No;Sí;Escritorio;MacOS;USA;Sí;PayPal;U0707;Masculino;Google;85;45;23;21;0;49;16103;0;94263
+Juguetes;Nueva York;No;Sí;Tableta;Linux;USA;Sí;Tarjeta de Regalo;U1085;Otro;Directo;157;64;18;14;34;7;8071;3;90594
+Juguetes;Nueva York;No;Sí;Tableta;Windows;USA;No;Tarjeta de Crédito;U0359;Otro;Redes Sociales;149;38;24;16;0;13;49946;7;0
+Juguetes;Nueva York;Sí;No;Escritorio;iOS;USA;Sí;Tarjeta de Crédito;U0031;Masculino;Directo;168;59;27;16;22;20;14268;10;0
+Juguetes;Nueva York;Sí;No;Escritorio;MacOS;USA;Sí;PayPal;U0340;Femenino;Redes Sociales;150;36;27;10;1;36;1093;9;29072
+Juguetes;Nueva York;Sí;No;Móvil;Android;USA;No;PayPal;U0462;Femenino;Otro;39;39;19;16;16;9;26665;7;0
+Juguetes;Nueva York;Sí;No;Móvil;Android;USA;No;PayPal;U0845;Masculino;Directo;57;48;22;0;0;28;3223;8;66337
+Juguetes;Nueva York;Sí;No;Móvil;Linux;USA;No;Criptomoneda;U0800;Femenino;Otro;33;40;16;8;0;39;3545;7;0
+Juguetes;Nueva York;Sí;No;Móvil;Linux;USA;No;Tarjeta de Regalo;U0479;Otro;Correo Electrónico;65;33;24;8;0;49;8846;7;0
+Juguetes;Nueva York;Sí;No;Tableta;Linux;USA;No;Tarjeta de Crédito;U0656;Masculino;Directo;93;62;4;12;0;24;6845;6;0
+Juguetes;Nueva York;Sí;No;Tableta;Windows;USA;Sí;Criptomoneda;U0173;Masculino;Directo;100;61;27;22;0;2;18072;3;45408
+Juguetes;Nueva York;Sí;Sí;Tableta;MacOS;USA;Sí;PayPal;U0301;Otro;Google;76;35;7;0;0;11;44804;5;0
+Juguetes;París;No;Sí;Escritorio;iOS;France;Sí;PayPal;U1429;Masculino;Otro;74;62;15;17;39;23;1614;0;0
+Juguetes;París;No;Sí;Escritorio;Linux;France;Sí;PayPal;U1250;Otro;Otro;114;57;15;17;47;17;40653;2;94658
+Juguetes;París;No;Sí;Escritorio;MacOS;France;Sí;Criptomoneda;U0398;Femenino;Redes Sociales;153;37;6;23;0;8;43125;4;61411
+Juguetes;París;No;Sí;Escritorio;Windows;France;No;PayPal;U0585;Femenino;Directo;16;26;14;0;20;46;26729;2;0
+Juguetes;París;No;Sí;Móvil;Android;France;No;Tarjeta de Crédito;U0903;Femenino;Directo;88;62;25;22;2;46;5672;9;56626
+Juguetes;París;No;Sí;Móvil;MacOS;France;Sí;Tarjeta de Crédito;U1263;Otro;Redes Sociales;155;46;29;12;0;35;8348;1;59183
+Juguetes;París;No;Sí;Tableta;Windows;France;No;Tarjeta de Crédito;U1007;Otro;Otro;103;31;9;14;0;44;2847;4;36537
+Juguetes;París;Sí;No;Móvil;Android;France;Sí;Tarjeta de Crédito;U0243;Femenino;Otro;85;36;15;19;0;7;26914;10;85952
+Juguetes;París;Sí;No;Móvil;Linux;France;Sí;Criptomoneda;U1277;Otro;Redes Sociales;22;46;30;22;36;14;37305;2;0
+Juguetes;París;Sí;Sí;Tableta;Linux;France;Sí;PayPal;U0832;Masculino;Otro;151;41;4;23;0;13;3874;4;57919
+Juguetes;Rio de Janeiro;No;No;Móvil;Linux;Brazil;Sí;PayPal;U0416;Otro;Otro;99;59;12;6;0;25;1617;10;33034
+Juguetes;Rio de Janeiro;No;No;Móvil;MacOS;Brazil;Sí;Tarjeta de Regalo;U0176;Masculino;Otro;19;47;8;20;20;36;32258;6;0
+Juguetes;Rio de Janeiro;No;No;Tableta;Linux;Brazil;Sí;PayPal;U0530;Femenino;Correo Electrónico;164;19;16;14;7;44;4454;7;83897
+Juguetes;Rio de Janeiro;No;No;Tableta;Windows;Brazil;Sí;Criptomoneda;U0742;Otro;Redes Sociales;171;64;4;4;0;38;19462;9;65262
+Juguetes;Rio de Janeiro;No;Sí;Tableta;Android;Brazil;Sí;Criptomoneda;U1286;Masculino;Directo;146;20;22;6;1;17;33314;9;60705
+Juguetes;Rio de Janeiro;No;Sí;Tableta;Linux;Brazil;No;Criptomoneda;U0806;Femenino;Redes Sociales;177;28;1;22;32;32;13821;3;0
+Juguetes;Rio de Janeiro;No;Sí;Tableta;Linux;Brazil;Sí;Criptomoneda;U0581;Femenino;Google;121;29;20;15;0;27;48252;1;61609
+Juguetes;Rio de Janeiro;Sí;No;Escritorio;Linux;Brazil;Sí;Criptomoneda;U1353;Femenino;Redes Sociales;23;19;24;23;0;9;3939;4;0
+Juguetes;Rio de Janeiro;Sí;No;Móvil;MacOS;Brazil;No;Criptomoneda;U1003;Femenino;Google;130;29;4;7;34;20;29445;1;98939
+Juguetes;Rio de Janeiro;Sí;No;Móvil;MacOS;Brazil;No;PayPal;U1084;Femenino;Directo;129;50;23;9;6;22;836;8;0
+Juguetes;Rio de Janeiro;Sí;Sí;Escritorio;Windows;Brazil;No;PayPal;U0121;Femenino;Google;119;65;18;13;0;3;35878;5;31848
+Juguetes;Rio de Janeiro;Sí;Sí;Móvil;Linux;Brazil;No;PayPal;U0109;Femenino;Directo;42;50;6;20;0;37;9587;10;20916
+Juguetes;Rio de Janeiro;Sí;Sí;Tableta;MacOS;Brazil;No;Tarjeta de Crédito;U0142;Otro;Otro;158;44;5;1;0;34;33264;3;0
+Juguetes;Rio de Janeiro;Sí;Sí;Tableta;MacOS;Brazil;Sí;Criptomoneda;U0740;Masculino;Directo;171;35;20;19;0;48;30482;10;57708
+Juguetes;Sao Paulo;No;No;Móvil;iOS;Brazil;No;Tarjeta de Regalo;U0394;Masculino;Otro;35;30;7;23;0;4;5913;6;0
+Juguetes;Sao Paulo;No;No;Móvil;Linux;Brazil;No;Tarjeta de Crédito;U0418;Masculino;Redes Sociales;46;32;5;1;0;12;30669;1;64871
+Juguetes;Sao Paulo;No;No;Tableta;MacOS;Brazil;No;Tarjeta de Crédito;U0187;Masculino;Google;164;56;25;12;27;48;31316;2;0
+Juguetes;Sao Paulo;No;Sí;Escritorio;Android;Brazil;No;Tarjeta de Regalo;U0642;Femenino;Otro;3;62;10;19;2;18;33431;10;22863
+Juguetes;Sao Paulo;No;Sí;Móvil;Android;Brazil;No;Criptomoneda;U0413;Otro;Otro;157;42;29;22;43;16;46557;5;0
+Juguetes;Sao Paulo;No;Sí;Móvil;Linux;Brazil;No;Tarjeta de Regalo;U0630;Otro;Redes Sociales;137;46;4;11;0;42;5258;7;0
+Juguetes;Sao Paulo;No;Sí;Tableta;Linux;Brazil;No;Tarjeta de Regalo;U1130;Masculino;Directo;15;64;9;0;0;6;18297;7;0
+Juguetes;Sao Paulo;No;Sí;Tableta;Windows;Brazil;No;Tarjeta de Regalo;U0424;Femenino;Correo Electrónico;157;61;11;8;0;18;18784;6;0
+Juguetes;Sao Paulo;Sí;No;Escritorio;MacOS;Brazil;No;Criptomoneda;U0834;Femenino;Google;64;51;28;5;30;6;41179;9;8643
+Juguetes;Sao Paulo;Sí;No;Escritorio;MacOS;Brazil;No;PayPal;U0513;Femenino;Directo;75;50;15;1;0;15;10955;10;0
+Juguetes;Sao Paulo;Sí;No;Móvil;Android;Brazil;No;Tarjeta de Crédito;U1181;Femenino;Redes Sociales;134;39;16;8;17;5;21411;10;60622
+Juguetes;Sao Paulo;Sí;No;Tableta;Android;Brazil;No;PayPal;U1265;Femenino;Redes Sociales;72;20;8;21;0;47;7064;2;43171
+Juguetes;Sao Paulo;Sí;No;Tableta;iOS;Brazil;Sí;Tarjeta de Crédito;U0376;Otro;Directo;5;19;11;20;28;9;43604;8;8069
+Juguetes;Sao Paulo;Sí;Sí;Escritorio;Linux;Brazil;No;Tarjeta de Regalo;U0465;Femenino;Redes Sociales;11;29;27;5;0;23;33358;3;0
+Juguetes;Sao Paulo;Sí;Sí;Escritorio;MacOS;Brazil;Sí;Tarjeta de Regalo;U0162;Otro;Redes Sociales;55;30;15;16;33;19;36158;1;0
+Juguetes;Toronto;No;No;Escritorio;iOS;Canada;Sí;Tarjeta de Regalo;U0014;Otro;Correo Electrónico;98;57;15;17;33;46;36157;4;0
+Juguetes;Toronto;No;No;Tableta;Windows;Canada;Sí;Tarjeta de Crédito;U1235;Femenino;Correo Electrónico;146;57;3;17;48;50;31163;8;0
+Juguetes;Toronto;No;Sí;Escritorio;MacOS;Canada;No;Criptomoneda;U0879;Masculino;Otro;92;26;12;10;0;8;8111;6;0
+Juguetes;Toronto;No;Sí;Móvil;Android;Canada;No;Tarjeta de Crédito;U0933;Masculino;Redes Sociales;105;21;5;17;0;23;40402;5;2041
+Juguetes;Toronto;No;Sí;Móvil;Linux;Canada;Sí;Criptomoneda;U1009;Femenino;Google;119;54;24;15;0;5;30417;7;0
+Juguetes;Toronto;Sí;No;Móvil;Android;Canada;No;Criptomoneda;U0303;Femenino;Otro;10;52;2;16;29;28;1287;6;49435
+Juguetes;Toronto;Sí;No;Móvil;Linux;Canada;Sí;PayPal;U1032;Otro;Correo Electrónico;30;28;19;17;0;26;43434;8;0
+Juguetes;Toronto;Sí;No;Tableta;Android;Canada;Sí;PayPal;U0925;Masculino;Otro;89;39;6;23;0;30;4217;4;468
+Juguetes;Toronto;Sí;Sí;Móvil;iOS;Canada;No;Tarjeta de Regalo;U0125;Masculino;Google;12;52;18;0;0;26;12613;2;0
+Juguetes;Toronto;Sí;Sí;Móvil;MacOS;Canada;Sí;Tarjeta de Crédito;U0977;Femenino;Google;99;48;20;12;15;33;34451;4;0
+Juguetes;Toronto;Sí;Sí;Tableta;Windows;Canada;No;Tarjeta de Regalo;U0615;Otro;Otro;152;29;4;16;0;34;18654;1;29078
+Juguetes;Vancouver;No;No;Escritorio;iOS;Canada;No;PayPal;U0032;Masculino;Google;122;45;17;1;0;16;16563;0;60274
+Juguetes;Vancouver;No;No;Móvil;iOS;Canada;No;Criptomoneda;U0633;Femenino;Otro;29;36;18;13;35;17;27348;9;63583
+Juguetes;Vancouver;No;No;Tableta;Android;Canada;Sí;PayPal;U0660;Femenino;Directo;134;45;24;0;0;24;13471;9;0
+Juguetes;Vancouver;No;Sí;Escritorio;Linux;Canada;No;Criptomoneda;U0870;Masculino;Correo Electrónico;40;58;1;17;16;3;14107;8;15376
+Juguetes;Vancouver;No;Sí;Móvil;iOS;Canada;Sí;Tarjeta de Regalo;U1150;Masculino;Correo Electrónico;82;40;3;22;17;47;11199;0;4770
+Juguetes;Vancouver;No;Sí;Móvil;MacOS;Canada;No;Criptomoneda;U0723;Femenino;Directo;152;65;19;13;0;18;28557;7;0
+Juguetes;Vancouver;No;Sí;Móvil;MacOS;Canada;No;Tarjeta de Crédito;U0441;Femenino;Directo;102;36;13;22;25;34;17873;6;0
+Juguetes;Vancouver;No;Sí;Móvil;Windows;Canada;No;Criptomoneda;U0901;Otro;Correo Electrónico;116;41;14;2;40;23;23039;3;70016
+Juguetes;Vancouver;No;Sí;Tableta;iOS;Canada;Sí;Tarjeta de Regalo;U1171;Otro;Google;128;54;5;4;29;15;18572;7;0
+Juguetes;Vancouver;Sí;No;Escritorio;Android;Canada;Sí;Tarjeta de Crédito;U0085;Otro;Redes Sociales;48;35;21;17;26;2;20773;4;47315
+Juguetes;Vancouver;Sí;No;Escritorio;Linux;Canada;Sí;Criptomoneda;U0554;Femenino;Google;74;41;29;12;46;30;4075;5;9370
+Juguetes;Vancouver;Sí;No;Móvil;Android;Canada;Sí;Tarjeta de Regalo;U1363;Otro;Google;55;46;26;5;29;35;16834;0;86999
+Juguetes;Vancouver;Sí;No;Móvil;iOS;Canada;Sí;Tarjeta de Regalo;U0549;Otro;Redes Sociales;87;38;13;12;0;28;34613;10;7879
+Juguetes;Vancouver;Sí;No;Tableta;MacOS;Canada;No;Tarjeta de Regalo;U1367;Masculino;Correo Electrónico;55;54;16;15;16;41;40275;4;33969
+Juguetes;Vancouver;Sí;Sí;Escritorio;Linux;Canada;No;PayPal;U1145;Femenino;Directo;79;27;29;0;0;17;34028;9;0
+Juguetes;Vancouver;Sí;Sí;Móvil;Android;Canada;Sí;PayPal;U1281;Masculino;Correo Electrónico;42;41;5;8;2;17;11728;1;0
+Juguetes;Vancouver;Sí;Sí;Tableta;MacOS;Canada;Sí;PayPal;U0221;Femenino;Otro;85;23;3;20;0;33;32918;9;22738
+Juguetes;Vancouver;Sí;Sí;Tableta;Windows;Canada;No;Tarjeta de Regalo;U1491;Masculino;Directo;26;38;17;3;13;18;38259;6;0
+Hogar y Jardín;Berlín;No;No;Escritorio;Android;Germany;No;Tarjeta de Regalo;U0073;Femenino;Otro;112;53;23;4;0;15;12467;8;46034
+Hogar y Jardín;Berlín;No;No;Móvil;Android;Germany;Sí;Criptomoneda;U0452;Otro;Redes Sociales;42;51;24;14;0;46;41567;7;30002
+Hogar y Jardín;Berlín;No;No;Tableta;iOS;Germany;No;Criptomoneda;U0601;Femenino;Correo Electrónico;66;56;27;6;0;3;34632;7;4805
+Hogar y Jardín;Berlín;No;Sí;Escritorio;Android;Germany;Sí;Criptomoneda;U0432;Otro;Otro;131;64;25;15;37;41;32204;10;0
+Hogar y Jardín;Berlín;No;Sí;Escritorio;MacOS;Germany;Sí;PayPal;U1244;Femenino;Google;7;47;30;6;16;39;41168;6;0
+Hogar y Jardín;Berlín;No;Sí;Tableta;Windows;Germany;Sí;Tarjeta de Regalo;U0463;Femenino;Correo Electrónico;179;46;1;5;0;4;40625;6;0
+Hogar y Jardín;Berlín;Sí;No;Escritorio;Android;Germany;Sí;Tarjeta de Crédito;U1154;Otro;Redes Sociales;14;60;29;4;0;24;46112;8;55601
+Hogar y Jardín;Berlín;Sí;No;Tableta;Linux;Germany;No;Criptomoneda;U1461;Femenino;Directo;157;29;3;3;0;22;29888;4;82254
+Hogar y Jardín;Berlín;Sí;Sí;Escritorio;Linux;Germany;No;Tarjeta de Crédito;U1272;Otro;Correo Electrónico;63;50;4;11;0;16;31108;4;0
+Hogar y Jardín;Berlín;Sí;Sí;Móvil;Linux;Germany;Sí;PayPal;U0226;Femenino;Google;66;55;29;17;0;48;24377;7;0
+Hogar y Jardín;Berlín;Sí;Sí;Tableta;iOS;Germany;No;Tarjeta de Regalo;U0716;Femenino;Google;77;44;12;9;0;18;5618;5;0
+Hogar y Jardín;Brasilia;No;No;Escritorio;Linux;Brazil;No;Tarjeta de Regalo;U1332;Femenino;Directo;71;54;13;4;0;37;15777;0;0
+Hogar y Jardín;Brasilia;No;No;Escritorio;Linux;Brazil;Sí;PayPal;U1124;Femenino;Correo Electrónico;82;41;13;7;6;23;43628;7;0
+Hogar y Jardín;Brasilia;No;No;Móvil;Windows;Brazil;Sí;Criptomoneda;U0444;Femenino;Otro;141;54;10;21;0;39;9998;9;10903
+Hogar y Jardín;Brasilia;No;No;Tableta;Android;Brazil;Sí;Criptomoneda;U1262;Masculino;Google;20;25;26;23;0;33;3058;3;0
+Hogar y Jardín;Brasilia;No;No;Tableta;iOS;Brazil;No;PayPal;U1389;Masculino;Google;58;44;30;10;0;13;38405;0;0
+Hogar y Jardín;Brasilia;No;No;Tableta;iOS;Brazil;No;Tarjeta de Crédito;U0761;Otro;Correo Electrónico;67;48;30;0;0;10;11952;2;13876
+Hogar y Jardín;Brasilia;No;Sí;Escritorio;Windows;Brazil;No;PayPal;U1034;Masculino;Correo Electrónico;144;41;18;17;0;44;39029;8;0
+Hogar y Jardín;Brasilia;Sí;No;Escritorio;Linux;Brazil;Sí;Tarjeta de Regalo;U0713;Femenino;Redes Sociales;9;54;15;3;0;34;1535;10;59795
+Hogar y Jardín;Brasilia;Sí;Sí;Escritorio;iOS;Brazil;Sí;Criptomoneda;U0785;Masculino;Otro;35;48;16;5;40;3;23133;10;0
+Hogar y Jardín;Brasilia;Sí;Sí;Escritorio;iOS;Brazil;Sí;Tarjeta de Regalo;U1395;Otro;Otro;105;27;29;20;0;49;7184;4;0
+Hogar y Jardín;Brasilia;Sí;Sí;Escritorio;Linux;Brazil;No;Tarjeta de Crédito;U1220;Masculino;Correo Electrónico;70;41;20;18;24;25;43414;10;0
+Hogar y Jardín;Brasilia;Sí;Sí;Escritorio;MacOS;Brazil;Sí;Tarjeta de Crédito;U1438;Otro;Redes Sociales;88;34;17;9;0;29;27296;7;0
+Hogar y Jardín;Brasilia;Sí;Sí;Móvil;iOS;Brazil;No;Tarjeta de Crédito;U1052;Masculino;Google;134;25;21;12;0;38;16386;10;0
+Hogar y Jardín;Brasilia;Sí;Sí;Móvil;MacOS;Brazil;Sí;Tarjeta de Crédito;U0698;Femenino;Otro;147;27;6;10;1;22;36493;10;17751
+Hogar y Jardín;Chicago;No;Sí;Escritorio;Android;USA;Sí;Criptomoneda;U1416;Femenino;Directo;15;51;6;19;4;8;35774;0;0
+Hogar y Jardín;Chicago;No;Sí;Escritorio;Linux;USA;No;PayPal;U0279;Otro;Correo Electrónico;125;36;20;5;23;30;4396;6;49603
+Hogar y Jardín;Chicago;No;Sí;Escritorio;Linux;USA;Sí;Criptomoneda;U0460;Otro;Redes Sociales;137;56;17;22;16;4;9837;4;1093
+Hogar y Jardín;Chicago;No;Sí;Móvil;Android;USA;No;Criptomoneda;U0307;Masculino;Otro;39;50;10;3;0;22;20524;6;19969
+Hogar y Jardín;Chicago;No;Sí;Móvil;iOS;USA;No;Tarjeta de Regalo;U1015;Femenino;Redes Sociales;84;50;9;22;48;10;15608;2;21344
+Hogar y Jardín;Chicago;No;Sí;Móvil;iOS;USA;Sí;Tarjeta de Regalo;U0003;Otro;Correo Electrónico;108;32;22;13;0;33;44543;9;1723
+Hogar y Jardín;Chicago;No;Sí;Móvil;Windows;USA;No;PayPal;U0720;Masculino;Redes Sociales;102;37;27;10;37;46;13048;6;0
+Hogar y Jardín;Chicago;No;Sí;Móvil;Windows;USA;Sí;Tarjeta de Regalo;U0664;Masculino;Correo Electrónico;55;18;15;6;0;42;30885;9;0
+Hogar y Jardín;Chicago;No;Sí;Tableta;MacOS;USA;Sí;PayPal;U0467;Masculino;Google;42;33;27;1;6;49;36171;5;23488
+Hogar y Jardín;Chicago;Sí;No;Escritorio;Linux;USA;No;Tarjeta de Regalo;U0881;Femenino;Correo Electrónico;28;64;30;16;37;11;37995;5;73797
+Hogar y Jardín;Chicago;Sí;Sí;Escritorio;Linux;USA;Sí;Tarjeta de Crédito;U0019;Otro;Redes Sociales;94;41;7;20;27;1;4545;6;0
+Hogar y Jardín;Chicago;Sí;Sí;Escritorio;Windows;USA;No;Criptomoneda;U0597;Otro;Otro;132;38;13;7;41;19;29853;2;19705
+Hogar y Jardín;Ciudad de MÇ¸xico;No;No;Escritorio;Windows;Mexico;No;PayPal;U0464;Otro;Redes Sociales;12;20;29;10;0;7;36908;7;12227
+Hogar y Jardín;Ciudad de MÇ¸xico;No;No;Móvil;Android;Mexico;Sí;Criptomoneda;U0308;Otro;Redes Sociales;60;21;1;18;0;12;18499;0;97311
+Hogar y Jardín;Ciudad de MÇ¸xico;No;No;Móvil;Windows;Mexico;No;Tarjeta de Crédito;U0776;Otro;Directo;66;18;9;6;16;34;47039;4;58729
+Hogar y Jardín;Ciudad de MÇ¸xico;No;No;Tableta;MacOS;Mexico;No;Criptomoneda;U0942;Masculino;Otro;73;39;23;19;0;13;1765;2;0
+Hogar y Jardín;Ciudad de MÇ¸xico;No;No;Tableta;Windows;Mexico;No;Tarjeta de Regalo;U0215;Otro;Correo Electrónico;135;18;19;22;0;8;26566;5;0
+Hogar y Jardín;Ciudad de MÇ¸xico;No;No;Tableta;Windows;Mexico;Sí;Tarjeta de Crédito;U0781;Otro;Google;76;57;28;3;0;50;19659;2;54604
+Hogar y Jardín;Ciudad de MÇ¸xico;No;Sí;Escritorio;iOS;Mexico;Sí;Criptomoneda;U0653;Otro;Redes Sociales;123;36;3;15;0;30;33287;7;0
+Hogar y Jardín;Ciudad de MÇ¸xico;No;Sí;Escritorio;Windows;Mexico;Sí;Tarjeta de Crédito;U0313;Otro;Redes Sociales;164;37;19;0;23;26;30057;3;0
+Hogar y Jardín;Ciudad de MÇ¸xico;No;Sí;Móvil;Windows;Mexico;No;Tarjeta de Crédito;U0368;Otro;Directo;32;20;21;6;38;25;18986;5;0
+Hogar y Jardín;Ciudad de MÇ¸xico;Sí;No;Escritorio;Android;Mexico;Sí;Tarjeta de Crédito;U1061;Otro;Redes Sociales;127;22;16;18;0;7;19555;7;0
+Hogar y Jardín;Ciudad de MÇ¸xico;Sí;No;Escritorio;Linux;Mexico;No;Criptomoneda;U0643;Masculino;Otro;135;21;25;18;0;7;4396;0;0
+Hogar y Jardín;Ciudad de MÇ¸xico;Sí;No;Móvil;Windows;Mexico;Sí;Tarjeta de Crédito;U0555;Femenino;Otro;138;52;3;18;0;21;7799;8;82781
+Hogar y Jardín;Ciudad de MÇ¸xico;Sí;Sí;Escritorio;iOS;Mexico;Sí;PayPal;U0583;Otro;Google;156;36;6;17;3;28;3145;7;28885
+Hogar y Jardín;Ciudad de MÇ¸xico;Sí;Sí;Tableta;Android;Mexico;Sí;Tarjeta de Regalo;U0099;Masculino;Correo Electrónico;54;41;15;0;0;30;27317;5;92963
+Hogar y Jardín;Ciudad de MÇ¸xico;Sí;Sí;Tableta;Linux;Mexico;Sí;Criptomoneda;U0101;Otro;Redes Sociales;16;61;4;18;38;7;38425;8;76384
+Hogar y Jardín;Ciudad de MÇ¸xico;Sí;Sí;Tableta;Linux;Mexico;Sí;Criptomoneda;U0877;Masculino;Directo;101;62;13;15;48;34;4534;9;0
+Hogar y Jardín;Ciudad de MÇ¸xico;Sí;Sí;Tableta;Windows;Mexico;Sí;PayPal;U0849;Otro;Google;45;21;24;16;24;47;7473;0;68176
+Hogar y Jardín;Edimburgo;No;No;Móvil;MacOS;UK;Sí;Tarjeta de Crédito;U0921;Otro;Correo Electrónico;80;27;30;9;13;39;31077;9;0
+Hogar y Jardín;Edimburgo;No;No;Tableta;Windows;UK;No;PayPal;U0391;Masculino;Otro;32;52;2;5;0;11;4809;4;93743
+Hogar y Jardín;Edimburgo;No;Sí;Escritorio;Linux;UK;No;Tarjeta de Crédito;U1261;Masculino;Correo Electrónico;128;18;5;5;0;14;26778;3;92248
+Hogar y Jardín;Edimburgo;No;Sí;Móvil;iOS;UK;No;Tarjeta de Regalo;U1045;Otro;Google;10;29;22;2;0;31;35325;10;0
+Hogar y Jardín;Edimburgo;No;Sí;Móvil;Windows;UK;No;Criptomoneda;U0920;Masculino;Redes Sociales;162;45;4;0;0;5;23924;4;67206
+Hogar y Jardín;Edimburgo;No;Sí;Móvil;Windows;UK;No;Criptomoneda;U1366;Femenino;Google;130;40;29;15;34;2;13884;2;0
+Hogar y Jardín;Edimburgo;No;Sí;Tableta;Windows;UK;Sí;Tarjeta de Regalo;U0893;Femenino;Directo;66;32;2;9;21;25;42012;4;6800
+Hogar y Jardín;Edimburgo;Sí;No;Escritorio;Android;UK;No;PayPal;U0384;Femenino;Directo;43;26;25;10;46;34;17477;6;0
+Hogar y Jardín;Edimburgo;Sí;No;Escritorio;Windows;UK;Sí;Criptomoneda;U0141;Masculino;Correo Electrónico;101;56;11;7;37;46;43506;5;0
+Hogar y Jardín;Edimburgo;Sí;No;Tableta;iOS;UK;No;Tarjeta de Crédito;U0659;Femenino;Google;127;37;20;5;32;4;37545;2;6483
+Hogar y Jardín;Edimburgo;Sí;No;Tableta;iOS;UK;Sí;Tarjeta de Regalo;U0590;Femenino;Otro;165;36;9;14;35;28;37488;4;0
+Hogar y Jardín;Edimburgo;Sí;No;Tableta;Windows;UK;Sí;PayPal;U1144;Otro;Redes Sociales;34;28;29;9;14;1;35654;8;23481
+Hogar y Jardín;Edimburgo;Sí;Sí;Escritorio;Linux;UK;Sí;Tarjeta de Crédito;U0484;Femenino;Google;175;56;25;10;0;15;33753;3;0
+Hogar y Jardín;Edimburgo;Sí;Sí;Móvil;Linux;UK;No;PayPal;U1384;Otro;Redes Sociales;169;39;4;0;2;37;65;1;6054
+Hogar y Jardín;Edimburgo;Sí;Sí;Tableta;Android;UK;Sí;PayPal;U1020;Otro;Google;62;27;27;5;31;49;3669;9;0
+Hogar y Jardín;Guadalajara;No;No;Móvil;MacOS;Mexico;No;Tarjeta de Regalo;U0055;Masculino;Otro;137;25;8;21;38;26;5646;7;0
+Hogar y Jardín;Guadalajara;No;No;Tableta;iOS;Mexico;No;PayPal;U0626;Otro;Correo Electrónico;118;26;18;14;0;19;765;8;0
+Hogar y Jardín;Guadalajara;No;No;Tableta;Linux;Mexico;No;PayPal;U1401;Masculino;Redes Sociales;103;63;2;19;0;11;28003;7;40161
+Hogar y Jardín;Guadalajara;No;No;Tableta;Windows;Mexico;Sí;Criptomoneda;U1267;Otro;Correo Electrónico;113;27;7;18;0;2;22942;6;0
+Hogar y Jardín;Guadalajara;No;No;Tableta;Windows;Mexico;Sí;Tarjeta de Regalo;U1288;Femenino;Redes Sociales;17;45;29;5;42;45;13268;2;28591
+Hogar y Jardín;Guadalajara;No;Sí;Escritorio;Android;Mexico;No;PayPal;U1247;Femenino;Google;68;46;13;18;0;29;23654;5;87226
+Hogar y Jardín;Guadalajara;No;Sí;Escritorio;Windows;Mexico;No;Criptomoneda;U0672;Otro;Directo;177;61;5;15;0;35;5596;2;0
+Hogar y Jardín;Guadalajara;No;Sí;Móvil;iOS;Mexico;No;Criptomoneda;U1259;Femenino;Directo;179;55;22;12;43;48;16204;9;13772
+Hogar y Jardín;Guadalajara;No;Sí;Tableta;Android;Mexico;No;Tarjeta de Crédito;U0369;Femenino;Correo Electrónico;15;57;17;19;29;44;19485;8;0
+Hogar y Jardín;Guadalajara;Sí;No;Móvil;iOS;Mexico;Sí;Tarjeta de Regalo;U1323;Otro;Directo;135;37;14;6;0;20;7918;3;0
+Hogar y Jardín;Guadalajara;Sí;No;Tableta;Linux;Mexico;Sí;Tarjeta de Regalo;U0801;Masculino;Redes Sociales;147;32;26;2;0;24;24777;2;21986
+Hogar y Jardín;Guadalajara;Sí;Sí;Escritorio;iOS;Mexico;No;Tarjeta de Crédito;U0102;Masculino;Correo Electrónico;18;25;12;19;0;32;46656;2;0
+Hogar y Jardín;Guadalajara;Sí;Sí;Móvil;Android;Mexico;Sí;Criptomoneda;U0922;Otro;Directo;104;56;28;20;36;18;23088;5;40089
+Hogar y Jardín;Guadalajara;Sí;Sí;Móvil;Linux;Mexico;Sí;PayPal;U1134;Femenino;Google;79;19;6;1;0;2;10548;4;0
+Hogar y Jardín;Guadalajara;Sí;Sí;Móvil;MacOS;Mexico;Sí;Criptomoneda;U0344;Masculino;Google;22;61;26;6;0;4;32144;2;0
+Hogar y Jardín;Guadalajara;Sí;Sí;Tableta;MacOS;Mexico;No;PayPal;U0285;Masculino;Directo;118;50;9;9;33;24;9152;9;0
+Hogar y Jardín;Hamburgo;No;No;Móvil;Linux;Germany;No;PayPal;U0231;Masculino;Redes Sociales;17;39;22;18;5;42;37038;5;23657
+Hogar y Jardín;Hamburgo;No;No;Móvil;Linux;Germany;No;Tarjeta de Crédito;U1381;Otro;Correo Electrónico;157;29;29;17;32;43;3268;6;72748
+Hogar y Jardín;Hamburgo;No;No;Tableta;Android;Germany;No;Tarjeta de Regalo;U0906;Masculino;Directo;153;24;30;1;0;2;524;2;59329
+Hogar y Jardín;Hamburgo;No;No;Tableta;Android;Germany;No;Tarjeta de Regalo;U1301;Femenino;Directo;129;54;16;13;0;15;22771;10;0
+Hogar y Jardín;Hamburgo;No;Sí;Escritorio;Linux;Germany;No;Tarjeta de Regalo;U0287;Masculino;Correo Electrónico;47;28;24;1;3;8;28277;2;86277
+Hogar y Jardín;Hamburgo;No;Sí;Móvil;iOS;Germany;Sí;Tarjeta de Crédito;U0331;Masculino;Otro;110;51;21;0;0;15;15827;3;83946
+Hogar y Jardín;Hamburgo;No;Sí;Móvil;Windows;Germany;No;Tarjeta de Crédito;U0145;Femenino;Otro;14;32;30;0;1;17;45326;1;21794
+Hogar y Jardín;Hamburgo;Sí;Sí;Escritorio;iOS;Germany;No;Criptomoneda;U0738;Otro;Directo;121;50;25;19;0;31;8335;9;0
+Hogar y Jardín;Hamburgo;Sí;Sí;Móvil;Android;Germany;No;Tarjeta de Crédito;U1351;Otro;Directo;97;26;20;2;0;26;43004;4;0
+Hogar y Jardín;Hamburgo;Sí;Sí;Móvil;iOS;Germany;Sí;PayPal;U0146;Masculino;Redes Sociales;71;43;24;3;0;17;6428;4;47815
+Hogar y Jardín;Hamburgo;Sí;Sí;Móvil;Linux;Germany;No;Criptomoneda;U0034;Femenino;Directo;6;32;29;20;13;41;14492;5;0
+Hogar y Jardín;Hamburgo;Sí;Sí;Móvil;Linux;Germany;Sí;Tarjeta de Crédito;U0970;Femenino;Directo;105;26;14;19;0;9;24316;7;0
+Hogar y Jardín;Hamburgo;Sí;Sí;Móvil;Windows;Germany;Sí;Tarjeta de Crédito;U0559;Masculino;Directo;52;35;1;5;31;5;37789;4;0
+Hogar y Jardín;Hamburgo;Sí;Sí;Tableta;iOS;Germany;No;Tarjeta de Crédito;U0812;Otro;Otro;168;35;30;9;32;21;20041;1;0
+Hogar y Jardín;Londres;No;No;Escritorio;iOS;UK;No;Criptomoneda;U0699;Otro;Correo Electrónico;67;49;24;18;5;18;535;1;0
+Hogar y Jardín;Londres;No;No;Tableta;Windows;UK;Sí;Tarjeta de Crédito;U0062;Otro;Google;73;21;30;10;0;44;16064;4;90189
+Hogar y Jardín;Londres;No;Sí;Escritorio;Android;UK;Sí;PayPal;U0983;Masculino;Correo Electrónico;12;21;23;9;34;39;2456;0;0
+Hogar y Jardín;Londres;No;Sí;Escritorio;Android;UK;Sí;Tarjeta de Regalo;U0855;Femenino;Directo;179;20;7;18;12;5;3632;10;77269
+Hogar y Jardín;Londres;No;Sí;Escritorio;MacOS;UK;Sí;PayPal;U0449;Masculino;Google;109;18;11;4;22;27;2811;2;41242
+Hogar y Jardín;Londres;Sí;No;Móvil;Windows;UK;Sí;PayPal;U0138;Otro;Google;93;22;18;0;16;12;17258;0;80058
+Hogar y Jardín;Londres;Sí;No;Tableta;MacOS;UK;No;PayPal;U0004;Femenino;Directo;115;60;14;10;47;12;954;1;0
+Hogar y Jardín;Londres;Sí;No;Tableta;MacOS;UK;No;Tarjeta de Regalo;U0690;Masculino;Directo;29;32;23;19;39;21;17426;10;22389
+Hogar y Jardín;Londres;Sí;Sí;Móvil;Android;UK;No;Criptomoneda;U0741;Masculino;Google;134;49;26;13;0;20;34747;4;0
+Hogar y Jardín;Londres;Sí;Sí;Móvil;Android;UK;Sí;Tarjeta de Regalo;U0332;Otro;Google;78;38;20;14;0;42;33355;0;0
+Hogar y Jardín;Londres;Sí;Sí;Móvil;Linux;UK;No;Tarjeta de Crédito;U0668;Masculino;Redes Sociales;167;42;19;16;0;17;33141;8;79631
+Hogar y Jardín;Los Ángeles;No;No;Escritorio;Android;USA;Sí;Criptomoneda;U0115;Masculino;Correo Electrónico;155;24;1;14;0;3;8953;0;0
+Hogar y Jardín;Los Ángeles;No;Sí;Tableta;Android;USA;Sí;Tarjeta de Crédito;U0842;Femenino;Directo;146;64;21;22;7;2;18287;1;3068
+Hogar y Jardín;Los Ángeles;Sí;No;Escritorio;Windows;USA;No;PayPal;U0027;Femenino;Google;32;39;4;23;29;39;44033;5;71994
+Hogar y Jardín;Los Ángeles;Sí;No;Escritorio;Windows;USA;Sí;Tarjeta de Crédito;U0481;Femenino;Otro;72;43;20;12;26;16;35862;4;0
+Hogar y Jardín;Los Ángeles;Sí;No;Móvil;iOS;USA;No;Tarjeta de Crédito;U0083;Masculino;Google;99;33;1;20;0;12;25321;9;0
+Hogar y Jardín;Los Ángeles;Sí;No;Tableta;iOS;USA;No;Tarjeta de Crédito;U0345;Femenino;Google;127;45;20;0;0;11;422;2;0
+Hogar y Jardín;Los Ángeles;Sí;Sí;Escritorio;Android;USA;Sí;Tarjeta de Crédito;U0747;Otro;Correo Electrónico;78;39;4;3;0;1;23502;4;0
+Hogar y Jardín;Lyon;No;No;Escritorio;Windows;France;Sí;Tarjeta de Crédito;U1175;Otro;Directo;80;48;1;1;35;11;5844;8;9452
+Hogar y Jardín;Lyon;No;No;Tableta;Windows;France;Sí;Tarjeta de Crédito;U0114;Masculino;Directo;59;45;26;23;0;15;23088;9;9761
+Hogar y Jardín;Lyon;No;Sí;Escritorio;MacOS;France;Sí;Tarjeta de Crédito;U0242;Masculino;Redes Sociales;119;53;13;20;0;31;32885;4;35372
+Hogar y Jardín;Lyon;No;Sí;Móvil;MacOS;France;No;Tarjeta de Regalo;U0969;Femenino;Directo;95;41;25;13;24;19;1235;7;9563
+Hogar y Jardín;Lyon;No;Sí;Móvil;MacOS;France;Sí;PayPal;U0320;Masculino;Google;29;29;24;8;33;32;15586;8;0
+Hogar y Jardín;Lyon;No;Sí;Móvil;Windows;France;Sí;Tarjeta de Regalo;U0399;Femenino;Directo;95;18;21;12;48;37;4378;5;17071
+Hogar y Jardín;Lyon;No;Sí;Tableta;Windows;France;No;Criptomoneda;U0250;Femenino;Redes Sociales;95;58;13;12;0;33;2302;9;0
+Hogar y Jardín;Lyon;No;Sí;Tableta;Windows;France;No;PayPal;U0225;Otro;Correo Electrónico;32;34;11;13;28;12;26838;10;25698
+Hogar y Jardín;Lyon;No;Sí;Tableta;Windows;France;No;PayPal;U0882;Masculino;Directo;169;39;5;11;22;45;36719;2;0
+Hogar y Jardín;Lyon;Sí;No;Escritorio;Android;France;No;Criptomoneda;U1208;Femenino;Otro;132;24;27;8;2;4;2496;1;0
+Hogar y Jardín;Lyon;Sí;No;Escritorio;Android;France;No;PayPal;U0946;Femenino;Directo;9;57;11;11;0;28;2528;7;92469
+Hogar y Jardín;Lyon;Sí;No;Escritorio;iOS;France;No;Tarjeta de Regalo;U0059;Femenino;Directo;14;34;28;2;0;14;41227;3;41997
+Hogar y Jardín;Lyon;Sí;No;Escritorio;iOS;France;Sí;Criptomoneda;U0305;Masculino;Google;176;58;24;18;9;13;34685;6;28232
+Hogar y Jardín;Lyon;Sí;Sí;Escritorio;Windows;France;No;Tarjeta de Regalo;U0809;Femenino;Otro;99;51;1;2;39;27;49609;5;0
+Hogar y Jardín;Manchester;No;No;Escritorio;iOS;UK;No;PayPal;U0860;Otro;Redes Sociales;84;38;9;7;0;41;33633;1;0
+Hogar y Jardín;Manchester;No;No;Escritorio;MacOS;UK;Sí;Criptomoneda;U0771;Femenino;Otro;148;34;3;18;0;34;17619;9;0
+Hogar y Jardín;Manchester;No;No;Escritorio;MacOS;UK;Sí;Tarjeta de Crédito;U0504;Femenino;Google;121;33;26;9;0;31;33567;4;19773
+Hogar y Jardín;Manchester;No;No;Móvil;Android;UK;Sí;Tarjeta de Regalo;U1484;Otro;Directo;9;49;19;22;0;49;13864;5;0
+Hogar y Jardín;Manchester;No;No;Móvil;Windows;UK;Sí;Criptomoneda;U1407;Femenino;Directo;126;46;4;1;47;36;48625;3;0
+Hogar y Jardín;Manchester;No;No;Tableta;MacOS;UK;No;Tarjeta de Regalo;U0022;Otro;Otro;108;55;11;3;5;10;34782;7;0
+Hogar y Jardín;Manchester;No;Sí;Escritorio;Android;UK;Sí;Criptomoneda;U0448;Masculino;Correo Electrónico;111;29;21;11;0;48;8758;9;90585
+Hogar y Jardín;Manchester;No;Sí;Escritorio;Linux;UK;No;Tarjeta de Regalo;U0783;Masculino;Correo Electrónico;111;51;14;17;0;50;2716;2;9325
+Hogar y Jardín;Manchester;No;Sí;Escritorio;Windows;UK;No;Tarjeta de Regalo;U1400;Otro;Directo;6;45;3;7;0;2;49717;9;5807
+Hogar y Jardín;Manchester;No;Sí;Móvil;Linux;UK;No;PayPal;U0989;Femenino;Correo Electrónico;56;32;27;16;0;36;33206;1;0
+Hogar y Jardín;Manchester;No;Sí;Móvil;MacOS;UK;Sí;PayPal;U0040;Femenino;Google;139;38;16;10;0;7;43409;5;0
+Hogar y Jardín;Manchester;No;Sí;Móvil;Windows;UK;Sí;PayPal;U1238;Masculino;Redes Sociales;98;49;1;5;0;18;39398;0;16885
+Hogar y Jardín;Manchester;No;Sí;Tableta;Linux;UK;Sí;Tarjeta de Regalo;U0356;Masculino;Google;109;48;8;22;20;27;1376;8;0
+Hogar y Jardín;Manchester;No;Sí;Tableta;Windows;UK;Sí;PayPal;U0758;Masculino;Redes Sociales;137;45;24;17;38;39;25035;4;0
+Hogar y Jardín;Manchester;Sí;No;Móvil;Android;UK;Sí;Tarjeta de Regalo;U0214;Femenino;Otro;95;50;1;3;23;10;4836;7;0
+Hogar y Jardín;Manchester;Sí;No;Tableta;Windows;UK;Sí;Criptomoneda;U0499;Otro;Otro;117;22;30;13;17;12;49516;1;0
+Hogar y Jardín;Manchester;Sí;No;Tableta;Windows;UK;Sí;Criptomoneda;U1448;Masculino;Directo;62;54;30;14;0;23;20204;10;45337
+Hogar y Jardín;Manchester;Sí;Sí;Escritorio;Linux;UK;Sí;Tarjeta de Crédito;U1424;Otro;Google;114;37;2;1;0;5;2289;5;68743
+Hogar y Jardín;Manchester;Sí;Sí;Escritorio;MacOS;UK;Sí;PayPal;U1205;Masculino;Otro;127;28;11;13;31;41;13322;4;0
+Hogar y Jardín;Manchester;Sí;Sí;Móvil;Android;UK;Sí;Criptomoneda;U0536;Masculino;Otro;17;46;13;14;0;32;16616;4;0
+Hogar y Jardín;Marsella;No;No;Escritorio;iOS;France;Sí;Tarjeta de Crédito;U1487;Femenino;Directo;15;24;19;23;0;50;11466;9;0
+Hogar y Jardín;Marsella;No;No;Móvil;iOS;France;No;Tarjeta de Regalo;U1177;Femenino;Redes Sociales;132;46;21;0;20;15;29652;8;11819
+Hogar y Jardín;Marsella;No;No;Móvil;MacOS;France;No;PayPal;U0324;Femenino;Redes Sociales;156;47;15;0;46;5;10214;3;19147
+Hogar y Jardín;Marsella;No;No;Tableta;Android;France;Sí;Criptomoneda;U0753;Masculino;Directo;179;52;16;4;3;44;1175;9;5836
+Hogar y Jardín;Marsella;No;No;Tableta;Windows;France;No;Tarjeta de Regalo;U1005;Masculino;Redes Sociales;13;18;22;11;27;2;49419;5;0
+Hogar y Jardín;Marsella;No;Sí;Escritorio;Linux;France;Sí;Tarjeta de Regalo;U1159;Otro;Correo Electrónico;101;35;19;13;0;13;43063;3;0
+Hogar y Jardín;Marsella;No;Sí;Escritorio;MacOS;France;No;PayPal;U1346;Masculino;Google;129;40;9;5;6;30;32874;4;0
+Hogar y Jardín;Marsella;No;Sí;Móvil;iOS;France;Sí;Tarjeta de Regalo;U1276;Otro;Correo Electrónico;30;24;4;0;0;7;20146;6;0
+Hogar y Jardín;Marsella;No;Sí;Móvil;Windows;France;No;Tarjeta de Regalo;U0902;Femenino;Redes Sociales;125;19;15;21;48;27;45468;9;26089
+Hogar y Jardín;Marsella;No;Sí;Tableta;MacOS;France;No;Tarjeta de Regalo;U0938;Femenino;Correo Electrónico;30;35;22;16;27;34;39822;9;79978
+Hogar y Jardín;Marsella;Sí;No;Escritorio;Android;France;No;Criptomoneda;U0052;Masculino;Correo Electrónico;112;64;24;4;48;30;2243;2;0
+Hogar y Jardín;Marsella;Sí;No;Escritorio;MacOS;France;No;Tarjeta de Regalo;U0428;Otro;Directo;29;23;2;15;0;41;18065;9;0
+Hogar y Jardín;Marsella;Sí;No;Móvil;Android;France;No;Criptomoneda;U0065;Masculino;Correo Electrónico;125;59;30;20;25;28;20841;2;0
+Hogar y Jardín;Marsella;Sí;No;Tableta;Android;France;No;Tarjeta de Regalo;U0857;Otro;Correo Electrónico;135;46;12;7;0;39;3328;6;8544
+Hogar y Jardín;Marsella;Sí;No;Tableta;Android;France;Sí;Criptomoneda;U0373;Masculino;Redes Sociales;54;64;19;22;17;48;1704;0;52642
+Hogar y Jardín;Marsella;Sí;No;Tableta;Linux;France;No;Criptomoneda;U0318;Otro;Directo;57;50;3;22;45;40;2452;3;9383
+Hogar y Jardín;Marsella;Sí;Sí;Móvil;Linux;France;Sí;Criptomoneda;U0028;Masculino;Correo Electrónico;106;61;12;8;0;28;20796;0;776
+Hogar y Jardín;Monterrey;No;No;Escritorio;Linux;Mexico;No;Criptomoneda;U0311;Masculino;Correo Electrónico;179;38;14;3;0;7;48548;1;0
+Hogar y Jardín;Monterrey;No;No;Móvil;iOS;Mexico;Sí;PayPal;U0923;Femenino;Otro;146;34;2;14;0;38;44758;3;0
+Hogar y Jardín;Monterrey;No;No;Móvil;Linux;Mexico;Sí;Tarjeta de Regalo;U0616;Femenino;Correo Electrónico;86;26;6;20;0;21;12235;3;0
+Hogar y Jardín;Monterrey;No;No;Tableta;Android;Mexico;No;Tarjeta de Regalo;U0204;Otro;Google;75;19;12;21;14;38;6887;10;0
+Hogar y Jardín;Monterrey;No;No;Tableta;Linux;Mexico;Sí;PayPal;U0960;Femenino;Correo Electrónico;146;38;2;20;0;5;17147;0;0
+Hogar y Jardín;Monterrey;No;No;Tableta;MacOS;Mexico;No;PayPal;U0502;Otro;Redes Sociales;53;33;15;7;2;31;49872;0;0
+Hogar y Jardín;Monterrey;No;No;Tableta;Windows;Mexico;Sí;Tarjeta de Crédito;U0674;Otro;Correo Electrónico;173;49;26;5;1;17;25442;0;0
+Hogar y Jardín;Monterrey;No;Sí;Escritorio;iOS;Mexico;No;Criptomoneda;U0537;Otro;Google;158;43;13;13;20;42;49188;1;37147
+Hogar y Jardín;Monterrey;No;Sí;Escritorio;iOS;Mexico;No;Tarjeta de Crédito;U0682;Femenino;Otro;15;53;20;1;0;35;44916;8;79519
+Hogar y Jardín;Monterrey;No;Sí;Móvil;Linux;Mexico;No;PayPal;U0351;Femenino;Correo Electrónico;164;58;3;0;9;21;13173;6;6787
+Hogar y Jardín;Monterrey;Sí;No;Escritorio;Windows;Mexico;Sí;Tarjeta de Crédito;U0327;Femenino;Correo Electrónico;103;62;19;17;0;13;21081;2;33074
+Hogar y Jardín;Monterrey;Sí;No;Móvil;Android;Mexico;No;PayPal;U0605;Femenino;Directo;18;31;11;8;0;41;37664;0;44586
+Hogar y Jardín;Monterrey;Sí;No;Móvil;MacOS;Mexico;Sí;Tarjeta de Regalo;U0427;Femenino;Google;8;21;24;19;33;34;36566;4;43511
+Hogar y Jardín;Monterrey;Sí;No;Tableta;Android;Mexico;No;Tarjeta de Crédito;U0282;Femenino;Google;40;20;2;2;0;16;29646;9;0
+Hogar y Jardín;Monterrey;Sí;Sí;Móvil;Windows;Mexico;Sí;Tarjeta de Regalo;U0234;Femenino;Redes Sociales;16;33;18;4;0;26;11155;3;0
+Hogar y Jardín;Montreal;No;No;Escritorio;Linux;Canada;Sí;Tarjeta de Regalo;U0683;Femenino;Otro;157;52;13;14;0;22;26152;2;20646
+Hogar y Jardín;Montreal;No;No;Móvil;MacOS;Canada;Sí;Criptomoneda;U0704;Masculino;Correo Electrónico;175;41;8;21;0;28;2372;5;35446
+Hogar y Jardín;Montreal;No;No;Tableta;Linux;Canada;No;Tarjeta de Crédito;U0025;Masculino;Google;151;50;21;23;40;8;6563;3;25313
+Hogar y Jardín;Montreal;No;Sí;Móvil;MacOS;Canada;No;PayPal;U1434;Masculino;Correo Electrónico;117;19;13;17;31;27;45523;10;97154
+Hogar y Jardín;Montreal;Sí;No;Escritorio;iOS;Canada;No;Criptomoneda;U0603;Otro;Otro;12;59;2;3;31;21;14224;4;37386
+Hogar y Jardín;Montreal;Sí;No;Escritorio;Linux;Canada;No;PayPal;U1190;Otro;Correo Electrónico;170;53;1;12;42;42;22343;1;0
+Hogar y Jardín;Montreal;Sí;No;Escritorio;Linux;Canada;Sí;Tarjeta de Regalo;U1444;Femenino;Redes Sociales;57;42;6;20;0;19;2950;2;83359
+Hogar y Jardín;Montreal;Sí;Sí;Escritorio;MacOS;Canada;No;Criptomoneda;U1378;Otro;Redes Sociales;79;54;28;0;30;42;43726;10;70445
+Hogar y Jardín;Múnich;No;No;Escritorio;Windows;Germany;No;Tarjeta de Regalo;U0035;Femenino;Otro;112;64;26;22;0;14;23313;6;0
+Hogar y Jardín;Múnich;No;No;Móvil;MacOS;Germany;No;Tarjeta de Crédito;U0188;Masculino;Redes Sociales;73;23;25;2;5;50;10787;10;0
+Hogar y Jardín;Múnich;No;No;Móvil;MacOS;Germany;Sí;PayPal;U1279;Otro;Otro;157;18;10;15;0;35;19713;3;0
+Hogar y Jardín;Múnich;No;No;Móvil;Windows;Germany;No;Tarjeta de Crédito;U0297;Femenino;Correo Electrónico;66;42;15;13;42;26;27061;0;54764
+Hogar y Jardín;Múnich;No;No;Tableta;Android;Germany;No;Criptomoneda;U1371;Masculino;Redes Sociales;87;38;20;22;0;47;26249;3;0
+Hogar y Jardín;Múnich;No;Sí;Escritorio;Linux;Germany;No;PayPal;U0712;Otro;Directo;77;45;14;17;8;31;13219;1;0
+Hogar y Jardín;Múnich;No;Sí;Tableta;Windows;Germany;No;Tarjeta de Crédito;U0050;Masculino;Otro;22;37;18;6;5;14;37814;3;0
+Hogar y Jardín;Múnich;Sí;No;Móvil;Android;Germany;No;Tarjeta de Regalo;U0493;Masculino;Redes Sociales;154;51;21;6;0;22;4172;7;14383
+Hogar y Jardín;Múnich;Sí;No;Tableta;MacOS;Germany;No;PayPal;U0292;Masculino;Redes Sociales;41;37;5;12;0;30;1467;7;86898
+Hogar y Jardín;Múnich;Sí;No;Tableta;Windows;Germany;No;Tarjeta de Regalo;U1302;Otro;Directo;52;38;20;8;11;6;42989;6;3262
+Hogar y Jardín;Múnich;Sí;Sí;Móvil;Linux;Germany;No;Tarjeta de Regalo;U1411;Masculino;Directo;170;28;15;13;0;22;30011;6;16459
+Hogar y Jardín;Nueva York;No;No;Escritorio;Android;USA;No;Tarjeta de Crédito;U1129;Masculino;Redes Sociales;27;46;22;2;4;6;2779;1;42647
+Hogar y Jardín;Nueva York;No;No;Escritorio;Windows;USA;No;PayPal;U0552;Otro;Directo;81;54;1;12;14;14;1632;5;99263
+Hogar y Jardín;Nueva York;No;No;Escritorio;Windows;USA;Sí;PayPal;U1464;Masculino;Correo Electrónico;109;36;28;15;0;28;8941;7;4170
+Hogar y Jardín;Nueva York;No;No;Móvil;Android;USA;No;Tarjeta de Crédito;U0871;Masculino;Correo Electrónico;112;29;16;2;0;5;2124;10;0
+Hogar y Jardín;Nueva York;No;No;Móvil;iOS;USA;Sí;Tarjeta de Regalo;U1022;Femenino;Correo Electrónico;128;19;25;9;0;6;900;3;75503
+Hogar y Jardín;Nueva York;No;No;Móvil;Linux;USA;Sí;Tarjeta de Regalo;U0262;Femenino;Google;40;47;10;0;0;10;10257;1;10487
+Hogar y Jardín;Nueva York;No;Sí;Escritorio;Android;USA;No;Tarjeta de Crédito;U0110;Otro;Redes Sociales;76;22;14;3;0;48;13012;9;78961
+Hogar y Jardín;Nueva York;No;Sí;Escritorio;Linux;USA;No;Tarjeta de Regalo;U0321;Otro;Redes Sociales;15;39;3;13;0;15;950;0;0
+Hogar y Jardín;Nueva York;No;Sí;Escritorio;Windows;USA;Sí;PayPal;U0482;Masculino;Otro;52;65;24;9;41;47;45874;4;0
+Hogar y Jardín;Nueva York;No;Sí;Móvil;Linux;USA;Sí;Tarjeta de Crédito;U1282;Femenino;Google;98;40;3;17;18;42;28987;8;23166
+Hogar y Jardín;Nueva York;No;Sí;Móvil;Windows;USA;No;Tarjeta de Regalo;U1375;Femenino;Redes Sociales;157;55;8;18;0;13;14456;3;2194
+Hogar y Jardín;Nueva York;No;Sí;Tableta;Linux;USA;Sí;PayPal;U0621;Femenino;Directo;101;24;1;3;6;49;46154;3;0
+Hogar y Jardín;Nueva York;No;Sí;Tableta;Windows;USA;No;Tarjeta de Crédito;U0456;Masculino;Redes Sociales;151;57;14;22;0;49;33268;3;0
+Hogar y Jardín;Nueva York;Sí;No;Móvil;Windows;USA;No;PayPal;U1236;Otro;Correo Electrónico;151;24;23;5;22;16;40252;8;0
+Hogar y Jardín;Nueva York;Sí;No;Tableta;Android;USA;Sí;Criptomoneda;U0435;Femenino;Directo;109;33;5;2;0;15;6404;8;0
+Hogar y Jardín;Nueva York;Sí;Sí;Escritorio;iOS;USA;No;Tarjeta de Crédito;U0563;Masculino;Google;4;40;24;23;23;43;32293;5;56699
+Hogar y Jardín;París;No;No;Móvil;Linux;France;Sí;PayPal;U1242;Masculino;Otro;146;36;24;2;0;36;2340;5;0
+Hogar y Jardín;París;No;No;Tableta;MacOS;France;Sí;Tarjeta de Crédito;U0271;Otro;Otro;130;65;8;0;0;13;29167;8;0
+Hogar y Jardín;París;No;No;Tableta;Windows;France;No;Tarjeta de Crédito;U0968;Femenino;Google;74;48;20;15;35;31;4830;5;3824
+Hogar y Jardín;París;Sí;No;Móvil;MacOS;France;No;Tarjeta de Crédito;U0565;Femenino;Otro;132;54;20;6;14;36;31262;3;5273
+Hogar y Jardín;París;Sí;No;Móvil;Windows;France;No;Tarjeta de Regalo;U1490;Masculino;Otro;180;43;15;2;24;24;43742;4;0
+Hogar y Jardín;París;Sí;No;Tableta;iOS;France;Sí;Criptomoneda;U1069;Femenino;Directo;179;42;6;16;11;31;18478;4;0
+Hogar y Jardín;París;Sí;No;Tableta;iOS;France;Sí;Tarjeta de Crédito;U0152;Masculino;Redes Sociales;143;21;15;14;32;4;8564;10;0
+Hogar y Jardín;Rio de Janeiro;No;No;Escritorio;Android;Brazil;Sí;Tarjeta de Crédito;U0290;Otro;Otro;107;55;21;12;0;5;519;0;1348
+Hogar y Jardín;Rio de Janeiro;No;No;Escritorio;MacOS;Brazil;Sí;Criptomoneda;U0703;Masculino;Redes Sociales;84;29;14;2;0;27;13542;4;10147
+Hogar y Jardín;Rio de Janeiro;No;No;Escritorio;MacOS;Brazil;Sí;Tarjeta de Regalo;U0840;Femenino;Redes Sociales;158;65;12;13;0;17;25733;10;0
+Hogar y Jardín;Rio de Janeiro;No;No;Escritorio;Windows;Brazil;Sí;Criptomoneda;U0717;Femenino;Directo;71;34;10;20;31;38;2186;1;0
+Hogar y Jardín;Rio de Janeiro;No;No;Escritorio;Windows;Brazil;Sí;PayPal;U1132;Masculino;Google;36;29;10;8;0;18;29672;1;0
+Hogar y Jardín;Rio de Janeiro;No;No;Móvil;Android;Brazil;Sí;PayPal;U0081;Masculino;Redes Sociales;25;57;22;12;5;46;38637;9;4303
+Hogar y Jardín;Rio de Janeiro;No;No;Tableta;Windows;Brazil;No;Criptomoneda;U0269;Otro;Otro;49;19;22;6;0;33;18974;2;0
+Hogar y Jardín;Rio de Janeiro;No;No;Tableta;Windows;Brazil;No;Tarjeta de Crédito;U0980;Femenino;Redes Sociales;164;37;19;1;32;27;30672;10;0
+Hogar y Jardín;Rio de Janeiro;No;Sí;Tableta;Linux;Brazil;Sí;PayPal;U0216;Masculino;Redes Sociales;68;36;2;20;7;21;15512;0;95367
+Hogar y Jardín;Rio de Janeiro;No;Sí;Tableta;MacOS;Brazil;Sí;Tarjeta de Crédito;U0386;Masculino;Directo;31;65;26;2;0;39;22254;8;77064
+Hogar y Jardín;Rio de Janeiro;No;Sí;Tableta;Windows;Brazil;Sí;PayPal;U1320;Masculino;Google;17;18;6;1;0;45;38883;5;0
+Hogar y Jardín;Rio de Janeiro;Sí;No;Escritorio;Windows;Brazil;No;Tarjeta de Regalo;U1077;Masculino;Directo;179;55;1;14;0;10;15273;6;0
+Hogar y Jardín;Rio de Janeiro;Sí;No;Móvil;Android;Brazil;Sí;Tarjeta de Crédito;U1274;Masculino;Google;99;45;30;18;48;12;8238;3;9333
+Hogar y Jardín;Rio de Janeiro;Sí;No;Tableta;MacOS;Brazil;No;Tarjeta de Regalo;U1176;Otro;Redes Sociales;130;26;22;23;0;1;3947;2;56557
+Hogar y Jardín;Rio de Janeiro;Sí;Sí;Escritorio;Android;Brazil;No;Tarjeta de Regalo;U0199;Masculino;Google;82;49;8;14;0;7;48924;1;97838
+Hogar y Jardín;Rio de Janeiro;Sí;Sí;Escritorio;iOS;Brazil;Sí;PayPal;U0089;Masculino;Redes Sociales;85;42;15;17;25;19;4615;7;49732
+Hogar y Jardín;Rio de Janeiro;Sí;Sí;Tableta;MacOS;Brazil;Sí;Tarjeta de Crédito;U0174;Masculino;Correo Electrónico;30;61;17;13;11;8;16375;9;0
+Hogar y Jardín;Sao Paulo;No;No;Escritorio;Linux;Brazil;Sí;Tarjeta de Crédito;U0135;Femenino;Otro;36;31;4;11;43;14;22398;1;33395
+Hogar y Jardín;Sao Paulo;No;No;Escritorio;MacOS;Brazil;No;Tarjeta de Regalo;U0092;Otro;Redes Sociales;135;46;2;18;0;46;25346;0;17471
+Hogar y Jardín;Sao Paulo;No;No;Móvil;Windows;Brazil;No;Criptomoneda;U0068;Otro;Otro;47;35;24;21;0;40;35701;4;9159
+Hogar y Jardín;Sao Paulo;No;No;Tableta;Android;Brazil;No;Tarjeta de Crédito;U1200;Otro;Redes Sociales;166;43;2;9;0;33;31076;7;0
+Hogar y Jardín;Sao Paulo;No;No;Tableta;iOS;Brazil;No;Criptomoneda;U1334;Femenino;Directo;147;47;1;6;9;44;10355;2;0
+Hogar y Jardín;Sao Paulo;No;No;Tableta;MacOS;Brazil;No;Tarjeta de Crédito;U1093;Femenino;Otro;1;20;26;20;3;48;18558;9;0
+Hogar y Jardín;Sao Paulo;No;Sí;Escritorio;Android;Brazil;Sí;Tarjeta de Regalo;U0012;Femenino;Directo;167;41;14;7;33;36;44134;10;32302
+Hogar y Jardín;Sao Paulo;No;Sí;Escritorio;iOS;Brazil;No;Tarjeta de Crédito;U0455;Masculino;Redes Sociales;26;42;16;2;0;26;20742;3;0
+Hogar y Jardín;Sao Paulo;No;Sí;Escritorio;iOS;Brazil;No;Tarjeta de Regalo;U0420;Masculino;Correo Electrónico;58;54;18;17;0;36;1462;2;0
+Hogar y Jardín;Sao Paulo;No;Sí;Escritorio;MacOS;Brazil;Sí;Tarjeta de Crédito;U0526;Femenino;Correo Electrónico;153;30;6;17;0;19;8283;8;0
+Hogar y Jardín;Sao Paulo;No;Sí;Móvil;iOS;Brazil;No;Tarjeta de Regalo;U1449;Otro;Correo Electrónico;137;61;14;23;2;7;25925;9;42678
+Hogar y Jardín;Sao Paulo;No;Sí;Móvil;Windows;Brazil;No;Criptomoneda;U1377;Masculino;Correo Electrónico;35;34;17;23;3;5;897;3;0
+Hogar y Jardín;Sao Paulo;No;Sí;Móvil;Windows;Brazil;Sí;Tarjeta de Regalo;U0895;Otro;Correo Electrónico;3;39;25;14;0;7;11807;8;0
+Hogar y Jardín;Sao Paulo;Sí;No;Escritorio;Android;Brazil;No;Tarjeta de Regalo;U0507;Masculino;Directo;125;49;17;21;0;15;4525;3;9117
+Hogar y Jardín;Sao Paulo;Sí;No;Tableta;iOS;Brazil;Sí;PayPal;U0666;Masculino;Redes Sociales;95;30;16;19;0;12;19881;4;70651
+Hogar y Jardín;Sao Paulo;Sí;No;Tableta;Windows;Brazil;Sí;Tarjeta de Regalo;U0604;Femenino;Redes Sociales;36;56;9;12;27;35;49836;7;18845
+Hogar y Jardín;Sao Paulo;Sí;Sí;Escritorio;MacOS;Brazil;No;Tarjeta de Crédito;U1179;Masculino;Correo Electrónico;167;57;26;7;0;4;37239;1;0
+Hogar y Jardín;Sao Paulo;Sí;Sí;Móvil;Android;Brazil;No;PayPal;U0503;Femenino;Otro;88;41;8;18;0;44;14413;1;0
+Hogar y Jardín;Sao Paulo;Sí;Sí;Móvil;MacOS;Brazil;Sí;Tarjeta de Crédito;U1486;Masculino;Redes Sociales;155;33;27;0;1;46;44308;4;0
+Hogar y Jardín;Sao Paulo;Sí;Sí;Móvil;Windows;Brazil;No;Tarjeta de Crédito;U0379;Masculino;Correo Electrónico;116;19;24;2;0;28;2511;10;43826
+Hogar y Jardín;Sao Paulo;Sí;Sí;Móvil;Windows;Brazil;Sí;Tarjeta de Crédito;U1329;Otro;Redes Sociales;46;29;13;16;32;14;15809;9;0
+Hogar y Jardín;Sao Paulo;Sí;Sí;Tableta;iOS;Brazil;No;Criptomoneda;U1203;Femenino;Directo;18;42;12;1;35;15;41512;2;0
+Hogar y Jardín;Sao Paulo;Sí;Sí;Tableta;Windows;Brazil;No;Tarjeta de Crédito;U1466;Femenino;Otro;18;48;4;21;0;43;32979;8;0
+Hogar y Jardín;Toronto;No;No;Móvil;Android;Canada;Sí;Criptomoneda;U1325;Femenino;Google;71;59;23;18;7;25;13055;10;0
+Hogar y Jardín;Toronto;No;No;Móvil;Windows;Canada;No;Criptomoneda;U0425;Femenino;Directo;84;22;23;7;0;43;25538;2;68051
+Hogar y Jardín;Toronto;No;Sí;Escritorio;Linux;Canada;No;Criptomoneda;U1225;Femenino;Correo Electrónico;106;43;11;17;0;22;34963;4;0
+Hogar y Jardín;Toronto;No;Sí;Móvil;Linux;Canada;Sí;Criptomoneda;U1198;Masculino;Google;162;26;25;3;12;49;3868;6;0
+Hogar y Jardín;Toronto;Sí;No;Escritorio;Windows;Canada;No;Tarjeta de Crédito;U0238;Otro;Redes Sociales;107;33;8;2;3;34;17939;7;0
+Hogar y Jardín;Toronto;Sí;No;Móvil;iOS;Canada;Sí;Tarjeta de Regalo;U0286;Otro;Google;42;41;10;21;42;34;49361;1;0
+Hogar y Jardín;Toronto;Sí;Sí;Escritorio;iOS;Canada;No;Tarjeta de Regalo;U0023;Otro;Directo;4;19;4;19;29;16;28809;5;0
+Hogar y Jardín;Toronto;Sí;Sí;Móvil;iOS;Canada;Sí;PayPal;U1140;Masculino;Google;160;60;14;0;0;24;35286;4;0
+Hogar y Jardín;Toronto;Sí;Sí;Móvil;Linux;Canada;No;PayPal;U0645;Otro;Otro;166;23;7;19;7;39;8615;4;77828
+Hogar y Jardín;Toronto;Sí;Sí;Móvil;Linux;Canada;No;Tarjeta de Regalo;U0865;Femenino;Google;109;39;9;15;0;33;16089;10;52605
+Hogar y Jardín;Toronto;Sí;Sí;Tableta;Windows;Canada;No;Tarjeta de Crédito;U1336;Femenino;Redes Sociales;10;51;5;7;0;44;367;6;97952
+Hogar y Jardín;Vancouver;No;No;Escritorio;iOS;Canada;No;PayPal;U0858;Masculino;Correo Electrónico;50;49;29;2;17;39;44742;1;0
+Hogar y Jardín;Vancouver;No;No;Escritorio;MacOS;Canada;Sí;Tarjeta de Regalo;U0354;Femenino;Directo;38;46;6;18;19;45;27052;0;0
+Hogar y Jardín;Vancouver;No;No;Tableta;Android;Canada;No;Tarjeta de Crédito;U0692;Femenino;Google;6;18;25;4;26;45;1707;2;71755
+Hogar y Jardín;Vancouver;No;No;Tableta;iOS;Canada;No;Criptomoneda;U0797;Femenino;Directo;82;34;27;5;48;2;22356;0;0
+Hogar y Jardín;Vancouver;No;No;Tableta;Linux;Canada;No;Tarjeta de Regalo;U0971;Masculino;Otro;8;20;10;13;0;29;17002;2;33807
+Hogar y Jardín;Vancouver;No;Sí;Escritorio;Android;Canada;No;Criptomoneda;U1017;Otro;Directo;59;27;22;19;7;12;33336;10;0
+Hogar y Jardín;Vancouver;No;Sí;Escritorio;Android;Canada;No;PayPal;U1049;Masculino;Redes Sociales;6;57;24;19;21;21;1599;3;0
+Hogar y Jardín;Vancouver;Sí;No;Escritorio;Windows;Canada;Sí;Tarjeta de Crédito;U0611;Otro;Redes Sociales;90;60;14;11;0;45;38221;5;0
+Hogar y Jardín;Vancouver;Sí;No;Móvil;iOS;Canada;Sí;Tarjeta de Crédito;U0544;Otro;Redes Sociales;106;62;5;12;0;38;22776;10;0
+Hogar y Jardín;Vancouver;Sí;No;Móvil;Windows;Canada;Sí;Criptomoneda;U0445;Femenino;Redes Sociales;141;43;4;20;0;32;353;7;61443
+Hogar y Jardín;Vancouver;Sí;Sí;Escritorio;Windows;Canada;No;Tarjeta de Regalo;U0979;Otro;Google;141;19;10;8;0;11;12873;1;53345
+Hogar y Jardín;Vancouver;Sí;Sí;Escritorio;Windows;Canada;Sí;Tarjeta de Regalo;U0697;Masculino;Redes Sociales;93;29;4;21;0;39;32787;10;13504
+Hogar y Jardín;Vancouver;Sí;Sí;Móvil;iOS;Canada;Sí;Tarjeta de Regalo;U0780;Otro;Correo Electrónico;63;18;19;16;47;6;32862;0;45248
+Hogar y Jardín;Vancouver;Sí;Sí;Tableta;MacOS;Canada;No;PayPal;U0107;Masculino;Directo;175;52;28;0;48;27;6074;10;0
+Hogar y Jardín;Vancouver;Sí;Sí;Tableta;MacOS;Canada;Sí;Tarjeta de Regalo;U0997;Femenino;Correo Electrónico;157;43;3;7;0;28;48816;3;33565
+Electrónica;Berlín;No;No;Escritorio;MacOS;Germany;No;Criptomoneda;U0679;Femenino;Directo;74;38;8;20;34;15;1774;9;0
+Electrónica;Berlín;No;No;Escritorio;MacOS;Germany;No;Tarjeta de Crédito;U0244;Otro;Otro;4;43;13;0;14;40;4723;5;13091
+Electrónica;Berlín;No;No;Móvil;iOS;Germany;No;PayPal;U0531;Otro;Google;14;52;30;9;0;4;22302;2;0
+Electrónica;Berlín;No;No;Móvil;iOS;Germany;No;Tarjeta de Regalo;U0867;Otro;Directo;31;23;1;9;39;16;23689;10;35714
+Electrónica;Berlín;No;No;Tableta;iOS;Germany;No;PayPal;U1379;Masculino;Correo Electrónico;67;42;7;15;50;44;35393;5;18675
+Electrónica;Berlín;No;Sí;Escritorio;Linux;Germany;No;PayPal;U1146;Masculino;Google;78;57;25;11;39;1;1709;2;0
+Electrónica;Berlín;No;Sí;Móvil;Linux;Germany;No;Tarjeta de Regalo;U0956;Femenino;Google;69;23;10;5;0;7;48033;8;65635
+Electrónica;Berlín;No;Sí;Móvil;MacOS;Germany;No;Criptomoneda;U0434;Femenino;Google;108;57;10;5;47;50;469;7;0
+Electrónica;Berlín;No;Sí;Tableta;Linux;Germany;Sí;PayPal;U0265;Masculino;Google;75;24;7;8;31;11;22965;10;88831
+Electrónica;Berlín;Sí;No;Móvil;Windows;Germany;Sí;Tarjeta de Crédito;U0440;Masculino;Directo;19;34;24;23;26;5;39558;5;0
+Electrónica;Berlín;Sí;Sí;Escritorio;iOS;Germany;No;PayPal;U0807;Masculino;Redes Sociales;37;56;22;7;0;10;40255;2;65796
+Electrónica;Berlín;Sí;Sí;Escritorio;MacOS;Germany;No;Tarjeta de Regalo;U0848;Femenino;Redes Sociales;91;25;23;13;0;22;1938;2;3428
+Electrónica;Berlín;Sí;Sí;Móvil;Linux;Germany;No;Tarjeta de Regalo;U0788;Otro;Otro;14;43;8;11;0;22;5681;4;0
+Electrónica;Berlín;Sí;Sí;Tableta;Android;Germany;No;Tarjeta de Regalo;U0498;Femenino;Otro;51;18;12;7;34;49;6319;4;0
+Electrónica;Berlín;Sí;Sí;Tableta;Linux;Germany;Sí;Criptomoneda;U1019;Masculino;Google;111;40;24;9;21;21;14383;9;0
+Electrónica;Brasilia;No;No;Escritorio;iOS;Brazil;No;Tarjeta de Crédito;U0629;Masculino;Redes Sociales;167;22;23;23;0;42;7416;5;0
+Electrónica;Brasilia;No;No;Escritorio;Linux;Brazil;No;Tarjeta de Crédito;U0198;Masculino;Correo Electrónico;50;49;20;22;0;23;8455;8;0
+Electrónica;Brasilia;No;Sí;Móvil;iOS;Brazil;Sí;Tarjeta de Crédito;U0705;Masculino;Google;132;45;30;14;18;18;6591;3;0
+Electrónica;Brasilia;No;Sí;Móvil;iOS;Brazil;Sí;Tarjeta de Regalo;U1369;Femenino;Google;97;23;14;17;0;31;13007;8;3696
+Electrónica;Brasilia;No;Sí;Tableta;MacOS;Brazil;Sí;Criptomoneda;U0353;Otro;Redes Sociales;18;41;22;10;0;45;6256;8;9938
+Electrónica;Brasilia;Sí;No;Escritorio;Linux;Brazil;No;PayPal;U0745;Otro;Otro;141;43;2;15;0;24;22256;7;47401
+Electrónica;Brasilia;Sí;No;Móvil;Android;Brazil;No;PayPal;U0350;Masculino;Google;173;52;5;6;0;29;28093;4;39729
+Electrónica;Brasilia;Sí;No;Móvil;Windows;Brazil;Sí;Tarjeta de Crédito;U0568;Masculino;Google;1;40;23;15;0;13;18197;1;0
+Electrónica;Brasilia;Sí;No;Tableta;Android;Brazil;No;Tarjeta de Regalo;U0662;Femenino;Google;25;58;28;14;0;5;44645;3;34239
+Electrónica;Brasilia;Sí;No;Tableta;MacOS;Brazil;No;Tarjeta de Crédito;U0811;Femenino;Redes Sociales;127;51;24;3;0;19;39905;8;41745
+Electrónica;Brasilia;Sí;Sí;Tableta;Android;Brazil;No;Tarjeta de Crédito;U1492;Femenino;Correo Electrónico;154;39;27;15;0;27;25897;3;0
+Electrónica;Brasilia;Sí;Sí;Tableta;Linux;Brazil;No;PayPal;U0193;Otro;Correo Electrónico;79;50;5;20;0;50;42202;4;14797
+Electrónica;Chicago;No;No;Escritorio;Linux;USA;Sí;Tarjeta de Crédito;U1070;Masculino;Correo Electrónico;90;35;18;22;0;50;3087;1;0
+Electrónica;Chicago;No;No;Móvil;Linux;USA;No;Tarjeta de Crédito;U0235;Masculino;Directo;46;50;30;4;0;25;4315;9;0
+Electrónica;Chicago;No;No;Móvil;Windows;USA;No;Tarjeta de Regalo;U0270;Masculino;Otro;144;18;8;7;0;47;24916;0;0
+Electrónica;Chicago;No;No;Tableta;Windows;USA;Sí;Criptomoneda;U0489;Masculino;Redes Sociales;61;40;15;1;0;44;33919;3;0
+Electrónica;Chicago;No;Sí;Escritorio;MacOS;USA;No;Criptomoneda;U0136;Masculino;Redes Sociales;28;20;25;21;0;14;278;6;0
+Electrónica;Chicago;No;Sí;Escritorio;MacOS;USA;Sí;Criptomoneda;U0194;Masculino;Directo;148;59;23;18;34;30;36257;2;0
+Electrónica;Chicago;No;Sí;Escritorio;MacOS;USA;Sí;Tarjeta de Crédito;U1109;Masculino;Redes Sociales;3;44;11;8;0;23;13127;9;9159
+Electrónica;Chicago;No;Sí;Móvil;Windows;USA;Sí;PayPal;U1246;Femenino;Google;70;62;29;9;0;39;940;8;0
+Electrónica;Chicago;No;Sí;Tableta;iOS;USA;Sí;Tarjeta de Regalo;U1495;Masculino;Redes Sociales;92;32;21;13;37;28;972;8;0
+Electrónica;Chicago;Sí;No;Escritorio;MacOS;USA;No;Tarjeta de Crédito;U0006;Otro;Correo Electrónico;125;38;24;22;37;3;47972;4;98151
+Electrónica;Chicago;Sí;No;Escritorio;Windows;USA;No;Criptomoneda;U1064;Otro;Google;28;43;22;9;0;8;48158;3;0
+Electrónica;Chicago;Sí;No;Escritorio;Windows;USA;Sí;Tarjeta de Regalo;U0890;Femenino;Correo Electrónico;173;18;16;23;0;34;39306;0;0
+Electrónica;Chicago;Sí;No;Móvil;Android;USA;Sí;Tarjeta de Crédito;U0793;Otro;Redes Sociales;171;61;21;20;19;48;20308;4;8449
+Electrónica;Chicago;Sí;No;Tableta;Windows;USA;No;Tarjeta de Regalo;U0541;Otro;Correo Electrónico;110;58;14;22;0;5;31354;6;0
+Electrónica;Chicago;Sí;Sí;Móvil;Windows;USA;Sí;PayPal;U0967;Masculino;Redes Sociales;109;47;12;23;0;48;8903;9;0
+Electrónica;Ciudad de MÇ¸xico;No;No;Móvil;MacOS;Mexico;Sí;Tarjeta de Crédito;U1313;Femenino;Otro;168;36;22;7;2;16;19308;6;0
+Electrónica;Ciudad de MÇ¸xico;No;No;Tableta;Linux;Mexico;No;Tarjeta de Crédito;U1204;Femenino;Directo;71;43;26;2;29;2;3952;6;0
+Electrónica;Ciudad de MÇ¸xico;No;No;Tableta;Linux;Mexico;Sí;PayPal;U0655;Masculino;Otro;98;20;22;20;7;4;34562;8;60816
+Electrónica;Ciudad de MÇ¸xico;No;No;Tableta;MacOS;Mexico;Sí;Tarjeta de Crédito;U0195;Masculino;Directo;9;61;7;15;0;39;4361;9;0
+Electrónica;Ciudad de MÇ¸xico;No;No;Tableta;MacOS;Mexico;Sí;Tarjeta de Regalo;U1354;Otro;Directo;154;62;15;8;24;26;33839;9;17841
+Electrónica;Ciudad de MÇ¸xico;No;Sí;Escritorio;Android;Mexico;No;Tarjeta de Regalo;U1430;Masculino;Otro;25;60;18;14;0;27;22484;6;11503
+Electrónica;Ciudad de MÇ¸xico;No;Sí;Escritorio;iOS;Mexico;Sí;Tarjeta de Crédito;U0129;Masculino;Google;63;44;6;9;0;11;48617;3;54788
+Electrónica;Ciudad de MÇ¸xico;No;Sí;Escritorio;Linux;Mexico;No;Criptomoneda;U0443;Otro;Google;171;43;30;5;15;1;19987;7;0
+Electrónica;Ciudad de MÇ¸xico;No;Sí;Móvil;MacOS;Mexico;No;PayPal;U1340;Masculino;Google;140;61;22;20;0;45;2278;2;0
+Electrónica;Ciudad de MÇ¸xico;No;Sí;Móvil;MacOS;Mexico;Sí;PayPal;U0240;Otro;Redes Sociales;129;20;30;0;50;23;2964;5;25381
+Electrónica;Ciudad de MÇ¸xico;No;Sí;Móvil;Windows;Mexico;Sí;Tarjeta de Crédito;U1421;Masculino;Otro;130;50;24;7;23;40;46203;5;0
+Electrónica;Ciudad de MÇ¸xico;Sí;No;Escritorio;MacOS;Mexico;No;PayPal;U1066;Otro;Otro;75;42;14;7;0;20;21321;5;0
+Electrónica;Ciudad de MÇ¸xico;Sí;No;Tableta;Android;Mexico;No;Criptomoneda;U1392;Femenino;Directo;82;29;5;19;38;24;11963;8;0
+Electrónica;Ciudad de MÇ¸xico;Sí;Sí;Escritorio;iOS;Mexico;Sí;Tarjeta de Crédito;U0650;Masculino;Directo;122;44;17;8;36;38;8978;9;87777
+Electrónica;Ciudad de MÇ¸xico;Sí;Sí;Escritorio;Linux;Mexico;Sí;Tarjeta de Regalo;U0813;Masculino;Google;80;47;4;13;0;24;24865;9;0
+Electrónica;Ciudad de MÇ¸xico;Sí;Sí;Escritorio;MacOS;Mexico;Sí;Tarjeta de Crédito;U1266;Otro;Correo Electrónico;65;49;22;4;1;20;12053;1;75966
+Electrónica;Ciudad de MÇ¸xico;Sí;Sí;Escritorio;Windows;Mexico;No;Tarjeta de Regalo;U0602;Otro;Otro;108;62;5;10;0;42;17527;5;72876
+Electrónica;Ciudad de MÇ¸xico;Sí;Sí;Móvil;Android;Mexico;No;Tarjeta de Regalo;U1166;Masculino;Directo;22;61;6;13;0;36;38041;7;0
+Electrónica;Ciudad de MÇ¸xico;Sí;Sí;Móvil;Android;Mexico;Sí;Criptomoneda;U0378;Otro;Correo Electrónico;27;59;22;13;0;5;20213;10;71535
+Electrónica;Ciudad de MÇ¸xico;Sí;Sí;Móvil;iOS;Mexico;No;Criptomoneda;U0486;Masculino;Directo;7;50;22;13;0;4;564;0;47492
+Electrónica;Ciudad de MÇ¸xico;Sí;Sí;Móvil;MacOS;Mexico;Sí;PayPal;U0830;Masculino;Google;65;34;15;9;7;46;42741;3;8353
+Electrónica;Ciudad de MÇ¸xico;Sí;Sí;Tableta;iOS;Mexico;No;Tarjeta de Regalo;U1241;Femenino;Redes Sociales;71;40;5;11;7;21;24575;6;18234
+Electrónica;Ciudad de MÇ¸xico;Sí;Sí;Tableta;iOS;Mexico;Sí;Tarjeta de Regalo;U0700;Otro;Directo;136;33;19;5;0;48;46874;6;0
+Electrónica;Edimburgo;No;No;Móvil;Android;UK;No;Tarjeta de Regalo;U1403;Masculino;Redes Sociales;71;60;22;1;0;34;16147;1;0
+Electrónica;Edimburgo;No;No;Móvil;Linux;UK;No;PayPal;U0113;Femenino;Correo Electrónico;130;58;15;14;50;11;39836;1;63121
+Electrónica;Edimburgo;No;No;Móvil;Linux;UK;Sí;Tarjeta de Crédito;U0078;Masculino;Correo Electrónico;119;25;13;2;0;2;5293;10;18841
+Electrónica;Edimburgo;No;No;Móvil;Windows;UK;No;PayPal;U1318;Femenino;Google;74;35;19;19;0;42;7109;2;0
+Electrónica;Edimburgo;No;No;Tableta;MacOS;UK;Sí;Tarjeta de Crédito;U1135;Masculino;Directo;131;44;29;15;0;12;22868;6;61165
+Electrónica;Edimburgo;No;Sí;Escritorio;iOS;UK;No;Criptomoneda;U0103;Otro;Redes Sociales;90;41;10;19;17;48;47392;3;0
+Electrónica;Edimburgo;No;Sí;Escritorio;MacOS;UK;Sí;Tarjeta de Crédito;U1050;Otro;Google;152;39;17;11;0;2;15534;2;47194
+Electrónica;Edimburgo;No;Sí;Móvil;Android;UK;No;Tarjeta de Crédito;U0722;Femenino;Directo;22;45;24;0;0;35;45344;2;0
+Electrónica;Edimburgo;No;Sí;Móvil;MacOS;UK;No;Tarjeta de Regalo;U1062;Masculino;Correo Electrónico;115;36;21;2;0;38;20414;4;66441
+Electrónica;Edimburgo;No;Sí;Tableta;Android;UK;No;Tarjeta de Regalo;U0343;Otro;Google;164;34;6;9;0;1;6807;10;34771
+Electrónica;Edimburgo;Sí;No;Escritorio;Android;UK;No;Tarjeta de Regalo;U0505;Masculino;Directo;13;19;28;6;0;23;9246;8;21234
+Electrónica;Edimburgo;Sí;No;Escritorio;iOS;UK;No;Tarjeta de Regalo;U0071;Femenino;Correo Electrónico;25;51;28;4;0;9;23184;7;34784
+Electrónica;Edimburgo;Sí;No;Móvil;iOS;UK;Sí;Tarjeta de Regalo;U1437;Femenino;Correo Electrónico;173;57;4;13;0;42;39474;10;13047
+Electrónica;Edimburgo;Sí;Sí;Escritorio;iOS;UK;Sí;PayPal;U1010;Masculino;Correo Electrónico;70;28;13;22;0;9;10328;5;0
+Electrónica;Guadalajara;No;No;Escritorio;iOS;Mexico;Sí;Criptomoneda;U1361;Otro;Redes Sociales;36;21;11;11;0;39;19408;10;31061
+Electrónica;Guadalajara;No;No;Escritorio;MacOS;Mexico;Sí;PayPal;U1221;Otro;Otro;62;50;6;9;13;16;37464;1;45769
+Electrónica;Guadalajara;No;No;Móvil;iOS;Mexico;No;PayPal;U0821;Femenino;Directo;28;47;10;18;19;40;6503;6;4977
+Electrónica;Guadalajara;No;No;Móvil;MacOS;Mexico;No;Criptomoneda;U0914;Femenino;Otro;25;35;18;14;0;37;42051;8;51512
+Electrónica;Guadalajara;No;No;Móvil;Windows;Mexico;Sí;Tarjeta de Regalo;U0105;Masculino;Google;6;34;4;11;48;6;7208;10;0
+Electrónica;Guadalajara;No;No;Tableta;Windows;Mexico;Sí;PayPal;U0912;Femenino;Google;147;64;30;0;48;29;34829;6;0
+Electrónica;Guadalajara;No;Sí;Escritorio;Windows;Mexico;No;PayPal;U0802;Femenino;Google;28;54;30;15;0;17;13256;8;13221
+Electrónica;Guadalajara;No;Sí;Móvil;Android;Mexico;No;Criptomoneda;U0088;Masculino;Redes Sociales;11;43;6;15;2;16;11791;7;0
+Electrónica;Guadalajara;No;Sí;Tableta;Android;Mexico;No;PayPal;U1076;Otro;Correo Electrónico;72;49;28;22;0;26;24576;3;94392
+Electrónica;Guadalajara;No;Sí;Tableta;Android;Mexico;No;Tarjeta de Crédito;U1211;Otro;Otro;82;51;13;15;41;36;17219;4;14657
+Electrónica;Guadalajara;No;Sí;Tableta;iOS;Mexico;No;PayPal;U1356;Femenino;Google;79;56;2;2;48;3;34894;6;2985
+Electrónica;Guadalajara;No;Sí;Tableta;MacOS;Mexico;No;Criptomoneda;U0230;Masculino;Redes Sociales;60;23;11;14;4;46;11121;1;0
+Electrónica;Guadalajara;No;Sí;Tableta;MacOS;Mexico;Sí;Criptomoneda;U0252;Masculino;Correo Electrónico;65;57;25;4;0;34;35479;4;52339
+Electrónica;Guadalajara;Sí;No;Móvil;Windows;Mexico;No;Tarjeta de Regalo;U1029;Femenino;Directo;102;26;7;12;8;26;512;8;72385
+Electrónica;Guadalajara;Sí;No;Móvil;Windows;Mexico;Sí;Tarjeta de Regalo;U1454;Femenino;Correo Electrónico;50;29;5;7;3;5;45772;1;0
+Electrónica;Guadalajara;Sí;No;Tableta;MacOS;Mexico;Sí;Tarjeta de Crédito;U0789;Femenino;Directo;118;51;2;8;50;10;41221;4;0
+Electrónica;Guadalajara;Sí;No;Tableta;Windows;Mexico;No;PayPal;U0169;Femenino;Otro;130;62;4;23;0;8;4423;7;4676
+Electrónica;Guadalajara;Sí;No;Tableta;Windows;Mexico;No;Tarjeta de Crédito;U0182;Femenino;Directo;100;18;10;21;0;36;3804;5;0
+Electrónica;Guadalajara;Sí;Sí;Escritorio;Linux;Mexico;Sí;Tarjeta de Regalo;U0492;Femenino;Correo Electrónico;140;53;11;6;15;3;26332;2;0
+Electrónica;Guadalajara;Sí;Sí;Móvil;Android;Mexico;Sí;Tarjeta de Crédito;U1025;Femenino;Directo;15;19;1;1;8;3;31631;4;0
+Electrónica;Guadalajara;Sí;Sí;Tableta;Windows;Mexico;Sí;Criptomoneda;U0872;Otro;Directo;45;43;16;3;41;26;21307;5;0
+Electrónica;Guadalajara;Sí;Sí;Tableta;Windows;Mexico;Sí;Tarjeta de Regalo;U1333;Otro;Redes Sociales;96;55;9;23;14;8;6951;9;47792
+Electrónica;Hamburgo;No;No;Tableta;Android;Germany;No;Criptomoneda;U0859;Masculino;Google;176;36;17;17;0;13;26726;2;0
+Electrónica;Hamburgo;No;No;Tableta;Linux;Germany;Sí;PayPal;U0364;Femenino;Google;87;35;19;20;0;40;24233;6;50753
+Electrónica;Hamburgo;No;Sí;Escritorio;iOS;Germany;No;Criptomoneda;U0569;Otro;Otro;71;42;8;4;0;14;14233;3;14349
+Electrónica;Hamburgo;No;Sí;Escritorio;Linux;Germany;No;Tarjeta de Crédito;U0576;Femenino;Correo Electrónico;123;42;18;6;44;10;4420;0;0
+Electrónica;Hamburgo;No;Sí;Escritorio;MacOS;Germany;Sí;Tarjeta de Crédito;U0775;Otro;Redes Sociales;82;63;19;10;0;45;2084;5;0
+Electrónica;Hamburgo;No;Sí;Escritorio;Windows;Germany;Sí;Criptomoneda;U0518;Femenino;Directo;11;20;19;13;0;19;12641;7;3926
+Electrónica;Hamburgo;No;Sí;Móvil;Android;Germany;No;Tarjeta de Crédito;U0612;Otro;Google;134;28;26;10;0;20;2710;4;0
+Electrónica;Hamburgo;Sí;No;Escritorio;Android;Germany;Sí;Tarjeta de Regalo;U0796;Otro;Directo;19;47;8;8;0;13;40181;6;83528
+Electrónica;Hamburgo;Sí;No;Escritorio;Linux;Germany;No;PayPal;U1314;Masculino;Redes Sociales;26;65;13;23;39;11;2270;0;12403
+Electrónica;Hamburgo;Sí;No;Móvil;Android;Germany;No;PayPal;U0909;Otro;Redes Sociales;126;40;23;9;41;25;18504;0;0
+Electrónica;Hamburgo;Sí;No;Tableta;Android;Germany;Sí;PayPal;U0076;Masculino;Otro;58;65;4;8;47;17;19228;4;51558
+Electrónica;Hamburgo;Sí;No;Tableta;Windows;Germany;Sí;Criptomoneda;U0974;Femenino;Otro;9;54;30;11;0;3;22062;3;0
+Electrónica;Hamburgo;Sí;Sí;Escritorio;Android;Germany;Sí;Tarjeta de Crédito;U1303;Otro;Google;85;31;6;4;0;42;47863;4;54776
+Electrónica;Hamburgo;Sí;Sí;Tableta;Android;Germany;No;Tarjeta de Crédito;U0945;Masculino;Directo;168;25;26;11;5;5;1378;2;0
+Electrónica;Hamburgo;Sí;Sí;Tableta;Windows;Germany;Sí;Tarjeta de Regalo;U0143;Masculino;Otro;151;26;8;1;0;41;21985;0;0
+Electrónica;Londres;No;No;Escritorio;Android;UK;No;Tarjeta de Crédito;U1435;Femenino;Correo Electrónico;166;26;1;1;0;19;1393;10;8826
+Electrónica;Londres;No;No;Escritorio;Android;UK;Sí;PayPal;U0779;Masculino;Directo;175;21;25;9;7;14;27408;5;30759
+Electrónica;Londres;No;No;Escritorio;Linux;UK;No;Tarjeta de Regalo;U0589;Otro;Directo;4;48;10;21;49;25;3852;3;30136
+Electrónica;Londres;No;No;Escritorio;Windows;UK;No;Criptomoneda;U0726;Femenino;Google;1;63;22;22;0;28;20887;10;0
+Electrónica;Londres;No;No;Tableta;Linux;UK;Sí;Criptomoneda;U0039;Femenino;Directo;106;24;20;19;1;14;37058;4;194
+Electrónica;Londres;No;Sí;Tableta;iOS;UK;Sí;PayPal;U1059;Masculino;Directo;75;38;3;14;0;8;9472;4;31329
+Electrónica;Londres;No;Sí;Tableta;Windows;UK;No;Tarjeta de Regalo;U0458;Masculino;Correo Electrónico;77;18;5;2;0;23;31714;5;0
+Electrónica;Londres;Sí;No;Escritorio;MacOS;UK;No;Tarjeta de Regalo;U1355;Femenino;Otro;135;42;3;23;46;2;6193;4;0
+Electrónica;Londres;Sí;No;Móvil;Linux;UK;No;Criptomoneda;U0374;Femenino;Redes Sociales;44;39;26;3;0;33;40986;2;57424
+Electrónica;Londres;Sí;No;Móvil;Linux;UK;Sí;Criptomoneda;U1207;Femenino;Otro;1;19;12;12;0;32;11135;6;12047
+Electrónica;Londres;Sí;No;Tableta;Linux;UK;Sí;Tarjeta de Crédito;U1184;Otro;Google;69;18;1;9;0;10;1711;6;0
+Electrónica;Londres;Sí;No;Tableta;Windows;UK;No;Tarjeta de Regalo;U1467;Masculino;Redes Sociales;42;38;1;16;0;23;44152;1;0
+Electrónica;Londres;Sí;No;Tableta;Windows;UK;Sí;Tarjeta de Regalo;U1257;Masculino;Redes Sociales;76;45;29;12;0;37;27646;7;0
+Electrónica;Londres;Sí;Sí;Escritorio;MacOS;UK;No;Tarjeta de Crédito;U0767;Femenino;Redes Sociales;94;54;17;16;0;7;31549;2;0
+Electrónica;Londres;Sí;Sí;Móvil;iOS;UK;No;Tarjeta de Regalo;U0750;Otro;Directo;59;50;19;4;44;12;41692;7;0
+Electrónica;Londres;Sí;Sí;Tableta;Linux;UK;No;Tarjeta de Regalo;U0841;Masculino;Redes Sociales;77;28;28;14;48;41;2947;5;0
+Electrónica;Londres;Sí;Sí;Tableta;MacOS;UK;Sí;Criptomoneda;U1457;Otro;Google;168;61;20;13;0;5;20953;10;68073
+Electrónica;Los Ángeles;No;No;Escritorio;MacOS;USA;No;PayPal;U0483;Otro;Redes Sociales;118;38;23;5;0;13;35422;10;0
+Electrónica;Los Ángeles;No;No;Móvil;MacOS;USA;Sí;PayPal;U0472;Otro;Correo Electrónico;171;45;20;1;0;31;41122;4;92888
+Electrónica;Los Ángeles;No;No;Móvil;Windows;USA;No;PayPal;U1417;Masculino;Otro;62;64;18;16;0;34;34558;1;0
+Electrónica;Los Ángeles;No;No;Tableta;Linux;USA;No;PayPal;U0437;Otro;Google;73;59;23;14;0;42;2526;8;0
+Electrónica;Los Ángeles;No;No;Tableta;MacOS;USA;No;Tarjeta de Regalo;U1201;Femenino;Directo;110;58;9;22;16;37;32399;8;0
+Electrónica;Los Ángeles;No;Sí;Escritorio;Windows;USA;Sí;PayPal;U0516;Femenino;Directo;110;54;28;14;15;37;45145;4;14436
+Electrónica;Los Ángeles;No;Sí;Móvil;Android;USA;No;Tarjeta de Crédito;U1214;Femenino;Otro;59;60;18;0;0;13;24099;6;0
+Electrónica;Los Ángeles;No;Sí;Móvil;Windows;USA;No;Tarjeta de Regalo;U0478;Masculino;Correo Electrónico;170;29;11;20;19;24;914;1;0
+Electrónica;Los Ángeles;No;Sí;Tableta;Linux;USA;Sí;Tarjeta de Crédito;U1002;Femenino;Redes Sociales;20;37;9;0;40;38;22317;4;73269
+Electrónica;Los Ángeles;No;Sí;Tableta;MacOS;USA;Sí;Criptomoneda;U0795;Masculino;Otro;151;47;20;22;43;7;25427;9;0
+Electrónica;Los Ángeles;Sí;No;Escritorio;iOS;USA;Sí;Criptomoneda;U1136;Masculino;Correo Electrónico;47;48;7;7;0;22;39949;5;0
+Electrónica;Los Ángeles;Sí;No;Móvil;Android;USA;No;Criptomoneda;U0721;Femenino;Otro;169;30;6;10;0;8;47057;1;7018
+Electrónica;Los Ángeles;Sí;No;Móvil;Android;USA;No;Tarjeta de Crédito;U1252;Femenino;Redes Sociales;29;35;6;20;22;31;23659;9;18142
+Electrónica;Los Ángeles;Sí;No;Tableta;Android;USA;No;PayPal;U1433;Femenino;Directo;171;43;24;12;0;26;3194;3;0
+Electrónica;Los Ángeles;Sí;No;Tableta;iOS;USA;No;Tarjeta de Crédito;U1443;Masculino;Redes Sociales;145;59;11;13;7;37;43967;4;0
+Electrónica;Los Ángeles;Sí;No;Tableta;Linux;USA;No;PayPal;U0134;Femenino;Otro;90;64;25;5;40;35;961;3;51503
+Electrónica;Los Ángeles;Sí;Sí;Escritorio;Linux;USA;No;Tarjeta de Regalo;U0200;Femenino;Google;5;41;17;0;22;9;8347;8;0
+Electrónica;Los Ángeles;Sí;Sí;Móvil;Android;USA;No;Criptomoneda;U0079;Femenino;Correo Electrónico;127;31;27;7;0;20;24065;0;0
+Electrónica;Los Ángeles;Sí;Sí;Móvil;Android;USA;No;Tarjeta de Regalo;U0213;Femenino;Otro;106;49;10;3;34;24;2045;7;31293
+Electrónica;Los Ángeles;Sí;Sí;Tableta;Android;USA;No;Tarjeta de Crédito;U1268;Otro;Redes Sociales;24;27;19;4;44;41;26097;0;0
+Electrónica;Los Ángeles;Sí;Sí;Tableta;iOS;USA;Sí;Criptomoneda;U0009;Femenino;Google;146;40;22;12;0;26;3816;5;0
+Electrónica;Los Ángeles;Sí;Sí;Tableta;Windows;USA;No;Tarjeta de Crédito;U1103;Masculino;Otro;63;44;9;21;0;29;3762;3;0
+Electrónica;Lyon;No;No;Móvil;iOS;France;Sí;PayPal;U0013;Otro;Redes Sociales;60;53;1;15;20;7;21088;0;17178
+Electrónica;Lyon;No;No;Tableta;iOS;France;No;Tarjeta de Regalo;U1112;Masculino;Google;99;39;18;10;31;42;15618;2;0
+Electrónica;Lyon;No;No;Tableta;Windows;France;Sí;Tarjeta de Regalo;U1016;Masculino;Correo Electrónico;69;23;15;4;16;50;4870;4;3525
+Electrónica;Lyon;No;Sí;Escritorio;MacOS;France;No;PayPal;U0469;Otro;Redes Sociales;11;39;9;2;18;40;44758;7;0
+Electrónica;Lyon;No;Sí;Escritorio;Windows;France;No;Tarjeta de Regalo;U0097;Masculino;Otro;121;24;23;20;0;18;9232;5;8892
+Electrónica;Lyon;No;Sí;Móvil;MacOS;France;Sí;Tarjeta de Crédito;U0533;Femenino;Redes Sociales;35;34;6;18;0;2;37658;3;52706
+Electrónica;Lyon;Sí;No;Tableta;MacOS;France;No;Criptomoneda;U0548;Otro;Otro;64;42;2;1;0;1;8654;1;0
+Electrónica;Lyon;Sí;No;Tableta;Windows;France;Sí;Tarjeta de Regalo;U1231;Masculino;Correo Electrónico;171;58;6;6;0;36;45203;1;0
+Electrónica;Lyon;Sí;Sí;Escritorio;Linux;France;Sí;PayPal;U0488;Femenino;Redes Sociales;103;54;24;19;4;30;2696;3;0
+Electrónica;Lyon;Sí;Sí;Móvil;Linux;France;Sí;Criptomoneda;U0070;Femenino;Correo Electrónico;30;61;3;21;0;42;43058;6;42135
+Electrónica;Lyon;Sí;Sí;Móvil;MacOS;France;Sí;PayPal;U1397;Otro;Google;61;34;19;3;0;12;4696;5;78802
+Electrónica;Lyon;Sí;Sí;Móvil;MacOS;France;Sí;Tarjeta de Crédito;U0259;Femenino;Otro;108;42;29;21;0;8;38143;3;0
+Electrónica;Lyon;Sí;Sí;Tableta;iOS;France;Sí;Tarjeta de Crédito;U1117;Femenino;Correo Electrónico;159;50;12;4;0;27;28112;2;0
+Electrónica;Lyon;Sí;Sí;Tableta;Linux;France;Sí;PayPal;U0856;Masculino;Directo;170;44;29;8;17;20;30349;6;2273
+Electrónica;Manchester;No;No;Tableta;Linux;UK;No;Tarjeta de Regalo;U0515;Otro;Directo;7;60;28;11;26;50;9353;4;75312
+Electrónica;Manchester;No;Sí;Escritorio;Android;UK;No;PayPal;U0157;Femenino;Directo;106;62;8;1;0;21;45246;8;40588
+Electrónica;Manchester;No;Sí;Móvil;Windows;UK;No;PayPal;U0635;Otro;Redes Sociales;117;65;2;15;0;47;7486;8;0
+Electrónica;Manchester;No;Sí;Tableta;Linux;UK;Sí;Tarjeta de Crédito;U0889;Masculino;Correo Electrónico;134;53;30;16;0;20;39209;3;21777
+Electrónica;Manchester;No;Sí;Tableta;MacOS;UK;No;PayPal;U1081;Femenino;Redes Sociales;71;50;5;16;0;20;3666;0;0
+Electrónica;Manchester;Sí;No;Escritorio;MacOS;UK;No;PayPal;U1125;Masculino;Redes Sociales;50;32;27;13;1;10;10033;7;0
+Electrónica;Manchester;Sí;No;Escritorio;MacOS;UK;No;Tarjeta de Regalo;U1217;Femenino;Redes Sociales;28;42;8;1;28;48;30453;0;0
+Electrónica;Manchester;Sí;No;Móvil;MacOS;UK;Sí;Criptomoneda;U0957;Otro;Correo Electrónico;5;54;7;22;27;42;34812;3;0
+Electrónica;Manchester;Sí;Sí;Escritorio;Linux;UK;Sí;Tarjeta de Crédito;U0406;Femenino;Google;172;32;20;6;0;29;6692;3;74043
+Electrónica;Manchester;Sí;Sí;Escritorio;MacOS;UK;No;PayPal;U0609;Masculino;Google;90;40;7;18;19;45;2037;9;0
+Electrónica;Manchester;Sí;Sí;Móvil;Linux;UK;No;Tarjeta de Crédito;U0709;Femenino;Directo;136;43;21;23;0;18;5796;2;9313
+Electrónica;Manchester;Sí;Sí;Tableta;Android;UK;No;Tarjeta de Regalo;U0851;Masculino;Directo;88;21;14;14;0;3;36579;7;92947
+Electrónica;Manchester;Sí;Sí;Tableta;Windows;UK;No;Tarjeta de Regalo;U1476;Masculino;Correo Electrónico;132;42;16;13;21;39;1470;7;0
+Electrónica;Marsella;No;No;Escritorio;iOS;France;No;Criptomoneda;U0689;Otro;Directo;92;31;3;4;0;1;24716;5;0
+Electrónica;Marsella;No;No;Escritorio;Linux;France;Sí;Tarjeta de Regalo;U0884;Masculino;Redes Sociales;58;47;30;7;7;45;10417;2;69415
+Electrónica;Marsella;No;No;Móvil;Linux;France;Sí;PayPal;U0636;Otro;Otro;15;62;12;18;12;2;539;6;75777
+Electrónica;Marsella;No;Sí;Escritorio;Windows;France;No;Criptomoneda;U1374;Masculino;Redes Sociales;78;58;21;20;0;18;11396;1;0
+Electrónica;Marsella;No;Sí;Tableta;Android;France;No;PayPal;U0137;Otro;Correo Electrónico;118;18;30;3;36;10;27422;2;47639
+Electrónica;Marsella;No;Sí;Tableta;Android;France;Sí;Tarjeta de Regalo;U1365;Otro;Google;61;51;23;10;0;9;45124;8;0
+Electrónica;Marsella;No;Sí;Tableta;MacOS;France;No;Criptomoneda;U0061;Masculino;Directo;113;57;11;15;0;34;23359;10;0
+Electrónica;Marsella;Sí;No;Escritorio;Windows;France;No;Tarjeta de Crédito;U0835;Masculino;Otro;87;23;28;0;0;17;38578;5;0
+Electrónica;Marsella;Sí;No;Móvil;Windows;France;Sí;PayPal;U0995;Masculino;Google;85;22;13;17;46;35;22444;1;0
+Electrónica;Marsella;Sí;No;Tableta;Android;France;Sí;PayPal;U0966;Otro;Otro;170;28;27;18;0;26;47458;0;0
+Electrónica;Marsella;Sí;No;Tableta;MacOS;France;Sí;Tarjeta de Crédito;U0512;Otro;Correo Electrónico;4;52;29;10;38;21;17154;3;0
+Electrónica;Marsella;Sí;Sí;Escritorio;MacOS;France;Sí;PayPal;U0943;Femenino;Otro;15;51;16;11;0;41;48666;0;0
+Electrónica;Marsella;Sí;Sí;Móvil;Android;France;Sí;Tarjeta de Crédito;U1264;Otro;Directo;166;56;8;3;0;39;40728;7;77034
+Electrónica;Marsella;Sí;Sí;Tableta;iOS;France;Sí;PayPal;U1197;Masculino;Otro;22;26;7;23;27;7;9873;2;73205
+Electrónica;Marsella;Sí;Sí;Tableta;MacOS;France;No;Criptomoneda;U0897;Femenino;Otro;99;43;11;12;38;17;16085;8;0
+Electrónica;Marsella;Sí;Sí;Tableta;MacOS;France;Sí;Criptomoneda;U0016;Femenino;Otro;126;20;9;3;35;36;20698;2;7059
+Electrónica;Marsella;Sí;Sí;Tableta;MacOS;France;Sí;Tarjeta de Regalo;U0739;Otro;Google;23;18;26;3;0;23;23055;8;96658
+Electrónica;Monterrey;No;No;Móvil;Android;Mexico;No;PayPal;U0058;Masculino;Otro;87;31;1;4;0;13;13882;5;0
+Electrónica;Monterrey;No;No;Móvil;Linux;Mexico;Sí;Tarjeta de Regalo;U0727;Masculino;Redes Sociales;10;52;16;8;23;30;36515;10;0
+Electrónica;Monterrey;No;No;Móvil;Linux;Mexico;Sí;Tarjeta de Regalo;U1075;Femenino;Directo;59;31;17;23;0;30;40227;2;0
+Electrónica;Monterrey;No;No;Móvil;MacOS;Mexico;Sí;Tarjeta de Crédito;U1344;Masculino;Otro;105;47;4;18;0;33;13868;1;0
+Electrónica;Monterrey;No;No;Tableta;Linux;Mexico;No;PayPal;U0167;Otro;Directo;63;19;5;21;0;34;52;3;0
+Electrónica;Monterrey;No;Sí;Tableta;Linux;Mexico;No;Tarjeta de Regalo;U0453;Otro;Correo Electrónico;90;49;3;6;17;42;35345;10;16349
+Electrónica;Monterrey;No;Sí;Tableta;Windows;Mexico;No;Criptomoneda;U1335;Masculino;Directo;2;26;1;10;0;34;29591;10;62924
+Electrónica;Monterrey;No;Sí;Tableta;Windows;Mexico;Sí;PayPal;U1496;Otro;Directo;177;24;21;15;32;10;20443;3;0
+Electrónica;Monterrey;Sí;No;Escritorio;iOS;Mexico;Sí;Tarjeta de Regalo;U1475;Femenino;Google;157;35;18;6;4;13;19694;9;0
+Electrónica;Monterrey;Sí;No;Escritorio;Windows;Mexico;No;Tarjeta de Regalo;U0819;Femenino;Directo;150;41;3;7;0;4;12618;6;0
+Electrónica;Monterrey;Sí;No;Escritorio;Windows;Mexico;No;Tarjeta de Regalo;U1440;Femenino;Correo Electrónico;110;42;16;14;0;41;7244;3;0
+Electrónica;Monterrey;Sí;No;Móvil;Android;Mexico;No;Tarjeta de Regalo;U0026;Masculino;Redes Sociales;6;29;7;21;13;29;26935;3;0
+Electrónica;Monterrey;Sí;No;Tableta;Linux;Mexico;Sí;Tarjeta de Regalo;U1053;Femenino;Directo;29;28;16;7;0;26;12987;10;0
+Electrónica;Monterrey;Sí;Sí;Escritorio;iOS;Mexico;Sí;Criptomoneda;U0757;Femenino;Otro;111;23;4;15;33;12;1514;5;0
+Electrónica;Monterrey;Sí;Sí;Escritorio;MacOS;Mexico;Sí;PayPal;U1373;Otro;Otro;119;53;16;8;0;32;1256;1;8583
+Electrónica;Monterrey;Sí;Sí;Escritorio;MacOS;Mexico;Sí;Tarjeta de Regalo;U0342;Femenino;Redes Sociales;173;52;23;3;0;6;1434;9;0
+Electrónica;Monterrey;Sí;Sí;Escritorio;MacOS;Mexico;Sí;Tarjeta de Regalo;U0673;Masculino;Otro;9;62;10;2;39;23;36092;3;0
+Electrónica;Monterrey;Sí;Sí;Móvil;Linux;Mexico;Sí;Tarjeta de Regalo;U0734;Otro;Directo;112;27;26;0;24;2;10423;1;0
+Electrónica;Monterrey;Sí;Sí;Móvil;MacOS;Mexico;No;Criptomoneda;U1376;Otro;Google;154;51;17;1;34;46;22458;0;0
+Electrónica;Monterrey;Sí;Sí;Tableta;Android;Mexico;No;PayPal;U1001;Masculino;Google;178;50;29;7;0;43;9957;4;0
+Electrónica;Monterrey;Sí;Sí;Tableta;Android;Mexico;No;Tarjeta de Regalo;U0990;Femenino;Otro;60;28;20;21;0;11;47555;10;0
+Electrónica;Montreal;No;No;Escritorio;Android;Canada;No;PayPal;U1047;Otro;Directo;36;52;4;12;40;16;1901;3;0
+Electrónica;Montreal;No;No;Escritorio;iOS;Canada;Sí;Tarjeta de Regalo;U1119;Otro;Correo Electrónico;17;30;10;5;35;2;25574;3;0
+Electrónica;Montreal;No;No;Escritorio;Linux;Canada;Sí;PayPal;U0036;Otro;Redes Sociales;120;61;3;6;0;43;3373;0;0
+Electrónica;Montreal;No;No;Escritorio;Windows;Canada;Sí;PayPal;U0211;Otro;Directo;42;40;23;12;0;50;1523;4;0
+Electrónica;Montreal;No;No;Tableta;Linux;Canada;No;Criptomoneda;U0535;Femenino;Google;92;25;19;8;0;10;30359;3;74375
+Electrónica;Montreal;No;No;Tableta;MacOS;Canada;No;Tarjeta de Crédito;U0177;Femenino;Directo;34;28;28;13;25;10;166;9;9319
+Electrónica;Montreal;Sí;No;Escritorio;iOS;Canada;No;PayPal;U1452;Femenino;Correo Electrónico;17;55;22;3;0;12;19712;0;0
+Electrónica;Montreal;Sí;No;Escritorio;Windows;Canada;No;Tarjeta de Regalo;U1233;Otro;Otro;170;39;13;22;24;36;23497;10;0
+Electrónica;Montreal;Sí;No;Tableta;Linux;Canada;Sí;Criptomoneda;U0511;Masculino;Directo;118;29;18;13;31;37;31427;0;87183
+Electrónica;Montreal;Sí;Sí;Móvil;Linux;Canada;Sí;Tarjeta de Crédito;U1441;Otro;Correo Electrónico;120;60;1;7;0;33;44434;1;50884
+Electrónica;Montreal;Sí;Sí;Tableta;Windows;Canada;Sí;Tarjeta de Regalo;U1408;Otro;Redes Sociales;97;38;5;10;40;40;8092;8;54582
+Electrónica;Múnich;No;No;Móvil;Linux;Germany;No;PayPal;U0686;Otro;Google;131;35;9;2;44;45;44021;5;0
+Electrónica;Múnich;No;No;Tableta;Android;Germany;Sí;Tarjeta de Regalo;U0144;Masculino;Otro;144;32;11;15;0;10;41062;6;0
+Electrónica;Múnich;No;Sí;Escritorio;Linux;Germany;No;PayPal;U0319;Femenino;Directo;78;65;7;0;0;9;27399;8;82654
+Electrónica;Múnich;No;Sí;Escritorio;Linux;Germany;No;Tarjeta de Crédito;U0133;Femenino;Google;69;54;30;23;0;24;21456;2;0
+Electrónica;Múnich;No;Sí;Escritorio;Windows;Germany;Sí;PayPal;U0179;Femenino;Otro;171;42;29;21;0;20;43813;7;48284
+Electrónica;Múnich;No;Sí;Móvil;Android;Germany;Sí;PayPal;U0680;Otro;Correo Electrónico;39;28;30;13;0;28;17382;1;0
+Electrónica;Múnich;No;Sí;Tableta;iOS;Germany;Sí;PayPal;U1348;Otro;Correo Electrónico;146;34;24;6;45;12;9393;4;48679
+Electrónica;Múnich;No;Sí;Tableta;Windows;Germany;No;Tarjeta de Crédito;U0151;Otro;Directo;29;49;20;19;13;39;43207;9;78839
+Electrónica;Múnich;Sí;No;Escritorio;Android;Germany;Sí;Criptomoneda;U0591;Masculino;Correo Electrónico;17;64;5;2;0;5;15929;4;0
+Electrónica;Múnich;Sí;No;Escritorio;iOS;Germany;No;Criptomoneda;U0288;Masculino;Directo;165;25;13;23;5;18;34528;7;0
+Electrónica;Múnich;Sí;No;Tableta;iOS;Germany;Sí;Tarjeta de Regalo;U0873;Masculino;Otro;77;63;18;3;0;11;44807;2;19865
+Electrónica;Múnich;Sí;No;Tableta;Linux;Germany;No;Criptomoneda;U1149;Otro;Correo Electrónico;98;25;9;3;36;41;33636;0;77444
+Electrónica;Múnich;Sí;Sí;Escritorio;MacOS;Germany;Sí;PayPal;U0574;Otro;Redes Sociales;36;37;1;12;38;36;38604;0;90934
+Electrónica;Nueva York;No;Sí;Escritorio;Windows;USA;Sí;PayPal;U1189;Femenino;Google;165;63;4;9;0;41;42441;10;20373
+Electrónica;Nueva York;No;Sí;Móvil;iOS;USA;No;PayPal;U1072;Otro;Google;21;25;18;8;34;48;22093;1;0
+Electrónica;Nueva York;No;Sí;Móvil;Windows;USA;No;PayPal;U0584;Masculino;Directo;157;29;17;6;0;16;46909;5;0
+Electrónica;Nueva York;No;Sí;Tableta;iOS;USA;Sí;Tarjeta de Crédito;U0542;Masculino;Correo Electrónico;179;24;14;20;0;10;3288;9;0
+Electrónica;Nueva York;No;Sí;Tableta;Linux;USA;Sí;PayPal;U0843;Masculino;Otro;87;40;16;23;0;13;2403;3;0
+Electrónica;Nueva York;Sí;No;Escritorio;Windows;USA;No;PayPal;U0030;Femenino;Directo;15;44;27;16;0;16;3988;5;49557
+Electrónica;Nueva York;Sí;No;Móvil;MacOS;USA;Sí;Tarjeta de Crédito;U0736;Femenino;Redes Sociales;169;62;6;9;0;14;10707;1;0
+Electrónica;Nueva York;Sí;No;Móvil;Windows;USA;No;PayPal;U1331;Femenino;Otro;16;22;19;8;12;28;4930;4;0
+Electrónica;Nueva York;Sí;Sí;Escritorio;MacOS;USA;No;Tarjeta de Regalo;U0639;Femenino;Otro;117;34;4;10;12;17;31876;0;21388
+Electrónica;Nueva York;Sí;Sí;Móvil;Android;USA;Sí;Criptomoneda;U1322;Otro;Google;23;22;25;9;8;18;38155;0;75907
+Electrónica;Nueva York;Sí;Sí;Tableta;Android;USA;No;Tarjeta de Regalo;U1041;Otro;Correo Electrónico;17;31;27;23;4;16;48209;1;0
+Electrónica;París;No;Sí;Móvil;Windows;France;Sí;Tarjeta de Regalo;U0328;Masculino;Google;24;25;23;5;0;41;23724;6;78204
+Electrónica;París;No;Sí;Tableta;Android;France;No;Criptomoneda;U0220;Femenino;Otro;163;49;8;14;0;24;2445;10;48049
+Electrónica;París;Sí;No;Escritorio;MacOS;France;No;Tarjeta de Crédito;U1143;Femenino;Directo;1;37;14;0;22;1;8057;2;28305
+Electrónica;París;Sí;No;Móvil;iOS;France;Sí;Tarjeta de Crédito;U1478;Otro;Otro;148;32;27;11;9;26;43123;9;0
+Electrónica;París;Sí;No;Móvil;Linux;France;No;Tarjeta de Regalo;U0197;Masculino;Redes Sociales;132;32;5;18;41;24;24893;6;6788
+Electrónica;París;Sí;No;Tableta;Linux;France;No;Tarjeta de Crédito;U1101;Masculino;Directo;161;47;11;14;0;13;14834;3;33046
+Electrónica;París;Sí;Sí;Escritorio;Android;France;No;Criptomoneda;U0620;Femenino;Google;95;55;3;9;48;13;11551;3;28871
+Electrónica;París;Sí;Sí;Escritorio;MacOS;France;Sí;PayPal;U0833;Masculino;Redes Sociales;115;22;22;5;49;27;8857;10;87358
+Electrónica;París;Sí;Sí;Tableta;MacOS;France;Sí;Tarjeta de Regalo;U1000;Femenino;Otro;31;37;23;19;48;25;461;6;70169
+Electrónica;Rio de Janeiro;No;No;Escritorio;Linux;Brazil;Sí;PayPal;U1126;Femenino;Correo Electrónico;79;46;26;13;46;42;5332;1;0
+Electrónica;Rio de Janeiro;No;No;Escritorio;MacOS;Brazil;Sí;PayPal;U0367;Otro;Redes Sociales;46;48;28;0;44;42;18731;10;9119
+Electrónica;Rio de Janeiro;No;No;Escritorio;MacOS;Brazil;Sí;PayPal;U1382;Masculino;Directo;34;40;28;2;29;25;32856;4;0
+Electrónica;Rio de Janeiro;No;No;Móvil;MacOS;Brazil;No;PayPal;U1068;Otro;Correo Electrónico;78;59;5;11;33;46;19127;6;0
+Electrónica;Rio de Janeiro;No;No;Móvil;Windows;Brazil;Sí;Tarjeta de Regalo;U0417;Femenino;Otro;20;23;5;3;0;23;6086;7;44528
+Electrónica;Rio de Janeiro;No;No;Tableta;Linux;Brazil;Sí;Criptomoneda;U1405;Masculino;Redes Sociales;158;53;5;15;0;18;15812;5;0
+Electrónica;Rio de Janeiro;No;Sí;Escritorio;Android;Brazil;No;Criptomoneda;U0613;Otro;Directo;70;35;6;19;40;44;42119;6;0
+Electrónica;Rio de Janeiro;No;Sí;Escritorio;MacOS;Brazil;No;PayPal;U0352;Masculino;Redes Sociales;148;54;2;8;35;48;32716;6;0
+Electrónica;Rio de Janeiro;No;Sí;Móvil;Linux;Brazil;No;Criptomoneda;U0246;Femenino;Otro;154;36;21;14;0;21;34846;5;0
+Electrónica;Rio de Janeiro;No;Sí;Móvil;Linux;Brazil;No;Tarjeta de Crédito;U1450;Masculino;Redes Sociales;68;61;20;16;0;26;40251;10;0
+Electrónica;Rio de Janeiro;No;Sí;Móvil;MacOS;Brazil;No;PayPal;U1442;Masculino;Correo Electrónico;97;57;6;14;10;19;23803;6;0
+Electrónica;Rio de Janeiro;No;Sí;Tableta;MacOS;Brazil;Sí;PayPal;U0869;Femenino;Directo;90;22;19;4;0;35;2033;8;0
+Electrónica;Rio de Janeiro;Sí;No;Escritorio;iOS;Brazil;No;PayPal;U0403;Otro;Directo;89;31;28;16;0;38;33603;10;0
+Electrónica;Rio de Janeiro;Sí;No;Escritorio;iOS;Brazil;No;Tarjeta de Crédito;U1489;Femenino;Correo Electrónico;90;40;2;8;18;42;23781;4;0
+Electrónica;Rio de Janeiro;Sí;No;Escritorio;Linux;Brazil;Sí;PayPal;U0916;Otro;Correo Electrónico;73;52;29;5;50;33;32016;5;96045
+Electrónica;Rio de Janeiro;Sí;No;Tableta;Android;Brazil;No;PayPal;U0253;Femenino;Redes Sociales;47;56;11;12;0;20;47062;5;49016
+Electrónica;Rio de Janeiro;Sí;No;Tableta;Windows;Brazil;No;Tarjeta de Crédito;U1035;Otro;Otro;111;55;10;22;0;26;30624;8;0
+Electrónica;Rio de Janeiro;Sí;Sí;Tableta;iOS;Brazil;Sí;Tarjeta de Regalo;U1121;Masculino;Redes Sociales;24;64;13;21;41;9;16012;5;0
+Electrónica;Sao Paulo;No;No;Móvil;MacOS;Brazil;Sí;PayPal;U0887;Otro;Correo Electrónico;75;34;28;20;46;41;11376;7;3601
+Electrónica;Sao Paulo;No;No;Móvil;MacOS;Brazil;Sí;Tarjeta de Regalo;U0210;Otro;Correo Electrónico;77;45;10;6;0;17;41733;2;0
+Electrónica;Sao Paulo;No;No;Tableta;Android;Brazil;Sí;Tarjeta de Crédito;U0534;Otro;Correo Electrónico;30;43;12;11;0;5;24686;1;55731
+Electrónica;Sao Paulo;No;Sí;Móvil;iOS;Brazil;No;Criptomoneda;U0540;Femenino;Google;79;51;9;0;0;39;16668;2;0
+Electrónica;Sao Paulo;No;Sí;Tableta;iOS;Brazil;Sí;Tarjeta de Regalo;U0111;Femenino;Otro;77;59;23;3;49;7;20629;1;0
+Electrónica;Sao Paulo;No;Sí;Tableta;Linux;Brazil;Sí;Tarjeta de Regalo;U1232;Masculino;Otro;39;37;30;20;0;4;43279;3;0
+Electrónica;Sao Paulo;No;Sí;Tableta;Windows;Brazil;No;PayPal;U0794;Otro;Directo;119;22;21;0;9;17;795;7;85621
+Electrónica;Sao Paulo;Sí;No;Escritorio;MacOS;Brazil;Sí;Criptomoneda;U1317;Masculino;Directo;100;46;15;19;7;50;22883;2;10328
+Electrónica;Sao Paulo;Sí;No;Tableta;Android;Brazil;No;Criptomoneda;U1153;Masculino;Google;38;63;14;12;42;11;39991;1;85295
+Electrónica;Sao Paulo;Sí;Sí;Móvil;iOS;Brazil;Sí;PayPal;U0241;Femenino;Redes Sociales;139;37;19;10;23;29;13791;1;0
+Electrónica;Sao Paulo;Sí;Sí;Tableta;MacOS;Brazil;No;PayPal;U0543;Masculino;Otro;102;21;17;21;0;10;1682;0;26922
+Electrónica;Toronto;No;Sí;Escritorio;MacOS;Canada;Sí;Tarjeta de Crédito;U1226;Femenino;Redes Sociales;56;45;28;23;0;24;10701;3;23574
+Electrónica;Toronto;No;Sí;Móvil;Windows;Canada;No;Tarjeta de Crédito;U1447;Femenino;Redes Sociales;121;20;14;2;0;16;33128;10;48387
+Electrónica;Toronto;No;Sí;Tableta;Android;Canada;Sí;PayPal;U0402;Femenino;Redes Sociales;69;33;25;8;0;15;11036;7;0
+Electrónica;Toronto;No;Sí;Tableta;iOS;Canada;No;PayPal;U1056;Otro;Redes Sociales;81;31;2;20;13;25;5606;2;0
+Electrónica;Toronto;Sí;No;Móvil;Linux;Canada;No;Criptomoneda;U0277;Otro;Redes Sociales;25;58;5;13;0;18;30407;6;46746
+Electrónica;Toronto;Sí;Sí;Móvil;Android;Canada;Sí;PayPal;U1155;Masculino;Redes Sociales;136;29;15;5;0;22;48936;10;0
+Electrónica;Toronto;Sí;Sí;Móvil;iOS;Canada;Sí;Tarjeta de Crédito;U1390;Masculino;Redes Sociales;32;57;18;7;32;3;5028;3;34671
+Electrónica;Toronto;Sí;Sí;Tableta;Android;Canada;No;Tarjeta de Crédito;U0732;Otro;Directo;89;42;21;21;26;28;28254;10;0
+Electrónica;Toronto;Sí;Sí;Tableta;Windows;Canada;Sí;Criptomoneda;U1473;Masculino;Redes Sociales;14;25;20;21;30;26;14083;9;7556
+Electrónica;Vancouver;No;No;Escritorio;iOS;Canada;Sí;PayPal;U0625;Masculino;Otro;12;59;26;8;7;2;46576;7;0
+Electrónica;Vancouver;No;No;Escritorio;Windows;Canada;No;PayPal;U1414;Femenino;Google;41;57;25;6;0;43;9684;5;0
+Electrónica;Vancouver;No;No;Móvil;Linux;Canada;Sí;Tarjeta de Crédito;U0529;Otro;Otro;97;63;20;8;39;7;32705;10;0
+Electrónica;Vancouver;No;Sí;Escritorio;Linux;Canada;No;Tarjeta de Crédito;U0647;Otro;Redes Sociales;161;36;7;2;23;40;15411;2;52901
+Electrónica;Vancouver;No;Sí;Móvil;Android;Canada;No;Tarjeta de Crédito;U1294;Otro;Google;119;41;7;4;36;36;30498;10;0
+Electrónica;Vancouver;No;Sí;Móvil;Linux;Canada;No;PayPal;U1358;Femenino;Correo Electrónico;27;39;5;16;32;4;47277;7;0
+Electrónica;Vancouver;No;Sí;Móvil;Windows;Canada;Sí;Tarjeta de Crédito;U0998;Masculino;Correo Electrónico;179;21;12;9;0;39;26849;10;47319
+Electrónica;Vancouver;No;Sí;Tableta;Linux;Canada;No;Tarjeta de Regalo;U0934;Masculino;Directo;48;27;11;15;0;33;17997;2;0
+Electrónica;Vancouver;Sí;No;Escritorio;MacOS;Canada;Sí;Tarjeta de Regalo;U0208;Femenino;Google;44;19;16;4;21;10;2509;3;0
+Electrónica;Vancouver;Sí;No;Escritorio;Windows;Canada;No;Tarjeta de Crédito;U1350;Femenino;Otro;45;31;26;12;0;3;28471;2;89655
+Electrónica;Vancouver;Sí;No;Escritorio;Windows;Canada;Sí;PayPal;U0866;Femenino;Redes Sociales;57;38;12;0;0;40;6884;8;0
+Electrónica;Vancouver;Sí;No;Escritorio;Windows;Canada;Sí;Tarjeta de Regalo;U0131;Femenino;Directo;36;18;2;17;41;8;5946;8;79146
+Electrónica;Vancouver;Sí;No;Móvil;Windows;Canada;Sí;Tarjeta de Crédito;U1011;Masculino;Redes Sociales;99;53;14;17;19;2;24994;4;53467
+Electrónica;Vancouver;Sí;No;Tableta;Android;Canada;No;PayPal;U0803;Masculino;Google;123;38;5;23;31;6;44304;7;31584
+Electrónica;Vancouver;Sí;No;Tableta;Linux;Canada;No;Tarjeta de Crédito;U0560;Masculino;Redes Sociales;161;56;9;18;17;31;35958;8;0
+Electrónica;Vancouver;Sí;No;Tableta;Windows;Canada;Sí;PayPal;U1291;Masculino;Redes Sociales;110;51;28;11;45;49;16995;4;0
+Electrónica;Vancouver;Sí;Sí;Móvil;Linux;Canada;Sí;Tarjeta de Crédito;U0527;Femenino;Otro;54;29;23;4;10;45;34686;2;90326
+Electrónica;Vancouver;Sí;Sí;Móvil;Windows;Canada;No;PayPal;U0928;Masculino;Directo;134;42;15;22;40;15;11889;5;0
+Electrónica;Vancouver;Sí;Sí;Tableta;iOS;Canada;No;Tarjeta de Regalo;U0046;Otro;Correo Electrónico;41;31;18;14;6;4;38846;8;0
+Deportes;Berlín;No;No;Escritorio;Android;Germany;Sí;PayPal;U1128;Masculino;Redes Sociales;70;22;29;22;48;3;1782;0;41643
+Deportes;Berlín;No;No;Móvil;Linux;Germany;No;Tarjeta de Regalo;U0017;Otro;Correo Electrónico;173;39;22;11;0;16;9968;9;0
+Deportes;Berlín;No;No;Tableta;iOS;Germany;No;PayPal;U0212;Otro;Correo Electrónico;137;54;15;11;31;38;3957;7;0
+Deportes;Berlín;No;Sí;Escritorio;iOS;Germany;Sí;Criptomoneda;U0397;Masculino;Otro;70;62;19;17;4;41;28689;9;14204
+Deportes;Berlín;No;Sí;Móvil;Linux;Germany;Sí;Criptomoneda;U1138;Femenino;Redes Sociales;98;53;22;22;0;20;5297;5;0
+Deportes;Berlín;No;Sí;Tableta;Android;Germany;No;Tarjeta de Crédito;U0782;Otro;Redes Sociales;114;49;5;18;32;37;32538;3;10473
+Deportes;Berlín;No;Sí;Tableta;iOS;Germany;Sí;Tarjeta de Crédito;U1202;Otro;Google;97;52;4;11;29;48;1903;1;0
+Deportes;Berlín;Sí;No;Tableta;iOS;Germany;Sí;Criptomoneda;U1139;Femenino;Redes Sociales;96;43;19;12;0;39;27627;7;0
+Deportes;Berlín;Sí;No;Tableta;Windows;Germany;Sí;Criptomoneda;U0978;Otro;Correo Electrónico;42;23;24;15;0;38;41747;1;30373
+Deportes;Berlín;Sí;Sí;Escritorio;Android;Germany;No;Criptomoneda;U1289;Femenino;Redes Sociales;38;64;11;18;50;42;2483;1;0
+Deportes;Berlín;Sí;Sí;Escritorio;Linux;Germany;No;PayPal;U1042;Femenino;Redes Sociales;173;28;25;17;50;37;2718;6;68973
+Deportes;Berlín;Sí;Sí;Escritorio;MacOS;Germany;No;Tarjeta de Crédito;U0295;Femenino;Directo;160;42;17;10;0;29;1723;4;54398
+Deportes;Brasilia;No;No;Móvil;MacOS;Brazil;Sí;Criptomoneda;U0661;Femenino;Redes Sociales;170;25;14;14;0;14;44145;3;0
+Deportes;Brasilia;No;No;Tableta;Linux;Brazil;No;PayPal;U0054;Femenino;Directo;3;61;5;0;17;12;38614;9;0
+Deportes;Brasilia;Sí;No;Escritorio;Linux;Brazil;Sí;PayPal;U0205;Masculino;Otro;165;20;3;19;31;44;21801;2;0
+Deportes;Brasilia;Sí;No;Móvil;iOS;Brazil;No;PayPal;U0329;Masculino;Otro;149;44;11;19;50;46;18702;9;84125
+Deportes;Brasilia;Sí;No;Tableta;MacOS;Brazil;No;PayPal;U1230;Femenino;Google;113;37;13;12;28;36;6734;5;44538
+Deportes;Brasilia;Sí;Sí;Escritorio;Android;Brazil;No;Criptomoneda;U1409;Masculino;Google;74;28;25;9;40;46;3680;5;0
+Deportes;Brasilia;Sí;Sí;Tableta;MacOS;Brazil;Sí;PayPal;U1024;Otro;Otro;68;57;13;16;25;49;14854;2;74735
+Deportes;Brasilia;Sí;Sí;Tableta;Windows;Brazil;No;Tarjeta de Crédito;U1021;Femenino;Otro;144;61;10;11;1;47;12488;3;0
+Deportes;Brasilia;Sí;Sí;Tableta;Windows;Brazil;Sí;Tarjeta de Crédito;U0339;Masculino;Redes Sociales;76;65;23;4;41;48;44889;8;0
+Deportes;Chicago;No;No;Escritorio;iOS;USA;Sí;Tarjeta de Crédito;U0592;Masculino;Redes Sociales;39;33;23;23;0;21;15659;8;0
+Deportes;Chicago;No;No;Escritorio;Linux;USA;No;Tarjeta de Regalo;U0098;Femenino;Directo;42;26;10;6;0;12;4073;7;0
+Deportes;Chicago;No;No;Escritorio;Windows;USA;No;Tarjeta de Crédito;U1359;Otro;Google;26;60;24;2;11;25;751;6;10519
+Deportes;Chicago;No;No;Móvil;iOS;USA;No;PayPal;U1004;Femenino;Google;153;64;2;22;0;3;40903;5;27618
+Deportes;Chicago;No;No;Tableta;Linux;USA;Sí;Criptomoneda;U1290;Masculino;Otro;142;25;10;20;16;9;48789;2;4917
+Deportes;Chicago;No;Sí;Móvil;iOS;USA;No;Tarjeta de Crédito;U0388;Femenino;Correo Electrónico;17;46;22;1;8;45;20481;1;0
+Deportes;Chicago;No;Sí;Móvil;MacOS;USA;Sí;PayPal;U1008;Masculino;Google;106;55;20;12;5;10;40158;6;73545
+Deportes;Chicago;No;Sí;Tableta;iOS;USA;No;Criptomoneda;U0627;Masculino;Otro;94;44;23;8;13;19;37538;0;88838
+Deportes;Chicago;Sí;No;Escritorio;Linux;USA;No;PayPal;U1410;Otro;Directo;115;57;16;18;0;44;52;1;88395
+Deportes;Chicago;Sí;No;Móvil;Android;USA;No;PayPal;U0657;Masculino;Directo;22;30;8;18;13;29;21555;2;0
+Deportes;Chicago;Sí;No;Móvil;MacOS;USA;No;Tarjeta de Regalo;U0886;Femenino;Directo;134;65;16;4;0;6;34571;0;8793
+Deportes;Chicago;Sí;No;Tableta;MacOS;USA;No;PayPal;U1428;Masculino;Correo Electrónico;22;34;27;9;0;19;27102;10;0
+Deportes;Chicago;Sí;No;Tableta;MacOS;USA;No;Tarjeta de Crédito;U1269;Otro;Directo;128;36;29;20;20;19;38299;5;0
+Deportes;Chicago;Sí;No;Tableta;Windows;USA;No;PayPal;U0820;Otro;Redes Sociales;16;32;7;9;0;37;34189;1;0
+Deportes;Chicago;Sí;Sí;Móvil;MacOS;USA;No;Tarjeta de Regalo;U1445;Masculino;Google;130;56;17;8;46;33;33873;8;1259
+Deportes;Chicago;Sí;Sí;Tableta;Android;USA;Sí;PayPal;U0186;Masculino;Otro;111;20;1;21;0;14;7455;9;0
+Deportes;Ciudad de MÇ¸xico;No;No;Escritorio;Linux;Mexico;Sí;Tarjeta de Regalo;U1360;Otro;Google;97;63;1;1;0;13;3232;2;42657
+Deportes;Ciudad de MÇ¸xico;No;No;Escritorio;Windows;Mexico;Sí;Criptomoneda;U0451;Femenino;Otro;43;64;21;21;14;35;13003;9;0
+Deportes;Ciudad de MÇ¸xico;No;No;Tableta;MacOS;Mexico;Sí;PayPal;U1038;Masculino;Redes Sociales;80;48;16;7;41;15;34232;5;56538
+Deportes;Ciudad de MÇ¸xico;No;Sí;Escritorio;Linux;Mexico;No;PayPal;U0172;Masculino;Google;146;45;15;7;0;9;24501;0;3136
+Deportes;Ciudad de MÇ¸xico;No;Sí;Móvil;iOS;Mexico;No;Tarjeta de Regalo;U0755;Otro;Redes Sociales;155;38;11;15;0;42;35051;1;0
+Deportes;Ciudad de MÇ¸xico;No;Sí;Tableta;Windows;Mexico;Sí;Criptomoneda;U0850;Otro;Otro;172;57;29;1;0;43;31435;5;0
+Deportes;Ciudad de MÇ¸xico;No;Sí;Tableta;Windows;Mexico;Sí;Tarjeta de Regalo;U0827;Masculino;Correo Electrónico;26;27;2;5;0;40;444;7;3024
+Deportes;Ciudad de MÇ¸xico;Sí;No;Escritorio;Linux;Mexico;No;PayPal;U1120;Masculino;Redes Sociales;124;48;28;23;0;25;2836;6;43507
+Deportes;Ciudad de MÇ¸xico;Sí;No;Escritorio;Windows;Mexico;Sí;Tarjeta de Crédito;U0407;Femenino;Otro;87;45;4;3;3;19;6924;0;32142
+Deportes;Ciudad de MÇ¸xico;Sí;Sí;Escritorio;MacOS;Mexico;No;Tarjeta de Regalo;U0346;Femenino;Correo Electrónico;80;47;27;5;0;44;7143;5;0
+Deportes;Ciudad de MÇ¸xico;Sí;Sí;Tableta;MacOS;Mexico;No;Tarjeta de Regalo;U0730;Masculino;Correo Electrónico;50;22;25;20;0;20;47233;6;305
+Deportes;Edimburgo;No;No;Escritorio;Windows;UK;Sí;Criptomoneda;U0959;Otro;Google;79;39;12;8;21;38;20183;0;0
+Deportes;Edimburgo;No;No;Escritorio;Windows;UK;Sí;Tarjeta de Regalo;U0606;Masculino;Correo Electrónico;90;48;20;8;0;40;32414;0;16992
+Deportes;Edimburgo;No;No;Móvil;MacOS;UK;No;Tarjeta de Crédito;U0852;Femenino;Otro;115;42;11;5;0;35;4663;0;22641
+Deportes;Edimburgo;No;No;Móvil;MacOS;UK;Sí;PayPal;U0263;Femenino;Google;50;59;18;14;0;23;4383;10;63561
+Deportes;Edimburgo;No;Sí;Escritorio;Android;UK;Sí;Tarjeta de Regalo;U1148;Masculino;Otro;93;23;2;16;22;30;16981;2;19124
+Deportes;Edimburgo;No;Sí;Escritorio;Linux;UK;Sí;PayPal;U1114;Masculino;Correo Electrónico;14;27;13;21;0;42;9114;9;0
+Deportes;Edimburgo;No;Sí;Escritorio;Windows;UK;Sí;Tarjeta de Crédito;U1063;Femenino;Directo;126;31;19;13;0;21;39273;1;67374
+Deportes;Edimburgo;No;Sí;Móvil;Linux;UK;No;PayPal;U0894;Femenino;Correo Electrónico;168;64;28;17;23;12;32911;10;66223
+Deportes;Edimburgo;No;Sí;Móvil;Linux;UK;Sí;Tarjeta de Regalo;U1096;Masculino;Google;41;59;17;2;0;14;17083;7;0
+Deportes;Edimburgo;No;Sí;Tableta;MacOS;UK;No;PayPal;U1380;Femenino;Otro;87;55;15;21;34;10;4717;5;61182
+Deportes;Edimburgo;Sí;No;Escritorio;Android;UK;Sí;Tarjeta de Regalo;U1470;Femenino;Directo;82;54;29;16;9;18;45992;9;0
+Deportes;Edimburgo;Sí;No;Tableta;Android;UK;No;Tarjeta de Crédito;U0480;Masculino;Correo Electrónico;99;43;2;20;0;26;29249;7;9766
+Deportes;Edimburgo;Sí;No;Tableta;iOS;UK;No;Tarjeta de Regalo;U0011;Masculino;Google;117;28;22;11;0;8;12615;0;51434
+Deportes;Edimburgo;Sí;No;Tableta;Linux;UK;Sí;PayPal;U1341;Femenino;Google;70;41;1;23;0;9;1596;0;0
+Deportes;Edimburgo;Sí;No;Tableta;MacOS;UK;No;PayPal;U0471;Otro;Redes Sociales;98;31;14;13;0;47;323;9;4369
+Deportes;Edimburgo;Sí;Sí;Escritorio;iOS;UK;No;Tarjeta de Crédito;U0571;Masculino;Redes Sociales;35;58;18;22;0;29;34794;1;24906
+Deportes;Edimburgo;Sí;Sí;Tableta;Linux;UK;No;Tarjeta de Regalo;U0333;Otro;Correo Electrónico;101;47;2;9;7;7;33456;0;83854
+Deportes;Edimburgo;Sí;Sí;Tableta;Windows;UK;No;Criptomoneda;U0382;Femenino;Otro;123;57;15;17;40;34;43642;3;48981
+Deportes;Guadalajara;No;No;Móvil;iOS;Mexico;Sí;Tarjeta de Crédito;U1219;Masculino;Redes Sociales;105;23;28;9;23;36;15284;2;0
+Deportes;Guadalajara;No;No;Móvil;MacOS;Mexico;Sí;Tarjeta de Regalo;U0293;Masculino;Correo Electrónico;80;52;23;3;38;13;21479;3;0
+Deportes;Guadalajara;No;No;Móvil;Windows;Mexico;No;Criptomoneda;U1213;Otro;Otro;171;34;1;11;49;28;25673;0;0
+Deportes;Guadalajara;No;Sí;Tableta;Linux;Mexico;No;Criptomoneda;U1040;Femenino;Correo Electrónico;42;61;23;8;0;1;20114;3;31338
+Deportes;Guadalajara;No;Sí;Tableta;MacOS;Mexico;No;Tarjeta de Crédito;U1086;Masculino;Google;56;19;28;3;16;23;3915;4;0
+Deportes;Guadalajara;Sí;No;Escritorio;Linux;Mexico;No;Criptomoneda;U0294;Otro;Redes Sociales;162;65;7;3;0;19;32668;7;0
+Deportes;Guadalajara;Sí;No;Escritorio;Linux;Mexico;Sí;Criptomoneda;U0766;Femenino;Otro;176;54;16;9;0;4;955;2;0
+Deportes;Guadalajara;Sí;No;Móvil;Android;Mexico;No;PayPal;U0681;Femenino;Google;122;54;10;1;0;24;40264;7;0
+Deportes;Guadalajara;Sí;No;Móvil;Linux;Mexico;No;Tarjeta de Crédito;U0729;Femenino;Otro;113;35;12;0;20;39;42908;3;5087
+Deportes;Guadalajara;Sí;No;Móvil;MacOS;Mexico;Sí;Tarjeta de Crédito;U0746;Masculino;Google;43;42;19;15;0;25;3828;8;0
+Deportes;Guadalajara;Sí;No;Tableta;Windows;Mexico;Sí;Tarjeta de Regalo;U1182;Femenino;Directo;81;28;27;13;0;35;20205;1;0
+Deportes;Guadalajara;Sí;Sí;Escritorio;iOS;Mexico;No;PayPal;U1044;Otro;Google;155;51;15;18;0;47;6453;5;76818
+Deportes;Guadalajara;Sí;Sí;Escritorio;MacOS;Mexico;No;Tarjeta de Regalo;U0150;Otro;Correo Electrónico;37;56;29;13;14;12;33593;7;0
+Deportes;Hamburgo;No;No;Escritorio;Linux;Germany;Sí;Tarjeta de Regalo;U0257;Masculino;Directo;24;28;22;21;41;46;27451;4;0
+Deportes;Hamburgo;No;No;Móvil;Android;Germany;No;Tarjeta de Crédito;U1082;Otro;Correo Electrónico;137;42;26;5;14;45;2496;0;64392
+Deportes;Hamburgo;No;No;Móvil;Windows;Germany;No;Tarjeta de Regalo;U1304;Otro;Otro;165;48;9;22;0;29;25202;0;15154
+Deportes;Hamburgo;No;Sí;Escritorio;Android;Germany;Sí;Tarjeta de Crédito;U0118;Femenino;Redes Sociales;72;29;1;2;31;37;7799;9;0
+Deportes;Hamburgo;No;Sí;Escritorio;MacOS;Germany;Sí;Tarjeta de Crédito;U0123;Otro;Otro;63;41;3;23;0;6;45657;7;9579
+Deportes;Hamburgo;No;Sí;Móvil;Android;Germany;No;Tarjeta de Crédito;U0033;Femenino;Correo Electrónico;96;33;20;1;0;7;47284;8;0
+Deportes;Hamburgo;No;Sí;Móvil;Windows;Germany;No;Tarjeta de Regalo;U1500;Masculino;Correo Electrónico;19;40;2;1;0;14;26717;9;5174
+Deportes;Hamburgo;No;Sí;Tableta;Android;Germany;No;Tarjeta de Regalo;U0924;Masculino;Otro;34;56;21;7;0;37;25145;2;0
+Deportes;Hamburgo;Sí;No;Escritorio;Linux;Germany;No;Criptomoneda;U1305;Femenino;Directo;65;65;28;3;0;15;46611;2;0
+Deportes;Hamburgo;Sí;No;Tableta;iOS;Germany;No;Criptomoneda;U0854;Femenino;Directo;168;49;22;13;4;24;47535;0;0
+Deportes;Hamburgo;Sí;No;Tableta;MacOS;Germany;No;Tarjeta de Crédito;U0347;Otro;Otro;100;46;21;7;0;26;32415;0;0
+Deportes;Hamburgo;Sí;Sí;Escritorio;Linux;Germany;Sí;Criptomoneda;U0562;Otro;Directo;162;41;18;3;0;38;24111;6;44888
+Deportes;Hamburgo;Sí;Sí;Escritorio;Windows;Germany;Sí;Tarjeta de Regalo;U1330;Masculino;Directo;78;37;17;8;8;33;6285;5;10471
+Deportes;Hamburgo;Sí;Sí;Móvil;Android;Germany;Sí;PayPal;U0520;Otro;Otro;173;50;16;7;30;45;16367;8;0
+Deportes;Hamburgo;Sí;Sí;Móvil;Windows;Germany;Sí;PayPal;U0476;Otro;Directo;116;63;21;9;38;43;7831;9;0
+Deportes;Londres;No;No;Móvil;Android;UK;No;Tarjeta de Crédito;U0836;Otro;Directo;171;19;16;11;3;36;30038;2;21284
+Deportes;Londres;No;No;Tableta;Android;UK;No;Criptomoneda;U0695;Masculino;Directo;38;40;13;11;0;47;11356;4;34224
+Deportes;Londres;No;No;Tableta;Windows;UK;Sí;Tarjeta de Crédito;U0438;Otro;Correo Electrónico;167;47;4;7;40;16;42102;10;0
+Deportes;Londres;No;Sí;Escritorio;Android;UK;Sí;PayPal;U0363;Femenino;Google;81;20;22;2;19;4;13226;2;52637
+Deportes;Londres;No;Sí;Escritorio;iOS;UK;Sí;Tarjeta de Regalo;U0228;Femenino;Google;138;22;11;23;36;27;3867;1;0
+Deportes;Londres;No;Sí;Escritorio;Linux;UK;No;Criptomoneda;U0007;Femenino;Redes Sociales;57;56;1;1;0;43;30863;6;0
+Deportes;Londres;No;Sí;Móvil;iOS;UK;No;Tarjeta de Regalo;U0411;Otro;Correo Electrónico;54;40;9;15;0;31;16684;0;0
+Deportes;Londres;No;Sí;Tableta;iOS;UK;Sí;Criptomoneda;U0506;Otro;Directo;89;45;7;12;0;20;29221;5;0
+Deportes;Londres;No;Sí;Tableta;Linux;UK;No;Tarjeta de Crédito;U0457;Otro;Google;43;62;29;12;45;38;2351;3;0
+Deportes;Londres;Sí;No;Móvil;iOS;UK;Sí;PayPal;U0715;Femenino;Correo Electrónico;78;53;29;8;10;36;3298;6;75872
+Deportes;Londres;Sí;No;Tableta;iOS;UK;Sí;Tarjeta de Crédito;U1194;Femenino;Otro;100;32;27;0;0;39;48487;2;58973
+Deportes;Londres;Sí;Sí;Móvil;Windows;UK;Sí;Criptomoneda;U0521;Masculino;Correo Electrónico;23;57;22;23;7;18;37349;0;87493
+Deportes;Londres;Sí;Sí;Tableta;Linux;UK;No;Tarjeta de Regalo;U0951;Otro;Correo Electrónico;16;54;15;15;8;27;2043;10;0
+Deportes;Los Ángeles;No;No;Escritorio;Android;USA;No;Tarjeta de Crédito;U1178;Masculino;Otro;85;31;4;11;0;26;26272;8;0
+Deportes;Los Ángeles;No;No;Escritorio;MacOS;USA;Sí;Tarjeta de Crédito;U1095;Masculino;Google;87;25;13;13;0;31;20052;5;0
+Deportes;Los Ángeles;No;No;Tableta;Android;USA;Sí;Tarjeta de Regalo;U1054;Femenino;Directo;126;58;26;14;0;38;26944;9;0
+Deportes;Los Ángeles;No;No;Tableta;MacOS;USA;Sí;PayPal;U1383;Otro;Correo Electrónico;97;59;9;23;9;34;47833;8;0
+Deportes;Los Ángeles;No;Sí;Escritorio;MacOS;USA;No;Tarjeta de Regalo;U0772;Masculino;Correo Electrónico;118;38;15;0;0;6;18213;9;0
+Deportes;Los Ángeles;No;Sí;Escritorio;Windows;USA;Sí;Tarjeta de Regalo;U0429;Otro;Otro;112;62;27;19;0;14;30828;5;0
+Deportes;Los Ángeles;No;Sí;Móvil;iOS;USA;No;Tarjeta de Crédito;U0325;Otro;Directo;84;55;19;1;0;11;34659;4;45099
+Deportes;Los Ángeles;No;Sí;Móvil;Windows;USA;Sí;PayPal;U0255;Femenino;Redes Sociales;130;57;10;14;0;50;2589;3;0
+Deportes;Los Ángeles;No;Sí;Móvil;Windows;USA;Sí;Tarjeta de Crédito;U0579;Femenino;Redes Sociales;32;36;30;16;0;1;29105;6;77295
+Deportes;Los Ángeles;No;Sí;Tableta;Android;USA;Sí;Tarjeta de Crédito;U1275;Masculino;Redes Sociales;62;49;13;9;0;29;22133;2;24564
+Deportes;Los Ángeles;Sí;No;Móvil;iOS;USA;Sí;PayPal;U1173;Otro;Google;171;59;23;2;0;15;34954;4;26817
+Deportes;Los Ángeles;Sí;No;Móvil;Linux;USA;Sí;Tarjeta de Crédito;U0963;Femenino;Redes Sociales;93;65;21;16;0;34;27816;5;0
+Deportes;Los Ángeles;Sí;No;Tableta;Linux;USA;Sí;Tarjeta de Crédito;U0823;Otro;Correo Electrónico;173;34;10;1;0;35;20843;0;0
+Deportes;Los Ángeles;Sí;Sí;Escritorio;Android;USA;Sí;Tarjeta de Crédito;U0595;Masculino;Otro;176;29;6;22;34;6;44115;7;0
+Deportes;Los Ángeles;Sí;Sí;Tableta;iOS;USA;No;Tarjeta de Regalo;U0008;Otro;Correo Electrónico;30;36;13;7;0;49;13453;4;70452
+Deportes;Los Ángeles;Sí;Sí;Tableta;Linux;USA;No;Tarjeta de Crédito;U1245;Masculino;Otro;40;46;14;9;0;47;27947;10;17404
+Deportes;Lyon;No;No;Móvil;Android;France;No;PayPal;U0523;Femenino;Redes Sociales;111;60;17;4;0;36;22183;4;0
+Deportes;Lyon;No;No;Móvil;Linux;France;Sí;Criptomoneda;U0126;Otro;Correo Electrónico;141;61;20;18;16;21;7012;4;0
+Deportes;Lyon;No;No;Tableta;iOS;France;No;Criptomoneda;U0665;Masculino;Google;144;20;12;4;1;19;4842;5;0
+Deportes;Lyon;No;No;Tableta;MacOS;France;Sí;PayPal;U0546;Masculino;Google;64;46;23;12;35;21;22196;2;0
+Deportes;Lyon;No;Sí;Tableta;iOS;France;Sí;Tarjeta de Regalo;U0622;Otro;Google;30;63;28;9;0;23;21582;2;161
+Deportes;Lyon;No;Sí;Tableta;MacOS;France;No;Tarjeta de Crédito;U0550;Otro;Correo Electrónico;7;53;11;17;0;49;25971;5;8920
+Deportes;Lyon;Sí;No;Escritorio;Android;France;No;PayPal;U0156;Femenino;Redes Sociales;19;56;24;22;7;42;13632;5;4529
+Deportes;Lyon;Sí;No;Escritorio;Windows;France;Sí;PayPal;U0117;Otro;Directo;79;25;25;11;0;23;25701;9;0
+Deportes;Lyon;Sí;No;Móvil;Linux;France;Sí;Criptomoneda;U0607;Femenino;Otro;1;22;20;22;47;3;18087;0;98213
+Deportes;Lyon;Sí;No;Tableta;Android;France;No;Criptomoneda;U1295;Femenino;Redes Sociales;147;31;10;0;0;18;4937;0;0
+Deportes;Lyon;Sí;No;Tableta;iOS;France;No;Tarjeta de Regalo;U0768;Femenino;Redes Sociales;173;27;24;3;36;41;16161;10;9038
+Deportes;Lyon;Sí;Sí;Escritorio;Android;France;No;Criptomoneda;U0360;Masculino;Redes Sociales;104;49;12;9;0;23;30584;7;0
+Deportes;Lyon;Sí;Sí;Móvil;iOS;France;No;Criptomoneda;U0519;Femenino;Otro;92;18;15;15;0;30;22696;3;0
+Deportes;Lyon;Sí;Sí;Móvil;iOS;France;No;PayPal;U0749;Otro;Correo Electrónico;146;30;13;0;21;31;3092;10;85604
+Deportes;Lyon;Sí;Sí;Móvil;Windows;France;Sí;Tarjeta de Regalo;U0910;Masculino;Google;89;63;25;6;0;15;37949;10;0
+Deportes;Lyon;Sí;Sí;Tableta;Windows;France;Sí;Tarjeta de Regalo;U0049;Femenino;Directo;35;19;28;19;0;2;36138;10;0
+Deportes;Manchester;No;No;Móvil;Windows;UK;Sí;Criptomoneda;U0708;Otro;Directo;45;53;7;1;47;29;6207;3;98639
+Deportes;Manchester;No;No;Tableta;Linux;UK;No;Tarjeta de Crédito;U0868;Masculino;Redes Sociales;21;18;2;18;28;45;30116;7;8920
+Deportes;Manchester;No;No;Tableta;Linux;UK;No;Tarjeta de Regalo;U0724;Masculino;Otro;113;46;1;0;30;5;18044;6;0
+Deportes;Manchester;No;No;Tableta;MacOS;UK;No;Tarjeta de Crédito;U0275;Otro;Redes Sociales;166;49;22;10;0;42;31847;8;90495
+Deportes;Manchester;No;Sí;Tableta;Linux;UK;Sí;Tarjeta de Crédito;U0048;Otro;Redes Sociales;160;43;24;15;31;11;46713;8;6268
+Deportes;Manchester;No;Sí;Tableta;MacOS;UK;No;Tarjeta de Regalo;U1222;Femenino;Correo Electrónico;34;46;4;15;0;19;42959;4;3594
+Deportes;Manchester;Sí;No;Tableta;Windows;UK;No;Criptomoneda;U0773;Femenino;Redes Sociales;82;31;2;13;0;50;918;3;0
+Deportes;Manchester;Sí;No;Tableta;Windows;UK;Sí;Tarjeta de Crédito;U1362;Masculino;Google;109;43;12;23;0;44;47862;1;0
+Deportes;Manchester;Sí;Sí;Escritorio;Windows;UK;Sí;Tarjeta de Crédito;U1023;Masculino;Directo;105;30;17;21;0;48;26727;7;44211
+Deportes;Manchester;Sí;Sí;Tableta;Windows;UK;No;Criptomoneda;U1298;Masculino;Google;35;60;27;14;0;50;39514;2;0
+Deportes;Marsella;No;No;Escritorio;Windows;France;Sí;Tarjeta de Regalo;U0790;Masculino;Directo;45;20;18;17;0;3;10897;8;0
+Deportes;Marsella;No;No;Tableta;Android;France;No;Criptomoneda;U0816;Otro;Google;126;51;14;14;0;24;27106;4;0
+Deportes;Marsella;No;No;Tableta;Android;France;Sí;Criptomoneda;U0487;Femenino;Directo;11;47;27;16;23;16;6448;5;0
+Deportes;Marsella;No;Sí;Móvil;MacOS;France;Sí;Criptomoneda;U1199;Femenino;Directo;157;27;8;16;0;26;42151;2;1614
+Deportes;Marsella;No;Sí;Móvil;Windows;France;No;Criptomoneda;U0072;Femenino;Directo;156;27;26;16;0;23;1349;5;50066
+Deportes;Marsella;No;Sí;Tableta;Windows;France;No;Criptomoneda;U0891;Otro;Redes Sociales;75;25;14;20;0;50;22936;8;0
+Deportes;Marsella;Sí;No;Escritorio;MacOS;France;Sí;Tarjeta de Regalo;U1311;Femenino;Correo Electrónico;61;40;30;2;36;44;12455;3;5832
+Deportes;Marsella;Sí;No;Tableta;Android;France;No;PayPal;U0950;Masculino;Directo;132;58;11;17;22;24;35522;3;4508
+Deportes;Monterrey;No;No;Escritorio;iOS;Mexico;No;PayPal;U1319;Masculino;Google;171;19;9;15;0;38;2874;3;30885
+Deportes;Monterrey;No;No;Escritorio;Windows;Mexico;Sí;PayPal;U0885;Femenino;Correo Electrónico;41;60;13;15;0;2;10945;8;59423
+Deportes;Monterrey;No;No;Móvil;iOS;Mexico;No;Criptomoneda;U1133;Masculino;Redes Sociales;8;62;19;21;0;23;26494;0;44294
+Deportes;Monterrey;No;No;Móvil;MacOS;Mexico;Sí;Criptomoneda;U0495;Femenino;Correo Electrónico;110;27;9;7;0;22;4208;3;62772
+Deportes;Monterrey;No;Sí;Escritorio;Android;Mexico;No;Tarjeta de Crédito;U1326;Otro;Otro;108;19;10;19;7;38;11789;1;9422
+Deportes;Monterrey;No;Sí;Escritorio;iOS;Mexico;No;PayPal;U1028;Femenino;Google;177;54;9;5;0;46;14523;1;2307
+Deportes;Monterrey;No;Sí;Móvil;Android;Mexico;Sí;Criptomoneda;U0191;Masculino;Correo Electrónico;70;26;4;3;0;21;14534;3;0
+Deportes;Monterrey;No;Sí;Tableta;Android;Mexico;No;Tarjeta de Crédito;U0818;Masculino;Google;54;50;11;6;0;3;616;3;85975
+Deportes;Monterrey;Sí;No;Escritorio;iOS;Mexico;No;Criptomoneda;U1258;Masculino;Correo Electrónico;42;47;13;10;0;2;10267;10;0
+Deportes;Monterrey;Sí;No;Escritorio;iOS;Mexico;Sí;Criptomoneda;U0962;Otro;Directo;2;23;29;7;0;28;24292;5;17121
+Deportes;Monterrey;Sí;No;Móvil;Android;Mexico;No;Criptomoneda;U0140;Masculino;Otro;76;31;27;22;0;44;30852;2;0
+Deportes;Monterrey;Sí;Sí;Escritorio;MacOS;Mexico;Sí;PayPal;U0401;Femenino;Correo Electrónico;173;63;25;9;3;43;42591;9;0
+Deportes;Monterrey;Sí;Sí;Móvil;iOS;Mexico;Sí;Tarjeta de Regalo;U1398;Femenino;Correo Electrónico;14;43;11;23;16;49;9699;2;0
+Deportes;Monterrey;Sí;Sí;Tableta;Android;Mexico;No;PayPal;U1106;Masculino;Otro;176;55;5;6;0;28;46879;10;60843
+Deportes;Monterrey;Sí;Sí;Tableta;Windows;Mexico;No;Tarjeta de Crédito;U0077;Masculino;Google;94;32;29;16;0;48;37611;8;0
+Deportes;Montreal;No;No;Tableta;iOS;Canada;Sí;Criptomoneda;U1396;Femenino;Correo Electrónico;1;62;25;13;41;42;23698;9;41863
+Deportes;Montreal;No;No;Tableta;Windows;Canada;No;Tarjeta de Crédito;U0120;Masculino;Redes Sociales;111;50;8;8;0;15;28504;9;6244
+Deportes;Montreal;No;Sí;Móvil;iOS;Canada;Sí;PayPal;U1446;Femenino;Redes Sociales;96;52;4;19;0;47;40311;8;81102
+Deportes;Montreal;No;Sí;Tableta;Windows;Canada;No;Criptomoneda;U0254;Masculino;Directo;106;35;13;5;42;35;16801;6;0
+Deportes;Montreal;Sí;Sí;Escritorio;MacOS;Canada;No;Criptomoneda;U1102;Masculino;Otro;178;56;12;18;10;26;29071;10;0
+Deportes;Montreal;Sí;Sí;Móvil;iOS;Canada;No;Criptomoneda;U0762;Masculino;Otro;154;22;14;15;0;15;725;10;0
+Deportes;Montreal;Sí;Sí;Móvil;Windows;Canada;No;Tarjeta de Regalo;U0754;Femenino;Correo Electrónico;56;18;26;3;0;50;15509;7;0
+Deportes;Montreal;Sí;Sí;Tableta;Linux;Canada;Sí;Tarjeta de Crédito;U0528;Masculino;Google;29;48;9;5;0;44;25915;8;96248
+Deportes;Múnich;No;No;Móvil;Android;Germany;No;PayPal;U1089;Otro;Directo;131;57;25;8;46;29;7889;10;0
+Deportes;Múnich;No;No;Tableta;iOS;Germany;No;PayPal;U1347;Otro;Redes Sociales;58;49;22;5;43;50;21103;7;0
+Deportes;Múnich;No;Sí;Móvil;MacOS;Germany;Sí;PayPal;U0864;Femenino;Redes Sociales;137;59;10;14;18;10;44005;0;0
+Deportes;Múnich;No;Sí;Tableta;Android;Germany;Sí;Tarjeta de Regalo;U0419;Femenino;Correo Electrónico;127;60;30;23;0;34;41119;10;0
+Deportes;Múnich;No;Sí;Tableta;Windows;Germany;Sí;Tarjeta de Regalo;U1485;Otro;Google;79;27;8;14;6;6;38537;2;25448
+Deportes;Múnich;Sí;No;Escritorio;iOS;Germany;Sí;Tarjeta de Crédito;U0948;Masculino;Correo Electrónico;137;36;19;3;0;45;22824;2;37153
+Deportes;Múnich;Sí;No;Escritorio;Linux;Germany;No;Tarjeta de Crédito;U0915;Masculino;Directo;16;55;14;10;43;49;22684;5;0
+Deportes;Múnich;Sí;No;Escritorio;MacOS;Germany;No;PayPal;U1432;Masculino;Directo;176;26;13;21;14;32;34162;4;0
+Deportes;Múnich;Sí;No;Móvil;Android;Germany;No;Criptomoneda;U0164;Femenino;Directo;148;24;20;12;8;12;13186;7;0
+Deportes;Múnich;Sí;No;Móvil;iOS;Germany;Sí;Criptomoneda;U0087;Masculino;Google;99;41;23;11;3;14;38676;5;37908
+Deportes;Múnich;Sí;No;Móvil;Linux;Germany;No;Criptomoneda;U1315;Femenino;Otro;80;36;24;17;0;14;49042;6;41963
+Deportes;Múnich;Sí;Sí;Escritorio;Windows;Germany;Sí;Tarjeta de Regalo;U0042;Otro;Redes Sociales;145;56;21;1;0;26;33618;6;56933
+Deportes;Múnich;Sí;Sí;Tableta;iOS;Germany;No;Tarjeta de Crédito;U0598;Femenino;Otro;30;53;4;21;22;33;46832;7;88333
+Deportes;Múnich;Sí;Sí;Tableta;MacOS;Germany;Sí;PayPal;U0067;Masculino;Google;69;46;19;7;0;36;35116;3;39471
+Deportes;Múnich;Sí;Sí;Tableta;MacOS;Germany;Sí;Tarjeta de Crédito;U0628;Femenino;Redes Sociales;155;19;29;6;0;7;45201;3;69529
+Deportes;Nueva York;No;No;Escritorio;Android;USA;No;Tarjeta de Crédito;U0764;Otro;Otro;6;20;11;14;0;44;3239;2;0
+Deportes;Nueva York;No;No;Escritorio;Linux;USA;No;PayPal;U1018;Masculino;Correo Electrónico;126;22;27;20;18;36;20708;1;57166
+Deportes;Nueva York;No;No;Escritorio;MacOS;USA;No;PayPal;U0524;Masculino;Google;57;61;1;11;40;36;43121;4;36085
+Deportes;Nueva York;No;No;Escritorio;MacOS;USA;Sí;PayPal;U0248;Masculino;Google;50;49;27;7;12;18;25873;4;90555
+Deportes;Nueva York;No;No;Escritorio;Windows;USA;No;Tarjeta de Crédito;U0314;Otro;Correo Electrónico;152;25;16;23;0;24;21497;0;79475
+Deportes;Nueva York;No;No;Tableta;Android;USA;No;Tarjeta de Crédito;U0578;Masculino;Directo;27;30;19;8;46;6;26123;7;1891
+Deportes;Nueva York;No;Sí;Móvil;iOS;USA;Sí;Tarjeta de Crédito;U0148;Otro;Directo;124;30;30;20;5;31;14583;6;0
+Deportes;Nueva York;Sí;No;Móvil;Android;USA;No;Criptomoneda;U1027;Otro;Correo Electrónico;14;18;5;19;0;5;3292;4;63606
+Deportes;Nueva York;Sí;No;Tableta;Linux;USA;Sí;Tarjeta de Crédito;U0224;Masculino;Otro;95;28;14;11;0;32;12677;7;55508
+Deportes;Nueva York;Sí;No;Tableta;Linux;USA;Sí;Tarjeta de Regalo;U1460;Femenino;Redes Sociales;146;64;21;3;35;5;3821;3;0
+Deportes;Nueva York;Sí;No;Tableta;Windows;USA;No;Criptomoneda;U1223;Femenino;Directo;87;60;4;12;12;1;25002;1;94735
+Deportes;Nueva York;Sí;Sí;Escritorio;Windows;USA;No;Criptomoneda;U1167;Femenino;Directo;35;53;8;5;20;16;1588;1;0
+Deportes;Nueva York;Sí;Sí;Tableta;Linux;USA;Sí;PayPal;U0814;Femenino;Correo Electrónico;38;32;2;20;0;38;44092;9;1069
+Deportes;Nueva York;Sí;Sí;Tableta;MacOS;USA;Sí;Tarjeta de Regalo;U0338;Masculino;Directo;58;22;12;8;11;15;1641;8;0
+Deportes;París;No;No;Escritorio;iOS;France;No;Tarjeta de Crédito;U1193;Masculino;Redes Sociales;107;57;17;3;0;7;25764;7;0
+Deportes;París;No;No;Móvil;Android;France;No;Criptomoneda;U0711;Otro;Google;16;45;12;16;16;8;42801;0;0
+Deportes;París;No;No;Móvil;Android;France;No;Criptomoneda;U0777;Femenino;Directo;45;62;10;16;0;44;44658;10;0
+Deportes;París;No;No;Móvil;iOS;France;No;Criptomoneda;U1480;Otro;Redes Sociales;120;58;24;4;16;1;34042;6;64892
+Deportes;París;No;No;Móvil;MacOS;France;Sí;Tarjeta de Crédito;U0594;Masculino;Google;174;52;4;3;0;47;4082;7;72679
+Deportes;París;No;Sí;Escritorio;Android;France;No;Tarjeta de Crédito;U0838;Otro;Otro;151;60;28;22;40;49;13494;0;0
+Deportes;París;No;Sí;Escritorio;MacOS;France;Sí;Tarjeta de Crédito;U0991;Femenino;Correo Electrónico;23;25;4;0;0;47;36619;5;0
+Deportes;París;No;Sí;Escritorio;MacOS;France;Sí;Tarjeta de Regalo;U0593;Otro;Redes Sociales;48;22;27;12;19;18;41973;8;0
+Deportes;París;No;Sí;Móvil;Android;France;No;Criptomoneda;U0283;Femenino;Otro;77;37;26;9;0;1;4916;7;0
+Deportes;París;Sí;No;Tableta;MacOS;France;Sí;Criptomoneda;U0154;Otro;Redes Sociales;174;54;3;6;8;13;42743;6;70053
+Deportes;París;Sí;Sí;Escritorio;Linux;France;No;Tarjeta de Crédito;U0249;Femenino;Directo;140;24;2;1;0;47;13755;0;0
+Deportes;París;Sí;Sí;Tableta;iOS;France;Sí;Criptomoneda;U1058;Otro;Otro;152;52;15;16;0;8;39856;1;83288
+Deportes;París;Sí;Sí;Tableta;MacOS;France;No;PayPal;U0941;Femenino;Otro;125;64;8;6;0;30;42828;5;25835
+Deportes;Rio de Janeiro;No;No;Escritorio;Android;Brazil;No;Tarjeta de Crédito;U0396;Masculino;Otro;29;53;21;20;2;7;17174;7;0
+Deportes;Rio de Janeiro;No;No;Escritorio;Linux;Brazil;Sí;Criptomoneda;U1271;Femenino;Google;83;51;23;3;6;18;39598;2;0
+Deportes;Rio de Janeiro;No;Sí;Escritorio;Android;Brazil;No;Tarjeta de Regalo;U0122;Otro;Otro;174;40;22;12;0;29;46916;0;0
+Deportes;Rio de Janeiro;No;Sí;Escritorio;MacOS;Brazil;No;Criptomoneda;U1499;Masculino;Directo;42;25;9;15;0;6;27371;8;0
+Deportes;Rio de Janeiro;No;Sí;Tableta;iOS;Brazil;Sí;Tarjeta de Crédito;U0805;Femenino;Redes Sociales;126;19;4;11;0;5;11447;5;59082
+Deportes;Rio de Janeiro;No;Sí;Tableta;Linux;Brazil;No;PayPal;U0829;Femenino;Directo;153;27;28;12;41;4;13403;0;21868
+Deportes;Rio de Janeiro;No;Sí;Tableta;MacOS;Brazil;No;Criptomoneda;U1142;Otro;Correo Electrónico;13;22;16;14;13;20;31641;6;0
+Deportes;Rio de Janeiro;Sí;No;Escritorio;Linux;Brazil;Sí;Tarjeta de Regalo;U0599;Femenino;Directo;158;40;22;3;0;1;34067;4;0
+Deportes;Rio de Janeiro;Sí;No;Móvil;iOS;Brazil;No;PayPal;U0648;Masculino;Redes Sociales;108;61;12;9;48;45;23438;6;0
+Deportes;Rio de Janeiro;Sí;No;Móvil;Linux;Brazil;Sí;PayPal;U1123;Femenino;Correo Electrónico;151;62;20;13;0;1;36803;10;0
+Deportes;Rio de Janeiro;Sí;No;Tableta;iOS;Brazil;No;Tarjeta de Crédito;U0106;Otro;Directo;108;25;20;23;0;20;26161;1;3089
+Deportes;Rio de Janeiro;Sí;No;Tableta;Windows;Brazil;No;PayPal;U1472;Otro;Directo;73;23;10;19;23;30;22684;2;0
+Deportes;Rio de Janeiro;Sí;Sí;Escritorio;Android;Brazil;Sí;Tarjeta de Regalo;U0466;Masculino;Google;154;43;28;21;0;2;6113;7;0
+Deportes;Rio de Janeiro;Sí;Sí;Escritorio;Windows;Brazil;No;Tarjeta de Crédito;U0236;Otro;Directo;167;26;10;5;0;11;47138;2;9356
+Deportes;Rio de Janeiro;Sí;Sí;Móvil;MacOS;Brazil;Sí;Criptomoneda;U1118;Femenino;Correo Electrónico;95;55;9;6;0;46;19283;4;83741
+Deportes;Sao Paulo;No;No;Tableta;Linux;Brazil;Sí;PayPal;U0804;Otro;Otro;180;31;17;14;32;19;29063;1;51681
+Deportes;Sao Paulo;No;Sí;Escritorio;Windows;Brazil;No;Tarjeta de Crédito;U0124;Masculino;Directo;124;54;23;11;14;17;47331;4;68055
+Deportes;Sao Paulo;No;Sí;Escritorio;Windows;Brazil;Sí;Criptomoneda;U0192;Otro;Otro;116;54;21;20;35;44;47447;1;0
+Deportes;Sao Paulo;No;Sí;Móvil;Android;Brazil;No;Tarjeta de Crédito;U0229;Otro;Correo Electrónico;130;51;28;23;3;10;10093;0;2461
+Deportes;Sao Paulo;No;Sí;Móvil;Linux;Brazil;Sí;Criptomoneda;U0619;Masculino;Correo Electrónico;146;34;6;23;12;6;4773;3;0
+Deportes;Sao Paulo;No;Sí;Móvil;MacOS;Brazil;No;Criptomoneda;U1422;Otro;Redes Sociales;127;53;27;3;0;25;23137;4;0
+Deportes;Sao Paulo;No;Sí;Tableta;iOS;Brazil;Sí;Tarjeta de Regalo;U0139;Femenino;Otro;175;43;7;10;0;38;23935;0;58272
+Deportes;Sao Paulo;No;Sí;Tableta;Windows;Brazil;No;Tarjeta de Crédito;U1074;Femenino;Directo;103;57;2;23;13;15;40894;6;0
+Deportes;Sao Paulo;Sí;No;Móvil;Linux;Brazil;Sí;Tarjeta de Crédito;U0206;Otro;Directo;22;54;20;0;10;22;14098;9;13231
+Deportes;Sao Paulo;Sí;No;Móvil;MacOS;Brazil;No;PayPal;U0096;Femenino;Google;76;42;29;16;0;22;25494;3;2348
+Deportes;Sao Paulo;Sí;Sí;Escritorio;Linux;Brazil;Sí;Tarjeta de Regalo;U0268;Masculino;Otro;113;65;2;23;30;36;24267;8;713
+Deportes;Sao Paulo;Sí;Sí;Escritorio;Windows;Brazil;Sí;PayPal;U1388;Femenino;Directo;3;23;23;18;5;3;36169;3;16971
+Deportes;Sao Paulo;Sí;Sí;Móvil;Android;Brazil;Sí;Criptomoneda;U0791;Masculino;Otro;172;29;29;1;12;12;20007;7;0
+Deportes;Sao Paulo;Sí;Sí;Móvil;Linux;Brazil;Sí;PayPal;U0973;Femenino;Google;110;57;23;13;0;4;28748;9;0
+Deportes;Sao Paulo;Sí;Sí;Tableta;Windows;Brazil;No;PayPal;U1170;Otro;Otro;122;22;22;7;0;17;33027;0;67583
+Deportes;Toronto;No;No;Escritorio;Linux;Canada;No;PayPal;U0100;Otro;Google;75;18;23;7;0;40;6988;2;0
+Deportes;Toronto;No;No;Tableta;Android;Canada;No;Tarjeta de Crédito;U0828;Otro;Google;85;34;28;21;0;13;4705;7;7514
+Deportes;Toronto;No;No;Tableta;Android;Canada;Sí;Tarjeta de Regalo;U1308;Masculino;Correo Electrónico;21;27;18;23;0;18;22997;2;0
+Deportes;Toronto;No;No;Tableta;Linux;Canada;No;Tarjeta de Crédito;U0669;Masculino;Otro;156;50;5;10;43;30;31423;8;63263
+Deportes;Toronto;No;No;Tableta;Linux;Canada;No;Tarjeta de Regalo;U0038;Femenino;Directo;67;54;5;12;0;26;24579;4;0
+Deportes;Toronto;No;Sí;Escritorio;Android;Canada;No;Tarjeta de Regalo;U0202;Otro;Google;87;29;22;14;33;26;18524;5;0
+Deportes;Toronto;No;Sí;Escritorio;iOS;Canada;Sí;Tarjeta de Regalo;U0196;Otro;Redes Sociales;32;41;23;3;18;20;5753;4;32001
+Deportes;Toronto;No;Sí;Escritorio;Windows;Canada;No;Criptomoneda;U1364;Femenino;Redes Sociales;69;62;3;9;48;23;48128;5;24151
+Deportes;Toronto;No;Sí;Tableta;MacOS;Canada;No;Tarjeta de Regalo;U1385;Otro;Correo Electrónico;169;38;8;5;39;30;12773;1;0
+Deportes;Toronto;Sí;No;Escritorio;iOS;Canada;Sí;Criptomoneda;U0735;Femenino;Redes Sociales;78;47;8;18;13;43;20967;6;12601
+Deportes;Toronto;Sí;No;Escritorio;iOS;Canada;Sí;PayPal;U0217;Femenino;Redes Sociales;147;19;13;20;19;6;18448;10;0
+Deportes;Toronto;Sí;Sí;Escritorio;Linux;Canada;No;PayPal;U1240;Otro;Otro;67;47;2;16;37;2;47078;7;0
+Deportes;Toronto;Sí;Sí;Escritorio;MacOS;Canada;No;Tarjeta de Crédito;U0312;Masculino;Redes Sociales;124;65;27;23;49;26;9198;1;0
+Deportes;Toronto;Sí;Sí;Tableta;MacOS;Canada;Sí;Tarjeta de Regalo;U0558;Femenino;Correo Electrónico;50;53;7;17;15;17;37744;5;38545
+Deportes;Vancouver;No;No;Escritorio;Linux;Canada;No;Tarjeta de Crédito;U0765;Femenino;Redes Sociales;24;40;18;10;48;17;10307;8;0
+Deportes;Vancouver;No;No;Escritorio;MacOS;Canada;Sí;Criptomoneda;U0514;Femenino;Redes Sociales;49;50;23;1;44;17;16003;4;53887
+Deportes;Vancouver;No;No;Móvil;iOS;Canada;Sí;Criptomoneda;U0371;Masculino;Correo Electrónico;145;41;10;22;0;26;32714;10;36373
+Deportes;Vancouver;No;No;Móvil;iOS;Canada;Sí;Criptomoneda;U0588;Otro;Redes Sociales;31;31;22;10;17;38;5136;5;0
+Deportes;Vancouver;No;No;Tableta;MacOS;Canada;No;PayPal;U1079;Femenino;Redes Sociales;112;40;13;11;37;16;14764;8;0
+Deportes;Vancouver;No;Sí;Móvil;iOS;Canada;Sí;Tarjeta de Regalo;U1248;Femenino;Redes Sociales;49;47;16;3;32;26;4842;9;0
+Deportes;Vancouver;No;Sí;Tableta;iOS;Canada;Sí;Tarjeta de Crédito;U1283;Otro;Directo;31;25;22;16;0;32;2146;10;0
+Deportes;Vancouver;Sí;No;Escritorio;iOS;Canada;Sí;PayPal;U1169;Femenino;Correo Electrónico;50;21;3;14;0;16;119;10;89544
+Deportes;Vancouver;Sí;No;Móvil;MacOS;Canada;No;Tarjeta de Regalo;U0045;Femenino;Redes Sociales;81;42;16;23;44;3;7062;10;0
+Deportes;Vancouver;Sí;No;Tableta;iOS;Canada;Sí;Criptomoneda;U0572;Masculino;Redes Sociales;8;47;25;3;0;43;43613;9;0
+Deportes;Vancouver;Sí;Sí;Escritorio;Android;Canada;No;Tarjeta de Crédito;U0165;Otro;Google;25;39;24;11;0;17;9925;7;0
+Deportes;Vancouver;Sí;Sí;Escritorio;iOS;Canada;No;PayPal;U0178;Masculino;Google;141;45;25;9;0;21;21794;3;0
+Deportes;Vancouver;Sí;Sí;Móvil;iOS;Canada;No;PayPal;U0972;Otro;Redes Sociales;67;48;9;13;0;39;22732;4;51174
+Deportes;Vancouver;Sí;Sí;Tableta;Android;Canada;No;Tarjeta de Crédito;U0080;Otro;Correo Electrónico;169;40;25;21;50;20;49588;0;0
+Deportes;Vancouver;Sí;Sí;Tableta;MacOS;Canada;No;Criptomoneda;U0553;Femenino;Google;169;26;21;18;0;21;29794;10;6810
